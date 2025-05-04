@@ -8,7 +8,7 @@ coverY: -166
 
 # Sampling Parameters/Generation Settings (ELI5)
 
-I'm about to oversimplify the fuck out of sampling methods and parameters, skipping over crucial math, probability distributions, and the complex ways these settings interact. This is intentional. This guide is written for beginners to grasp these concepts without getting overwhelmed by technical details. If you need the proper technical depth, or just want to see what kind of research I did before writing this, [check out my citations](other/citations/).
+I'm about to oversimplify the fuck out of sampling methods and parameters, skipping over crucial math, probability distributions, and the complex ways these settings interact. This is intentional. This guide is written for beginners to grasp these concepts without getting overwhelmed by technical details. If you need the proper technical depth, or just want to see what kind of research I did before writing this, [check out my citations](other/citations.md).
 
 <details>
 

@@ -45,8 +45,6 @@
 ## OTHER
 
 * [Archetypal Manifestations](other/archetypal-manifestations.md)
-* [Citations](other/citations/README.md)
-  * [Technical Analysis of Trait Expression Patterns in Large Language Models](other/citations/technical-analysis-of-trait-expression-patterns-in-large-language-models/README.md)
-    * [References](other/citations/technical-analysis-of-trait-expression-patterns-in-large-language-models/references.md)
+* [Citations](other/citations.md)
 * [Further Reading](other/further-reading.md)
 * [Tools](other/tools.md)

@@ -1,7 +1,7 @@
 ---
 icon: quotes
 cover: >-
-  ../../.gitbook/assets/templates_clipboard_papers_copy_paste_writing_--ar_42e3094e-839d-4c07-8c76-d703e5d4d7aa_1.png
+  ../.gitbook/assets/templates_clipboard_papers_copy_paste_writing_--ar_42e3094e-839d-4c07-8c76-d703e5d4d7aa_1.png
 coverY: 156
 layout:
   cover:
@@ -23,7 +23,7 @@ layout:
 
 1. [.trappu](https://rentry.org/TrappusRentry)'s [PList guide](https://wikia.schneedc.com/bot-creation/trappu/introduction)
 2. [absolutetrash](https://janitorai.com/profiles/5df60c0c-6382-4bf3-9e49-ea95eadcfc02_profile-of-absolutetrash)'s [bot creation guide](https://rentry.org/absolutetrashs-bot-guide#character-template-for-the-personality-section)
-3. [Technical Analysis of Trait Expression Patterns in Large Language Models](technical-analysis-of-trait-expression-patterns-in-large-language-models/)
+3. [Technical Analysis of Trait Expression Patterns in Large Language Models](broken-reference)
 4. Ashton, N. (2013, October 21). _Machine readability_. Know your Data Formats | School of Data - Evidence is Power. [https://schoolofdata.org/2013/10/21/know-your-data-formats/](https://schoolofdata.org/2013/10/21/know-your-data-formats/)
 5. Xiang, Wenxuan, et al. "Parsing and Encoding Interactive Phrase Structure for Implicit Discourse Relation Recognition." Neural Computing and Applications, vol. 36, 2024, pp. 13783-13797, [https://doi.org/10.1007/s00521-024-09709-8](https://doi.org/10.1007/s00521-024-09709-8)
 6. Holtzman, A., Buys, J., Du, L., Forbes, M., & Choi, Y. (2020). The Curious Case of Neural Text Degeneration. In International Conference on Learning Representations. [https://doi.org/10.48550/arXiv.1904.09751](https://doi.org/10.48550/arXiv.1904.09751)
