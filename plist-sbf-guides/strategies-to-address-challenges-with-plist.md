@@ -187,7 +187,7 @@ Before you start writing, ask yourself:
 * **Should the dialogue feel like a story?**\
   &#xNAN;_(Think traditional novel style, with full narration and flowing conversations.)_
 * **Or should it feel like a script?**\
-  &#xNAN;_(Similar to a light novel or visual novel, with names in front of each line.)_
+  &#xNAN;_(Similar to a screenplay, light novel, or visual novel with names in front of each line.)_
 * **Do you want the AI to handle the world and multiple characters at once?**\
   &#xNAN;_(For example, keeping track of shifting emotions, locations, and who’s speaking.)_
 
@@ -337,6 +337,84 @@ You can also include multiple Example Dialogs, formatted like so:
 > <mark style="color:green;">\<START></mark>\ <mark style="color:green;">\{{char\}}:</mark><mark style="color:orange;">"Need help carrying those books, desu?"</mark> Shizuka called out, skipping over to the struggling first-year students. <mark style="color:orange;">"I may be small, but I'm stronger than I look, desu! Plus I know alllll the shortcuts around campus, desu!"</mark>
 >
 > <mark style="color:green;">\<START></mark>\ <mark style="color:green;">\{{char\}}:</mark><mark style="color:orange;">"Positive-positive, desu!"</mark> Shizuka chirped, already scooping up half the stack. <mark style="color:orange;">"Consider it your senpai's duty! Though um..."</mark> She shifted the books to peek around the first-year students. <mark style="color:orange;">"Maybe you can make sure I don't bump into anything? Depth perception isn't my strong point, desu."</mark>
+
+<figure><img src="../.gitbook/assets/coffin_chaser_TWO_PEOPLE_IN_AN_INTERVIEW_SPEECH_BUBBLES_DIALO_36e436d7-514a-4c6a-b458-4bec6b47d833_0.png" alt=""><figcaption></figcaption></figure>
+
+### Interview(er) Style & Why You Should Use It
+
+Interview-style character sheets match how LLMs are actually built to think. Using Q\&A format helps the model stay on track, keeps characters consistent, and gives you better results.
+
+#### 1. (Some) LLMs Love Conversations
+
+Most LLMs are trained to understand conversations.  It's easier for the model to work with than a long paragraph of traditional prose. You're essentially speaking the model's "native language" because they've been trained on **millions of examples** of things like:
+
+* Questions and answers (e.g., "What’s your name?" → "I’m Alex.")
+* Online chats and forum replies
+* Movie scripts, interviews, and instructions
+
+> **Example:**\
+> **Q:** What's your biggest fear?\
+> **A:** Losing control. I always need to be one step ahead.
+
+#### 2. Clear Questions Help the AI Stay Focused
+
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><p>Every answer has a clear "anchor" and a question that tells the AI exactly what kind of answer to give.</p><p></p><p>This makes the AI less likely to go off-topic or misunderstand what you want.</p></td><td><p><strong>Example:</strong></p><p><strong>Q:</strong> What scares you the most?<br><strong>A</strong>: Losing control. Chaos is my enemy."</p></td><td><a href="../.gitbook/assets/prose.png">prose.png</a></td></tr><tr><td>Dense blocks of internal monologue or stylized prose can lead to ambiguity drift when used with models that haven't been fine-tuned on prose or storytelling text.</td><td><p><strong>Example:</strong></p><p>"Though he rarely admits it, there's a deep fear buried under his calm exterior—something about losing his grip on the plan."</p></td><td><a href="../.gitbook/assets/prose (1).png">prose (1).png</a></td></tr></tbody></table>
+
+#### 3. It Keeps the Character's Voice Strong and Consistent
+
+When each answer stands on its own, it’s easier for the AI to learn how the character talks and thinks.
+
+* Structured dialogue = easier to repeat patterns
+* Less guesswork = fewer weird or out-of-character replies
+
+#### Interview Style vs Traditional Prose
+
+|                                         | Q\&A (Interview Style)                 | Traditional Prose                                                                    |
+| --------------------------------------- | -------------------------------------- | ------------------------------------------------------------------------------------ |
+| **Works well with AI?**                 | Yes – matches training data            | Sometimes – depends on how it's written                                              |
+| **Character voice?**                    | Clear and easy to reinforce            | Can be strong but harder for AI to follow                                            |
+| **Easy to edit?**                       | Yes – just tweak one answer            | Harder – changes ripple through the story                                            |
+| **Immersive?**                          | Functional, less atmospheric           | Very immersive when done well                                                        |
+| **Best for...?**                        | Roleplay, prompts, chatbot characters  | Stories, lore, emotional depth                                                       |
+| **Hallucination (AI making stuff up)?** | Low – clear questions reduce guesswork | Higher – prose invites narrative extrapolation, which could lead to inference errors |
+
+<figure><img src="../.gitbook/assets/coffin_chaser_TWO_PEOPLE_IN_AN_INTERVIEW_camera_crew_boom_pol_7c82fc32-b527-45e8-b896-f9d8f563c0aa_1.png" alt=""><figcaption></figcaption></figure>
+
+Okay, now that we've laid the groundwork, let's see Interviewer style in action.
+
+> **INTERVIEWER:** So Erik, tell us about yourself.
+>
+> **ERIK:** _(long pause, jaw tightening)_ Fuck off.
+>
+> _\[Camera holds on Erik's unblinking stare for an uncomfortable five seconds]_
+>
+> **INTERVIEWER:** And how long have you been working at La Cuevita?
+>
+> **ERIK:** _(shrugs)_ Years.
+>
+> **INTERVIEWER:** Could you be more specific?
+>
+> **ERIK:** _(narrowed eyes)_ No.
+
+Simple, right? But wait, it gets even better when you leverage both an interviewer and NPCs! Plus it serves as a nice capstone to the ~~fuckload~~ of information I've compiled so far.
+
+> _\[Cut to Jim-style talking head of a regular bar patron]_
+>
+> **BAR PATRON:** Oh, Erik? Yeah, he's terrifying. Just looks at you and you basically apologize for things you haven't even done yet. Once saw him break up a fight between two werewolves without even saying a word. Just... stood there. _(nervous laugh)_ But my buddy swears he saw him coming out of an art store. I think he was drunk though.
+>
+> _\[Cut to Pam-style talking head of Erik's mother, Leticia]_
+>
+> **LETICIA:** _(warm smile)_ My Erik has always been sensitive. Even as a little boy. Such a beautiful artist. Those paintings he makes? Like looking at feelings. He doesn't like me telling people that though. _(lowers voice)_ He thinks it makes him seem soft. _(normal voice)_ But a mother knows her son's heart.
+>
+> _\[Michael Scott-style talking head of the bar manager]_
+>
+> **MANAGER:** Erik? Oh yeah, best employee I've got. Hasn't smiled once in five years. _(grins proudly)_ But you know what they say, still waters run deep. Or is it "beware of the quiet ones"? _(thoughtful pause)_ Either way, I'm pretty sure he could kill a man with his pinky finger, but he helps old ladies across the street on his lunch break. Don't tell him I told you that though. I value my limbs.
+>
+> _\[Final shot: Erik at his post, noticing the camera, narrowing his eyes until the camera quickly pans away]_
+>
+> **END INTERVIEW**
+
+<figure><img src="../.gitbook/assets/coffin_chaser_TWO_PEOPLE_IN_AN_INTERVIEW_SPEECH_BUBBLES_DIALO_39f90dc6-e9b6-4563-85c0-36694980f1c9_0.png" alt=""><figcaption></figcaption></figure>
 
 ## Tips
 

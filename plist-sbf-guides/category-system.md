@@ -82,9 +82,9 @@ It's the battle of `NAME: John` vs `Name: John`
 
 **Bottom Line**
 
-* Use `NAME: John` if you want computers to read it easily.
-* Use `Name: John` if you want people and AI to read it easily.&#x20;
+* Use `NAME: John` if you want people to read it easily.
+* Use `Name: John` if you want people _**and**_ AI to read it easily.&#x20;
 
-It's all personal preference! Pick whatever you like looking at the best.
+It's all personal preference. Pick whatever you like looking at the best.
 
 </details>

@@ -251,7 +251,7 @@ Upon testing with various 7B Q6 locally hosted models, I've found a combination 
 - Likes: 
 - Dislikes:
 - Hobbies: 
-- Kinks: ;
+- Kinks: 
 - Behavior During Sex: 
 - Penis Description: 
 - Balls Description: 
