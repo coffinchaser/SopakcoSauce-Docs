@@ -33,6 +33,10 @@
 
 * [Sampling Parameters/Generation Settings (ELI5)](sampling-parameters-generation-settings-eli5.md)
 
+## Image Generation Guides
+
+* [Parameters](image-generation-guides/parameters.md)
+
 ## OTHER
 
 * [Citations](other/citations/README.md)
@@ -40,7 +44,3 @@
     * [References](other/citations/technical-analysis-of-trait-expression-patterns-in-large-language-models/references.md)
 * [Further Reading](other/further-reading.md)
 * [Tools](other/tools.md)
-
-## Group 1
-
-* [Page 1](group-1/page-1.md)
