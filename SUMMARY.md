@@ -32,10 +32,15 @@
 ***
 
 * [Sampling Parameters/Generation Settings (ELI5)](sampling-parameters-generation-settings-eli5.md)
+* [Instruct Templates](instruct-templates.md)
 
 ## Image Generation Guides
 
 * [Parameters](group-1/page-1.md)
+
+***
+
+* [Negative Prompting](negative-prompting.md)
 
 ## OTHER
 
