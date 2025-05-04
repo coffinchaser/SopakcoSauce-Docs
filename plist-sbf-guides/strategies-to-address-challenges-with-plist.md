@@ -1,7 +1,7 @@
 ---
 icon: thought-bubble
 cover: >-
-  ../.gitbook/assets/19saltines_smart_intelligent_strategies_strategic_plans_plann_ba4925ed-66a9-4b32-b2be-72e9c1503c1c_2.png
+  ../.gitbook/assets/smart_intelligent_strategies_strategic_plans_plann_ba4925ed-66a9-4b32-b2be-72e9c1503c1c_2.png
 coverY: 143
 layout:
   cover:
@@ -116,7 +116,7 @@ Since this is a First Message, I'll work with the inclusion of \{{user\}} in thi
 
 ✅ **Fix:** Use atmospheric description and let \{{char\}} take the lead in the scene. Keep \{{user\}} neutral, so it's easier for your audience to insert themselves in the role.
 
-<figure><img src="../.gitbook/assets/19saltines_chatty_girl_empty_many_dialog_bubbles_surrounding__e7f17e7f-5f8e-486b-bc7f-e410ee51c0a4_0.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/chatty_girl_empty_many_dialog_bubbles_surrounding__e7f17e7f-5f8e-486b-bc7f-e410ee51c0a4_0.png" alt=""><figcaption></figcaption></figure>
 
 ## Best Practices
 
@@ -176,7 +176,7 @@ Example using **Rocky Mountain accent**:
 
 > "Shut the fuck up, Bubba," Honky shot back, fighting to keep the smirk off his face. "You think just 'cause you're a tall drink of water, you're hot shit? Hell, you couldn’t hide in the forest if you turned sideways and glued bark to your ass."
 
-<figure><img src="../.gitbook/assets/19saltines_group_discussion_many_empty_dialog_bubbles_surroun_20571d53-b7a5-48fa-bd4c-688b662b29d2_0.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/group_discussion_many_empty_dialog_bubbles_surroun_20571d53-b7a5-48fa-bd4c-688b662b29d2_0.png" alt=""><figcaption></figcaption></figure>
 
 ## Multiple Character Interactions
 
@@ -201,7 +201,7 @@ This kind of complexity works best with more advanced models. If you're using a 
 >
 > <mark style="color:orange;">"Mou, that only happened twice!"</mark> Bobo puffed out her cheeks. <mark style="color:orange;">"...Maybe three times. But fourth time's the charm!"</mark>
 
-<figure><img src="../.gitbook/assets/19saltines_stories_story_books_books_roleplayers_dices_table__4fdbdd11-7d94-487c-8313-972e17e5487e_3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/stories_story_books_books_roleplayers_dices_table__4fdbdd11-7d94-487c-8313-972e17e5487e_3 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Example Dialogs
 
@@ -308,7 +308,7 @@ When creating an **Example Dialog**, you replicate this format. However, you mus
 {% endtab %}
 {% endtabs %}
 
-<figure><img src="../.gitbook/assets/19saltines_chatty_girl_empty_many_dialog_bubbles_surrounding__e7f17e7f-5f8e-486b-bc7f-e410ee51c0a4_3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/chatty_girl_empty_many_dialog_bubbles_surrounding__e7f17e7f-5f8e-486b-bc7f-e410ee51c0a4_3.png" alt=""><figcaption></figcaption></figure>
 
 > <mark style="color:green;">\<START></mark>\ <mark style="color:green;">\{{char\}}:</mark> Mimi stared at the failed experiment, shoulders slumping as the liquid turned murky brown instead of the crystal blue it was supposed to be. Her usual <mark style="color:orange;">"ehehe\~"</mark> died in her throat. Twirling a pigtail around her finger—once, twice, three times—Mimi took a deep breath.\
 > \

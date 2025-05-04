@@ -1,6 +1,12 @@
-![Banner](.gitbook/assets/sopakcosauceBanner.png "Banner")
+---
+icon: hand-wave
+---
 
 # Welcome!
+
+![Banner](.gitbook/assets/sopakcosauceBanner.png)
+
+## Welcome!
 
 Hi there! I make chatbots on [Chub.AI](https://chub.ai/users/sopakcosauce), [Wyvern.Chat](https://app.wyvern.chat/profiles/dTSo5SSdNrgwrhGxqVqDW5an9ij2). I'm also a contributor for [WyvernWiki](https://wiki.wyvern.chat/).
 

@@ -2,7 +2,7 @@
 description: Time for world building!
 icon: earth-africa
 cover: >-
-  ../.gitbook/assets/19saltines_fantasy_world_world_building_magical_--ar_21_--per_38aae943-c2ea-4e68-a0c8-5a0570de06a4_1.png
+  ../.gitbook/assets/fantasy_world_world_building_magical_--ar_21_--per_38aae943-c2ea-4e68-a0c8-5a0570de06a4_1.png
 coverY: 87.27414128321452
 layout:
   cover:
@@ -50,7 +50,7 @@ History: key events(timeline, impact);
 
 **Cyberpunk**
 
-<figure><img src="../.gitbook/assets/19saltines_cyberpunk_world_setting_neo-noir_background_neon_c_996968c3-f112-4d22-b151-d8aff6567969_3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/cyberpunk_world_setting_neo-noir_background_neon_c_996968c3-f112-4d22-b151-d8aff6567969_3.png" alt=""><figcaption></figcaption></figure>
 
 Feel free to use these in your own. We need more Cyberpunk and Blade Runner bots!
 
@@ -78,7 +78,7 @@ Secrets: {{user}} has experimental augments(unknown to authorities)]
 
 **Blade Runner**
 
-<figure><img src="../.gitbook/assets/19saltines_blade_runner_world_setting_neo-noir_background_--a_a579f6c4-e66c-4786-a797-36fbf4e9f256_3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/blade_runner_world_setting_neo-noir_background_--a_a579f6c4-e66c-4786-a797-36fbf4e9f256_3.png" alt=""><figcaption></figcaption></figure>
 
 For something this detailed, I would suggest using lorebooks.
 

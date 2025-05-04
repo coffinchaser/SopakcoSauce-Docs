@@ -1,7 +1,7 @@
 ---
 icon: quotes
 cover: >-
-  ../../.gitbook/assets/19saltines_templates_clipboard_papers_copy_paste_writing_--ar_42e3094e-839d-4c07-8c76-d703e5d4d7aa_1.png
+  ../../.gitbook/assets/templates_clipboard_papers_copy_paste_writing_--ar_42e3094e-839d-4c07-8c76-d703e5d4d7aa_1.png
 coverY: 156
 layout:
   cover:

@@ -1,6 +1,6 @@
 ---
 cover: >-
-  ../../../.gitbook/assets/19saltines_templates_clipboard_papers_copy_paste_writing_writ_d5bd7fb8-98ae-4321-a53a-1074844994ed_3.png
+  ../../../.gitbook/assets/templates_clipboard_papers_copy_paste_writing_writ_d5bd7fb8-98ae-4321-a53a-1074844994ed_3.png
 coverY: 15
 layout:
   cover:

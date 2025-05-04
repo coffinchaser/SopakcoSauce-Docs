@@ -1,7 +1,7 @@
 ---
 icon: graduation-cap
 cover: >-
-  ../.gitbook/assets/19saltines_categories_book_system_organization_--ar_169_--per_58620b85-e6bf-4b87-920c-ff81c82f105a_3.png
+  ../.gitbook/assets/categories_book_system_organization_--ar_169_--per_58620b85-e6bf-4b87-920c-ff81c82f105a_3.png
 coverY: 27
 layout:
   cover:
@@ -48,7 +48,7 @@ layout:
 
 
 
-<figure><img src="../.gitbook/assets/19saltines_chubby_blue_color_palette_nerd_glasses_computers_-_769fdfa8-3fc3-4aef-ba5a-675c0fa57560_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/blue_color_palette_nerd_glasses_computers_-_769fdfa8-3fc3-4aef-ba5a-675c0fa57560_1.png" alt=""><figcaption></figcaption></figure>
 
 ## AI Image Generation Guides
 

@@ -1,7 +1,7 @@
 ---
 icon: toolbox
 cover: >-
-  ../.gitbook/assets/19saltines_tools_utility_workshop_mechanic_--ar_21_--personal_a47f197c-2c62-443e-b5ac-75c1aa72f2c7_0.png
+  ../.gitbook/assets/tools_utility_workshop_mechanic_--ar_21_--personal_a47f197c-2c62-443e-b5ac-75c1aa72f2c7_0.png
 coverY: 121
 layout:
   cover:

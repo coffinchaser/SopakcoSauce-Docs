@@ -1,7 +1,7 @@
 ---
 icon: head-side-brain
 cover: >-
-  ../.gitbook/assets/19saltines_dramatic_expressions_over_dramatic_multiple_faces__d16f8b58-a185-4631-86c0-ae4309b51969_0.png
+  ../.gitbook/assets/dramatic_expressions_over_dramatic_multiple_faces__d16f8b58-a185-4631-86c0-ae4309b51969_0.png
 coverY: 242
 layout:
   cover:

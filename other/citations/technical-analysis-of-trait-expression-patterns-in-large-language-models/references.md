@@ -1,6 +1,6 @@
 ---
 cover: >-
-  ../../../.gitbook/assets/19saltines_girl_writing_on_checklist_clipboard_supervisor_--a_b477d1b9-094f-432f-8cea-bc678cddd070_2.png
+  ../../../.gitbook/assets/girl_writing_on_checklist_clipboard_supervisor_--a_b477d1b9-094f-432f-8cea-bc678cddd070_2.png
 coverY: -166
 layout:
   cover:

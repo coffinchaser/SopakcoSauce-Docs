@@ -1,7 +1,7 @@
 ---
 icon: award-simple
 cover: >-
-  ../.gitbook/assets/19saltines_robots_gears_artificial_intelligence_processors_--_2dc4bd92-f06c-4b12-8713-bf781b3eb0e6_0.png
+  .gitbook/assets/robots_gears_artificial_intelligence_processors_--_2dc4bd92-f06c-4b12-8713-bf781b3eb0e6_0.png
 coverY: 181
 layout:
   cover:

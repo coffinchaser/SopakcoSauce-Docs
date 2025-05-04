@@ -1,37 +1,46 @@
 # Table of contents
 
 * [Welcome!](README.md)
-  * [What's a PList/SBF](readme/whats-a-plist-sbf.md)
-  * [PList/SBF vs. Natural Language](readme/plist-sbf-vs.-natural-language.md)
-  * [Templates](readme/templates.md)
 
-## Basic
+## PList/SBF Guides
 
-* [Core Concepts](basic/core-concepts.md)
-* [Machine Readability](basic/machine-readability.md)
-* [Category System](basic/category-system.md)
-* [Character Definition](basic/templates.md)
-* [Scenario](basic/scenario.md)
-* [Overemphasized Traits](basic/overemphasized-traits.md)
-* [Strategies to Address Challenges with PList](basic/strategies-to-address-challenges-with-plist.md)
-* [Sampling Parameters/Generation Settings (ELI5)](basic/sampling-parameters-generation-settings-eli5.md)
+* [What's a PList/SBF](plist-sbf-guides/whats-a-plist-sbf.md)
+* [Core Concepts](plist-sbf-guides/core-concepts.md)
+* [PList/SBF vs. Natural Language](plist-sbf-guides/plist-sbf-vs.-natural-language.md)
+* [Templates](plist-sbf-guides/templates.md)
+* [Category System](plist-sbf-guides/category-system.md)
+* [Character Definition](plist-sbf-guides/templates-1.md)
+* [Scenario](plist-sbf-guides/scenario.md)
+* [Overemphasized Traits](plist-sbf-guides/overemphasized-traits.md)
+* [Strategies to Address Challenges with PList](plist-sbf-guides/strategies-to-address-challenges-with-plist.md)
+* [Machine Readability](plist-sbf-guides/machine-readability.md)
 
-## Hell's Kitchen
+***
 
-* [Character Depth (On A Budget)](hells-kitchen/character-depth-on-a-budget.md)
-* [Token Efficiency](hells-kitchen/token-efficiency.md)
-* [Multiple Characters](hells-kitchen/multiple-characters.md)
-* [Personality Switching](hells-kitchen/personality-switching.md)
-* [Narrative Styles](hells-kitchen/narrative-styles.md)
-* [Advanced Techniques](hells-kitchen/advanced-techniques.md)
-* [Master Categories](hells-kitchen/master-categories.md)
-* [Complete Character Examples](hells-kitchen/complete-character-examples.md)
+* [Character Depth (On A Budget)](character-depth-on-a-budget.md)
+* [Token Efficiency](token-efficiency.md)
+* [Multiple Characters](multiple-characters.md)
+* [Personality Switching](personality-switching.md)
+* [Narrative Styles](narrative-styles.md)
+* [Advanced Techniques](advanced-techniques.md)
+* [Master Categories](master-categories.md)
+* [Complete Character Examples](complete-character-examples.md)
+* [Final Checklist](final-checklist.md)
+
+## General Guides
+
+***
+
+* [Sampling Parameters/Generation Settings (ELI5)](sampling-parameters-generation-settings-eli5.md)
 
 ## OTHER
 
-* [Final Checklist](other/final-checklist.md)
 * [Citations](other/citations/README.md)
   * [Technical Analysis of Trait Expression Patterns in Large Language Models](other/citations/technical-analysis-of-trait-expression-patterns-in-large-language-models/README.md)
     * [References](other/citations/technical-analysis-of-trait-expression-patterns-in-large-language-models/references.md)
 * [Further Reading](other/further-reading.md)
 * [Tools](other/tools.md)
+
+## Group 1
+
+* [Page 1](group-1/page-1.md)

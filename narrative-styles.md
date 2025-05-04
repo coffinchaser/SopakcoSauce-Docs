@@ -1,7 +1,7 @@
 ---
 icon: microphone-stand
 cover: >-
-  ../.gitbook/assets/19saltines_smart_intelligent_strategies_strategic_plans_plann_ba4925ed-66a9-4b32-b2be-72e9c1503c1c_3.png
+  .gitbook/assets/smart_intelligent_strategies_strategic_plans_plann_ba4925ed-66a9-4b32-b2be-72e9c1503c1c_3.png
 coverY: 0
 layout:
   cover:
@@ -32,7 +32,7 @@ How to use (pick just one):
    * Custom/Advanced Prompts
    * Chat Memory
 
-<figure><img src="../.gitbook/assets/19saltines_man_telling_a_story_storyteller_narrator_many_empt_571f9dfe-03f6-46a1-84da-c2c800a50f0e_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/man_telling_a_story_storyteller_narrator_many_empt_571f9dfe-03f6-46a1-84da-c2c800a50f0e_1.png" alt=""><figcaption></figcaption></figure>
 
 ### Novelistic (337 tokens)
 
@@ -83,7 +83,7 @@ You are a narrative AI tasked with creating an immersive, third-person roleplay 
 
 ## Examples
 
-<figure><img src="../.gitbook/assets/19saltines_group_discussion_many_empty_dialog_bubbles_surroun_fc079263-f46b-42be-a552-5316d85d6304_0.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/group_discussion_many_empty_dialog_bubbles_surroun_fc079263-f46b-42be-a552-5316d85d6304_0.png" alt=""><figcaption></figcaption></figure>
 
 ### **Novelistic**
 

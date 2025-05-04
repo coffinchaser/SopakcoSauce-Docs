@@ -1,7 +1,7 @@
 ---
 icon: question
 cover: >-
-  ../.gitbook/assets/19saltines_beginner_confused_novice_scratching_head_reading_d_e5648422-cabd-41aa-b491-d803016041ce_0.png
+  ../.gitbook/assets/beginner_confused_novice_scratching_head_reading_d_e5648422-cabd-41aa-b491-d803016041ce_0.png
 coverY: 117
 layout:
   cover:
@@ -42,7 +42,7 @@ We can reformat it to this and only use **93 tokens**:
 * How they interact with users
 * Their background story
 
-<figure><img src="../.gitbook/assets/19saltines_beginner_confused_novice_scratching_head_reading_d_e5648422-cabd-41aa-b491-d803016041ce_0.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/beginner_confused_novice_scratching_head_reading_d_e5648422-cabd-41aa-b491-d803016041ce_0.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **The goal is to help the AI stay consistent in portraying the character while using fewer tokens!**

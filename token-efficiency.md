@@ -1,7 +1,7 @@
 ---
 icon: coins
 cover: >-
-  ../.gitbook/assets/19saltines_smart_intelligent_strategies_strategic_plans_plann_ba4925ed-66a9-4b32-b2be-72e9c1503c1c_1.png
+  .gitbook/assets/smart_intelligent_strategies_strategic_plans_plann_ba4925ed-66a9-4b32-b2be-72e9c1503c1c_1.png
 coverY: 107
 layout:
   cover:
@@ -61,7 +61,7 @@ Relationships: emotionally unavailable with family(fear of vulnerability, trust 
 ```
 {% endcode %}
 
-<figure><img src="../.gitbook/assets/19saltines_smart_intelligent_strategies_strategic_plans_plann_ba4925ed-66a9-4b32-b2be-72e9c1503c1c_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/smart_intelligent_strategies_strategic_plans_plann_ba4925ed-66a9-4b32-b2be-72e9c1503c1c_1.png" alt=""><figcaption></figcaption></figure>
 
 ### TL;DR
 

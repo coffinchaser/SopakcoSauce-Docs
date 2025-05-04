@@ -2,7 +2,7 @@
 description: For bots that embody multiple characters.
 icon: people-group
 cover: >-
-  ../.gitbook/assets/19saltines_group_of_5_people_flat_character_icons_dark_backgr_64c0e540-5c7c-46f8-8fe5-82ea7e9610ec_2.png
+  .gitbook/assets/group_of_5_people_flat_character_icons_dark_backgr_64c0e540-5c7c-46f8-8fe5-82ea7e9610ec_2.png
 coverY: 221
 layout:
   cover:
@@ -41,7 +41,7 @@ Think of tokens like LEGO pieces that make up words. Just like how "butterfly" c
 
 ## Token Budgeting
 
-<figure><img src="../.gitbook/assets/coffin_chaser_accounting_budgeting_counting_pennies_money_cou_c47ea968-bf6f-4a9f-a6a6-1c9b62e03996_2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/coffin_chaser_accounting_budgeting_counting_pennies_money_cou_c47ea968-bf6f-4a9f-a6a6-1c9b62e03996_2 (1).png" alt=""><figcaption></figcaption></figure>
 
 This is an extremely conservative approach to token budgeting. A good rule of thumb is to keep your permanent tokens under 2,000, so that's what I'll be demonstrating.
 
@@ -75,11 +75,11 @@ This is an extremely conservative approach to token budgeting. A good rule of th
 * Basic behavior limits (OOC prevention)
 * Minimum viable backstory
 
-## [Count Your Tokens!](../other/tools.md)
+## [Count Your Tokens!](other/tools.md)
 
 ## Explicit Mapping
 
-<figure><img src="../.gitbook/assets/coffin_chaser_maps_on_a_wall_compass_red_ink_marking_up_the_m_055ccefc-797c-46cb-a3c0-d85063824d8d_2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/coffin_chaser_maps_on_a_wall_compass_red_ink_marking_up_the_m_055ccefc-797c-46cb-a3c0-d85063824d8d_2.png" alt=""><figcaption></figcaption></figure>
 
 It’s important to clearly define who `{{char}}` refers to, and defining it right at the top of your bot’s description because JLLM reads bot description **top to bottom**. Without this kind of **explicit mapping**, the model can easily get confused, especially when multiple characters are involved.
 
@@ -91,7 +91,7 @@ If you name your bot “Dream Team,” then `{{char}}` becomes **Dream Team** in
 
 This tells the model: _"Hey, when I say `{{char}}/Dream Team`, I’m talking about Mira, Alex, and Sara.”_
 
-<figure><img src="../.gitbook/assets/19saltines_smart_intelligent_strategies_strategic_plans_plann_f59fc6df-5eab-46d0-8010-939b14a3d006_3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/smart_intelligent_strategies_strategic_plans_plann_f59fc6df-5eab-46d0-8010-939b14a3d006_3.png" alt=""><figcaption></figcaption></figure>
 
 ## Main Character Template (150 tokens) <a href="#multichar-primary-template" id="multichar-primary-template"></a>
 
@@ -114,7 +114,7 @@ Core: essential trait(expression, source)]
 >
 > \[<mark style="color:orange;">Name:</mark> Mira Chen; <mark style="color:orange;">Aliases:</mark> Mira, Mimi; <mark style="color:orange;">Role:</mark> negotiator(crisis resolution, trauma expert); <mark style="color:orange;">Personality:</mark> controlled(calm surface, inner tension), analytical(reads others, guards self); <mark style="color:orange;">Speech:</mark> measured(paces words, maintains authority), adaptive(mirrors others, builds rapport); <mark style="color:orange;">Flaws:</mark> hypervigilant(scans exits, childhood trauma), walls(professional distance, fear loss); <mark style="color:orange;">Team Dynamic:</mark> strategic care(builds trust, maintains boundaries), teaching(guides growth, seeks control); <mark style="color:orange;">Backstory:</mark> sister lost(shaped career, helps others), reputation earned(expert status, proves worth); <mark style="color:orange;">Quirks:</mark> finger touching(anxiety spike, grounds self), tea ritual(preparation, mindfulness); <mark style="color:orange;">Core:</mark> protector(shields others, couldn't save sister)]
 
-<figure><img src="../.gitbook/assets/19saltines_group_of_5_people_flat_character_icons_dark_backgr_64c0e540-5c7c-46f8-8fe5-82ea7e9610ec_0-Photoroom (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/group_of_5_people_flat_character_icons_dark_backgr_64c0e540-5c7c-46f8-8fe5-82ea7e9610ec_0-Photoroom (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Side Character Templates (125 tokens) <a href="#multichar-side-template" id="multichar-side-template"></a>
 
@@ -136,7 +136,7 @@ Quirks: main habit(trigger, meaning)
 >
 > \[<mark style="color:orange;">Name:</mark> Sara Torres; <mark style="color:orange;">Role:</mark> tactical expert(field operations); <mark style="color:orange;">Personality:</mark> confident(quick action, hides doubts), protective(team safety, past losses); <mark style="color:orange;">Speech:</mark> concise(clear orders, time-critical); <mark style="color:orange;">Flaws:</mark> risk taker(proves worth, survivor guilt, secretly insecure); <mark style="color:orange;">Team Dynamic:</mark> mentor(builds strength, needs purpose); <mark style="color:orange;">Backstory:</mark> team lost(sole survivor, drives protection); <mark style="color:orange;">Quirks:</mark> equipment check(readiness ritual, control need)]
 
-<figure><img src="../.gitbook/assets/19saltines_dungeon_and_dragons_party_group_of_fantasy_charact_4bbc7f60-4974-4145-838d-45cdb0bb9f6d_0.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/dungeon_and_dragons_party_group_of_fantasy_charact_4bbc7f60-4974-4145-838d-45cdb0bb9f6d_0.png" alt=""><figcaption></figcaption></figure>
 
 ## 3+ Side Characters/Party Template (200-300 tokens) <a href="#id-3sidechar-template" id="id-3sidechar-template"></a>
 
@@ -191,7 +191,7 @@ Generic D\&D Party (280 tokens)
 
 ## TL;DR
 
-<figure><img src="../.gitbook/assets/coffin_chaser_maps_on_a_wall_compass_red_ink_marking_up_the_m_d9e52a96-2bc9-4eb4-8b55-e51d463b9d79_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/coffin_chaser_maps_on_a_wall_compass_red_ink_marking_up_the_m_d9e52a96-2bc9-4eb4-8b55-e51d463b9d79_1.png" alt=""><figcaption></figcaption></figure>
 
 * Always map `{{char}}` of your bot's description
 * Use character names (not `{{char}}`) inside bios to avoid confusion

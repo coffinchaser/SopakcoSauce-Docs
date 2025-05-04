@@ -1,7 +1,7 @@
 ---
 icon: rectangle-history
 cover: >-
-  ../.gitbook/assets/19saltines_categories_book_system_organization_--ar_169_--per_58620b85-e6bf-4b87-920c-ff81c82f105a_2.png
+  .gitbook/assets/categories_book_system_organization_--ar_169_--per_58620b85-e6bf-4b87-920c-ff81c82f105a_2.png
 coverY: -138
 layout:
   cover:
@@ -45,7 +45,7 @@ Private: home office(focus mode(organizes space, minimizes distractions)), perso
 
 ## **Examples**
 
-<figure><img src="../.gitbook/assets/19saltines_man_telling_a_story_storyteller_narrator_many_empt_571f9dfe-03f6-46a1-84da-c2c800a50f0e_3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/man_telling_a_story_storyteller_narrator_many_empt_571f9dfe-03f6-46a1-84da-c2c800a50f0e_3.png" alt=""><figcaption></figcaption></figure>
 
 1. Single Character:
 
@@ -105,7 +105,7 @@ Leader: Alex(de facto, assumed role);
 * Setting up scenes
 * Showing connections
 
-<figure><img src="../.gitbook/assets/19saltines_categories_book_system_organization_--ar_169_--per_58620b85-e6bf-4b87-920c-ff81c82f105a_2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/categories_book_system_organization_--ar_169_--per_58620b85-e6bf-4b87-920c-ff81c82f105a_2.png" alt=""><figcaption></figcaption></figure>
 
 ## Troubleshooting
 

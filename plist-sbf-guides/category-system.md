@@ -1,7 +1,7 @@
 ---
 icon: list-ol
 cover: >-
-  ../.gitbook/assets/19saltines_categories_book_system_organization_--ar_169_--per_3495fff7-a89b-4c70-8605-98c1053fb3df_1.png
+  ../.gitbook/assets/categories_book_system_organization_--ar_169_--per_3495fff7-a89b-4c70-8605-98c1053fb3df_1.png
 coverY: 181
 layout:
   cover:
@@ -28,7 +28,7 @@ layout:
 * **Personality**: Personality, Habits, Flaws, Quirks
 * **Background**: Occupation, Hobbies, Likes, Dislikes
 
-<figure><img src="../.gitbook/assets/19saltines_categories_book_system_organization_--ar_169_--per_3495fff7-a89b-4c70-8605-98c1053fb3df_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/categories_book_system_organization_--ar_169_--per_3495fff7-a89b-4c70-8605-98c1053fb3df_1.png" alt=""><figcaption></figcaption></figure>
 
 ## NSFW
 
@@ -40,7 +40,7 @@ If you enjoy slow-burn romance/clean RP, consider leaving these details out.
 * Behavior During Sex
 * Genitalia
 
-<figure><img src="../.gitbook/assets/19saltines_dramatic_expressions_over_dramatic_psychotic_evil__d4bb6472-71e4-4d14-9e27-15e3fcecb837_3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/dramatic_expressions_over_dramatic_psychotic_evil__d4bb6472-71e4-4d14-9e27-15e3fcecb837_3.png" alt=""><figcaption></figcaption></figure>
 
 ### **Difference Between Kinks & Behavior During Sex**
 

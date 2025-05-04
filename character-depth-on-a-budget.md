@@ -1,7 +1,7 @@
 ---
 icon: pipe-smoking
 cover: >-
-  ../.gitbook/assets/19saltines_deep_sea_depth_cinematic_person_drowning_--ar_21_-_384ccebc-4319-4f08-8250-8d8921772f54_1.png
+  .gitbook/assets/deep_sea_depth_cinematic_person_drowning_--ar_21_-_384ccebc-4319-4f08-8250-8d8921772f54_1.png
 coverY: 39
 layout:
   cover:
@@ -44,7 +44,7 @@ Tight budget ≠ boring characters. Here's how to ensure character complexity wh
 
 ## Implementation
 
-<figure><img src="../.gitbook/assets/19saltines_deep_sea_depth_cinematic_person_drowning_--ar_21_-_384ccebc-4319-4f08-8250-8d8921772f54_0.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/deep_sea_depth_cinematic_person_drowning_--ar_21_-_384ccebc-4319-4f08-8250-8d8921772f54_0.png" alt=""><figcaption></figcaption></figure>
 
 1. **Mix Traits and Trauma**\
    Show their mask and their damage in one shot:\

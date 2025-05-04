@@ -2,13 +2,13 @@
 description: Explain it Like I'm 5
 icon: sliders
 cover: >-
-  ../.gitbook/assets/19saltines_robots_gears_artificial_intelligence_processors_--_2dc4bd92-f06c-4b12-8713-bf781b3eb0e6_1.png
+  .gitbook/assets/robots_gears_artificial_intelligence_processors_--_2dc4bd92-f06c-4b12-8713-bf781b3eb0e6_1.png
 coverY: -166
 ---
 
 # Sampling Parameters/Generation Settings (ELI5)
 
-I'm about to oversimplify the fuck out of sampling methods and parameters, skipping over crucial math, probability distributions, and the complex ways these settings interact. This is intentional. This guide is written for beginners to grasp these concepts without getting overwhelmed by technical details. If you need the proper technical depth, or just want to see what kind of research I did before writing this, [check out my citations](../other/citations/).
+I'm about to oversimplify the fuck out of sampling methods and parameters, skipping over crucial math, probability distributions, and the complex ways these settings interact. This is intentional. This guide is written for beginners to grasp these concepts without getting overwhelmed by technical details. If you need the proper technical depth, or just want to see what kind of research I did before writing this, [check out my citations](other/citations/).
 
 <details>
 
@@ -68,7 +68,7 @@ How long do you want your output to be?
   * _CharacterAI style:_ Start at `100` and adjust up or down according to your preference!
   * _Novel style:_ Start at `1000` and adjust up or down to your preference!
 
-<figure><img src="../.gitbook/assets/coffin_chaser_repetition_repetitive_nothing_ever_changes_stal_9efe91e2-eec3-4f7c-b738-f265e6a94cd6_2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/coffin_chaser_repetition_repetitive_nothing_ever_changes_stal_9efe91e2-eec3-4f7c-b738-f265e6a94cd6_2.png" alt=""><figcaption></figcaption></figure>
 
 ## Repetition Controls
 
@@ -94,7 +94,7 @@ Determines how strictly an LLM avoids repeating words or phrases, helping mainta
 
 ### Rep Pen Range (Repetition Penalty Range)
 
-<figure><img src="../.gitbook/assets/coffin_chaser_A_cat_naps_by_the_fire_and_it_is_astral_project_0b491d7b-1a32-4e13-a928-9509393b8f10_0.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/coffin_chaser_A_cat_naps_by_the_fire_and_it_is_astral_project_0b491d7b-1a32-4e13-a928-9509393b8f10_0.png" alt=""><figcaption></figcaption></figure>
 
 Defines how far back the LLM considers for repetition.
 
@@ -147,7 +147,7 @@ Encourages the model to use a broader vocabulary and avoid unnecessary repetitio
 * **Does NOT** prevent repetition completely, just makes previously used tokens less likely
 * **Does NOT** apply to _phrases_, just individual words/tokens (which may be whole words or word fragments).
 
-<figure><img src="../.gitbook/assets/coffin_chaser_left_hand_--ar_31_--niji_6_348f4ddd-2891-4ce4-a168-c3968804f953_2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/coffin_chaser_left_hand_--ar_31_--niji_6_348f4ddd-2891-4ce4-a168-c3968804f953_2.png" alt=""><figcaption></figcaption></figure>
 
 ## Word Choice Controls
 
@@ -186,7 +186,7 @@ Tells the LLM to _only pick the most popular words (low Top P)_ or _feel free to
 
 > Example: Instead of saying, "The dog barked at the cat," you might get something unexpected like, "The cloud barked at the moon."
 
-<figure><img src="../.gitbook/assets/coffin_chaser_one_dog_sprinting_through_the_luminous_meadow_b_2ed449b9-af4f-47e9-9422-a15c6b3f1295_3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/coffin_chaser_one_dog_sprinting_through_the_luminous_meadow_b_2ed449b9-af4f-47e9-9422-a15c6b3f1295_3.png" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:orange;">Min P</mark>
 
@@ -204,7 +204,7 @@ Decides how "safe" the LLM wants to play.
 
 > Example: "The cat naps by the fire."
 
-<figure><img src="../.gitbook/assets/coffin_chaser_A_cat_naps_by_the_fire_and_it_is_astral_project_e0730375-8be6-41a2-a35f-41ee033fdd1c_3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/coffin_chaser_A_cat_naps_by_the_fire_and_it_is_astral_project_e0730375-8be6-41a2-a35f-41ee033fdd1c_3.png" alt=""><figcaption></figcaption></figure>
 
 ### Top A
 
@@ -274,7 +274,7 @@ Tells the LLM how much randomness or surprise you want in the output.
 
 > Example: "The dog sprinted through the luminous meadow, barking at an invisible orchestra of whispers."
 
-<figure><img src="../.gitbook/assets/coffin_chaser_one_dog_sprinting_through_the_luminous_meadow_b_f7c85c58-32d9-4a11-bd13-00e3e68821cb_2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/coffin_chaser_one_dog_sprinting_through_the_luminous_meadow_b_f7c85c58-32d9-4a11-bd13-00e3e68821cb_2.png" alt=""><figcaption></figcaption></figure>
 
 ### Typical
 
@@ -328,7 +328,7 @@ Similarly, in storytelling, changing the order of samplers can subtly shift the 
   * 5 = Temperature
   * 6 = Repetition Penalty
 
-<figure><img src="../.gitbook/assets/coffin_chaser_roads_that_splits_into_many_options_various_pat_2eb9a8b5-054a-408d-8e41-671ceda44b18_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/coffin_chaser_roads_that_splits_into_many_options_various_pat_2eb9a8b5-054a-408d-8e41-671ceda44b18_1.png" alt=""><figcaption></figcaption></figure>
 
 ### Beam Search
 
@@ -367,7 +367,7 @@ Sets a threshold for the probability of words. Words that are too unlikely (belo
 
 > Example: _"The inquisitive feline sprawled luxuriously on the silken mat of dreams."_
 
-<figure><img src="../.gitbook/assets/coffin_chaser_The_inquisitive_feline_sprawled_luxuriously_on__42b43eb4-bb3f-41cb-8865-ed98eabe24b2_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/coffin_chaser_The_inquisitive_feline_sprawled_luxuriously_on__42b43eb4-bb3f-41cb-8865-ed98eabe24b2_1.png" alt=""><figcaption></figcaption></figure>
 
 ### Eta Cutoff
 
@@ -419,7 +419,7 @@ Creativity speed dial to decide how fast your LLM gets imaginative as it tells i
      * _Start:_ "The cat sat on the mat."
      * _Later:_ "The cat yawned, then sprang onto the wizard’s glowing staff to bat away sparkling stars."
 
-<figure><img src="../.gitbook/assets/coffin_chaser_roads_that_splits_into_many_options_various_pat_9567bd24-3031-42b9-bb3d-619ba9330c5a_0.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/coffin_chaser_roads_that_splits_into_many_options_various_pat_9567bd24-3031-42b9-bb3d-619ba9330c5a_0.png" alt=""><figcaption></figcaption></figure>
 
 #### Dynatemp Min & Max
 
@@ -471,7 +471,7 @@ Helps the AI decide if longer or shorter responses are better.
     &#xNAN;_"The cat, feeling warm and happy, sat on the mat by the fire and purred softly as the sun sets."_\
     (More details and a longer response!)
 
-<figure><img src="../.gitbook/assets/coffin_chaser_chemistry_lab_various_colorful_chemicals_chemis_477eb7b2-e2a4-4284-b2cb-eac572645213_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/coffin_chaser_chemistry_lab_various_colorful_chemicals_chemis_477eb7b2-e2a4-4284-b2cb-eac572645213_1.png" alt=""><figcaption></figcaption></figure>
 
 ## Additional Controls
 
@@ -496,7 +496,7 @@ DRY looks at the words the AI has already used and adjusts how likely it is to u
 * Helps keep conversations nice
 * Makes sure stories stay on topic
 
-<figure><img src="../.gitbook/assets/coffin_chaser_perfect_pair_dream_team_dynamic_duo_--ar_31_--p_b9ffd6a2-6363-47ba-8f10-065cebc93d5b_2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/coffin_chaser_perfect_pair_dream_team_dynamic_duo_--ar_31_--p_b9ffd6a2-6363-47ba-8f10-065cebc93d5b_2.png" alt=""><figcaption></figcaption></figure>
 
 ### Using Top K and Top P Together
 

@@ -1,7 +1,7 @@
 ---
 icon: star
 cover: >-
-  ../.gitbook/assets/19saltines_templates_clipboard_papers_copy_paste_writing_--ar_42e3094e-839d-4c07-8c76-d703e5d4d7aa_0.png
+  ../.gitbook/assets/templates_clipboard_papers_copy_paste_writing_--ar_42e3094e-839d-4c07-8c76-d703e5d4d7aa_0.png
 coverY: 0
 layout:
   cover:
@@ -34,7 +34,7 @@ layout:
 
 <table data-full-width="false"><thead><tr><th width="154">Delimiter</th><th width="216">Format Rule</th><th>Purpose</th><th>Example</th></tr></thead><tbody><tr><td><code>[</code> and <code>]</code></td><td>Wrap entire PList; no line breaks between brackets and content</td><td>Contains all character information</td><td><code>[Name: John ... ]</code></td></tr><tr><td><code>:</code></td><td>Follow <a href="category-system.md">category name</a>, space after</td><td>Separates <a href="category-system.md">category name </a>from content</td><td><code>Name: John</code></td></tr><tr><td><code>;</code></td><td>End each category, no space before</td><td>Marks category end</td><td><code>Hobby: painting;</code></td></tr><tr><td><code>(</code> and <code>)</code></td><td>No spaces after opening or before closing, can nest</td><td>Adds/Reinforce contextual and descriptive details</td><td><code>tall(6'2")</code>, <code>nervous(childhood trauma(bullying))</code></td></tr><tr><td><code>,</code></td><td>Space after; between items</td><td>Separates list items or traits</td><td><code>Hobbies: reading, writing, art;</code></td></tr><tr><td><mark style="color:orange;">Capitalization</mark></td><td><mark style="color:orange;">Optional for categories, just keep it consistent</mark></td><td><mark style="color:orange;">Aids identification</mark></td><td><mark style="color:orange;"><code>Name:</code>, <code>Age:</code>, <code>Personality:</code></mark></td></tr></tbody></table>
 
-<figure><img src="../.gitbook/assets/19saltines_dramatic_expressions_over_dramatic_psychotic_evil__18fb0761-99e7-474c-8ea5-077812784367_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/dramatic_expressions_over_dramatic_psychotic_evil__18fb0761-99e7-474c-8ea5-077812784367_1.png" alt=""><figcaption></figcaption></figure>
 
 ## Descriptors
 

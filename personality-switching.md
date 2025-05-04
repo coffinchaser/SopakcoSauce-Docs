@@ -1,7 +1,7 @@
 ---
 icon: user-group-simple
 cover: >-
-  ../.gitbook/assets/19saltines_dramatic_expressions_over_dramatic_multiple_faces__ad927d7c-3b7b-44d2-973b-3e2610951d62_2.png
+  .gitbook/assets/dramatic_expressions_over_dramatic_multiple_faces__ad927d7c-3b7b-44d2-973b-3e2610951d62_2.png
 coverY: 258
 layout:
   cover:

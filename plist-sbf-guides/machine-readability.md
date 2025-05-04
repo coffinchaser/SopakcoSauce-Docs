@@ -1,7 +1,7 @@
 ---
 icon: microchip-ai
 cover: >-
-  ../.gitbook/assets/19saltines_robots_gears_artificial_intelligence_processors_pa_ac7ea7bc-601b-42a3-899b-497b16010227_0.png
+  ../.gitbook/assets/robots_gears_artificial_intelligence_processors_pa_ac7ea7bc-601b-42a3-899b-497b16010227_0.png
 coverY: -191
 layout:
   cover:
@@ -51,7 +51,7 @@ Depends on which LLM you're using, but we'll stick to the general principle of "
 | ---------------------------------------------------------------------------------- | ------------------------------------------------------- |
 | Personality: kind(always helps others no matter what and goes out of their way...) | Personality: kind(puts others first, self-sacrificing); |
 
-<figure><img src="../.gitbook/assets/19saltines_robots_gears_artificial_intelligence_processors_pa_ac7ea7bc-601b-42a3-899b-497b16010227_0.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/robots_gears_artificial_intelligence_processors_pa_ac7ea7bc-601b-42a3-899b-497b16010227_0.png" alt=""><figcaption></figcaption></figure>
 
 ### TL;DR
 
