@@ -58,6 +58,8 @@ Descriptors in PLists are **short, functional details** that clarify traits, act
    * **😐** `build(beefy, muscular, strong)`
    * ✅ `build(burly, dense muscle, broad shoulders)`
 
+<figure><img src="../.gitbook/assets/coffin_chaser_stereotypical_meathead_flexing_muscles_in_a_mir_ede0a794-e5ec-42f7-b893-b9f6eeaf2fed_0.png" alt=""><figcaption></figcaption></figure>
+
 ### **Formats**
 
 | Format                             | Example                                               |
@@ -90,6 +92,8 @@ Use this approach:
    1. _Write a note to yourself to supplement any necessary details later during the writing of Example Dialogs._
 3. Label the emotion or belief clearly
 4. Split details across multiple fields if needed
+
+<figure><img src="../.gitbook/assets/coffin_chaser_small_kid_holding_a_giant_hammer_--ar_11940_--r_6f94d956-006f-46ea-86c1-ba6f6f0e40df_1.png" alt=""><figcaption></figcaption></figure>
 
 #### 1. Distill the Core Idea
 
@@ -175,6 +179,8 @@ PSYCHOLOGY: guilt tied to rest, comfort in control, avoids unstructured time;
 {% endtab %}
 {% endtabs %}
 
+<figure><img src="../.gitbook/assets/coffin_chaser_art_student_painting_a_model_1_model_in_the_thi_6ea25841-00fb-4bfd-9cca-f6ac3a56d294_1.png" alt=""><figcaption></figcaption></figure>
+
 **Category Prompt Table**
 
 Use these for inspiration or just to get your brain juice flowing.
@@ -188,64 +194,6 @@ Use these for inspiration or just to get your brain juice flowing.
 | **Speech**     | slow, cheerful, blunt, monotone          |
 | **Sexual**     | repressed, confident, attentive, intense |
 | **Relational** | testing, needy, isolating, guarded       |
-
-### **Fill-in-the-Blank Template**
-
-Use this when creating new PLists for characters, entities, or concepts. Just plug in your own terms!
-
-#### **Trait or Feature Descriptors**
-
-```txt
-[trait](descriptor1, descriptor2, descriptor3)
-```
-
-<details>
-
-<summary>Example</summary>
-
-```txt
-hair(______, ______)
-eyes(______, ______, ______)
-voice(______, ______)
-hands(______, ______, ______)
-```
-
-</details>
-
-#### **Behavioral or Action-Based Descriptors**
-
-```txt
-[action or habit](target or focus, descriptor1, descriptor2, descriptor3)
-```
-
-<details>
-
-<summary>Example</summary>
-
-```txt
-monitors(______, ______, ______)
-tracks(______, ______, ______)
-avoids(______, ______)
-```
-
-</details>
-
-#### **Belief or Philosophy Statements**
-
-```txt
-[belief or philosophy](idea 1, idea 2, idea 3)
-```
-
-<details>
-
-<summary>Example</summary>
-
-```txt
-belief(______, ______)
-philosophy(______, ______, ______)
-```
-
-</details>
 
 ## Markdown & AliChat
 
