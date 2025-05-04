@@ -27,7 +27,7 @@
 * [Complete Character Examples](complete-character-examples.md)
 * [Final Checklist](final-checklist.md)
 
-## General Guides
+## Text Generation Guides
 
 ***
 
@@ -35,7 +35,7 @@
 
 ## Image Generation Guides
 
-* [Parameters](image-generation-guides/parameters.md)
+* [Parameters](group-1/page-1.md)
 
 ## OTHER
 
