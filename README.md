@@ -1,4 +1,4 @@
-![Banner](https://files.catbox.moe/ssspa5.png)
+![Banner](.gitbook/assets/sopakcosauceBanner.png "Banner")
 
 # Welcome!
 
