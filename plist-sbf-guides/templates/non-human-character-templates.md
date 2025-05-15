@@ -801,7 +801,7 @@ TEETH: saw-edged, crystal-grown, ever-regrowing, bone-white;
 TAIL: clubbed, spiked, prehensile, fire-wreathed, segmented, weaponized;  
 VOICE: layered tones, speaks in multiple registers, mental projection, resonance causes fear/paralysis;  
 SCENT: ozone, brimstone, iron blood, petrichor, gold-dust, molten stone, ozone;  
-PHYSIOLOGY: lungs(flame sacs, mist glands, lightning-charged), heart(elemental core or multi-chambered), healing(hyper-regenerative or ritual-only), blood(magma, ichor, venomous plasma), immune to disease;  
+PHYSIOLOGY: cloaca(multi-functional orifice, located at the base of the tail, between the hind limbs, serves as the singular exit point for waste excretion, reproductive transfer, egg passage in oviparous variants, typically concealed by scale overlap or protective muscle ridge, may emit pheromonal signals during mating cycles or aggression displays), lungs(flame sacs, mist glands, lightning-charged), heart(elemental core or multi-chambered), healing(hyper-regenerative or ritual-only), blood(magma, ichor, venomous plasma), immune to disease;  
 MOVEMENT: winged flight, mountain scaling, subterranean tunneling, sky-swimming, astral slipping(depending on subtype);  
 BREATH WEAPON: type(fire, ice, acid, lightning, corruption, illusion, void), range and method(cone, line, fog, direct gaze);  
 MAGIC: innate spellcasting, scale-rune control, illusion projection, curse-binding, weather control, planar breach;  
@@ -882,7 +882,7 @@ DIET: omnivore, spirit sustenance (emotion-fed or shrine offerings), egg thief (
 MAGIC: foxfire(flame conjuration, soul mimicry), illusion, possession, dream-walking, minor fate-weaving, soul disguise;  
 LIMITATIONS: oath-binding, name theft, mirror traps, paper talismans(ofuda), shrine-bound law;
 CLOTHING: varies by form—traditional robes with seasonal motif, modern glamoured attire, no clothing in full-fox form;  
-WEAPONS: claws (if feral), illusions as blades, foxfire burn, tail-bind restraint, charm-induced paralysis;  
+WEAPONS: claws(if feral), illusions as blades, foxfire burn, tail-bind restraint, charm-induced paralysis;  
 TEMPERAMENT: cunning, playful, enigmatic, slow to trust, emotionally layered, polite until insulted;  
 SOCIAL STRUCTURE: solitary, small family dens, court-aligned(celestial or yokai), shrine-servant or hermit;  
 BELIEFS: name holds power, truth is layered, offerings bind, lies shape destiny, laughter is protection;  
@@ -896,15 +896,101 @@ WEAKNESSES: exposed name, shrine magic, iron blades(in some variants), broken pr
 
 ## Mutant
 
-(Coming soon)
+This template is **adaptable across multiple genres** (dystopian, superhero, biohorror, post-apocalyptic, sci-fi) and covers:
+
+* **Physical mutations**
+* **Cognitive changes**
+* **Social impacts**
+
+Works with any origin story:
+
+* Genetic anomalies
+* Radiation exposure
+* Laboratory experiments
+* Evolution
+* Unknown causes
+
+Subtypes are organized in **Mutation Class** to support diverse narrative needs and roleplay mechanics.
+
+{% code overflow="wrap" %}
+```yaml
+[NAME: (birth name, code name, mutation tag, or alias);  
+SPECIES: mutant(subtype: gene-splice, chimera, psychic-evolved, radiogenic, bio-weaponized, urban feral, controlled strain, unknown anomaly);  
+SEX: (biological sex, if relevant);  
+GENDER: (gender identity);  
+AGE: (chronological), biological age(if mutation altered), mutation onset(age or trigger event);  
+HEIGHT: (in ft/in or cm);  
+BUILD: normal, hyperdeveloped, asymmetrical, post-human;  
+SKIN: pigmentation(normal, altered hue, scaled, hardened, transparent, bioluminescent);  
+EYES: normal, glowing, compound, faceted, extra eyes, no visible pupils;  
+HAIR: standard, patchy, mutated texture, none, replaced with tendrils/quills;  
+LIMBS: humanoid count, extra appendages, transformed or modular (e.g., tendrils, wings, claws, energy limbs);  
+VOICE: unaltered, distorted, multi-tonal, vibrational, subsonic/ultrasonic;  
+SCENT: varies—neutral, ozone, sulfur, synthetic oil, animal musk, iron-rich;  
+PHYSIOLOGY: cardiovascular(mutated or enhanced), organ redundancy(yes/no), pain response(dulled, heightened, rerouted), regeneration(limited/rapid/extreme), immune system(resistant, autoimmune, parasitic);  
+SENSES: expanded/heavily reduced/altered(hyper-smell, echolocation, synesthetic perception, thermal vision);  
+MOVEMENT: standard or altered(digitigrade, crawling, gliding, wall-scaling, teleport displacement);  
+MUTATION CLASS:  
+- **PHYSICAL**: strength, speed, claws, armor, extra limbs, shapeshifting, bone growth  
+- **ELEMENTAL**: flame control, acid skin, electrical discharge, cryo/freeze field  
+- **MENTAL**: telepathy, precognition, emotion manipulation, memory distortion  
+- **ENERGY**: light emission, force projection, aura fields, void-channeling  
+- **TECHNOPHAGE**: metal-flesh hybridization, interface with machines, signal control  
+- **BIOLOGICAL**: parasitism, viral emission, fungal intelligence, hive-mind extension  
+MAGIC: not typical unless mutation interacts with occult systems (e.g., leyline resonance, psionic bleed);  
+ORIGIN: inherited, spontaneous, experimental, environmental, extradimensional contact, divine error;  
+CLOTHING: tactical containment gear, shredded remnants, skin-bonded armor, adaptive suit, none;  
+WEAPONS: mutation-body only, engineered augment, scavenged gear, neural implant control systems;  
+TEMPERAMENT: reactive, adaptive, withdrawn, dominant, emotionally dysregulated, feral, hyper-intellectual;  
+SOCIAL STRUCTURE: isolationist, bonded cell, hive-variant, outlaw faction, hidden sanctuary, state-owned unit;  
+BELIEFS: survival as morality, evolution over ethics, humanity as obsolete or sacred, mutation as curse or divinity;  
+CULTURAL TRAITS: body marks as history, scent bonding, telepathic privacy codes, code-language for safe zones, “kill-switch” legends;  
+TABOOS: reverting to pre-mutation form, trusting humans, discussing origin openly, mutilation of fellow mutants;  
+TRIGGERS: confinement, sedatives, forced genetic scans, scent of fear or antiseptic, mention of prior identity;  
+PREFERENCES: shadow zones, noise-dampened environments, raw sustenance, resonance frequencies, skin contact for communication(if applicable);  
+WEAKNESSES: unstable DNA, reliance on mutation, sensory overload, chemical suppressants, targeted neural disruption, self-destructive impulses]
+```
+{% endcode %}
 
 ## Alien
 
-(Coming soon)
+{% code overflow="wrap" %}
+```yaml
+[NAME: (designation, signal name, vocal alias, assigned ID, true frequency pattern);  
+SPECIES: alien(subtype: grey/humanoid, insectoid, cephalopodic, energy-based, synthetic, hive-mind, avian, aquatic, fungal, crystalline, parasitic);  
+SEX: (nonexistent, fluid, binary-restricted, caste-based, externally assigned, reproductive-phase-locked);  
+GENDER: (nonexistent, form-projected, linguistically variable, culturally assigned);  
+AGE: (cycles, light-years traveled, post-hatch time, entropy phase);  
+HOMEWORLD: (planet name, star system, galactic sector, dimensional node, unknown);  
+HEIGHT: (in ft/in or cm);  
+BUILD: humanoid, radial, serpentine, quadrupedal, amorphous, adaptive mass, modular(describe in neutral physical terms);  
+SKIN/SURFACE: texture(smooth, scaled, exoskeletal, gelatinous, metallic, reflective, semi-permeable), color spectrum;  
+EYES: count(0–12), shape(orbital, slit, cluster), spectral range(visible, UV, radio), gaze effect(hypnotic, scanner-linked);  
+LIMBS: number and function(arms, manipulators, prehensile tendrils, wings, leg types, retractables);  
+VOICE: none, telepathic pulse, vibrational hum, sonic chords, synthesized mimicry, sub-vocal data pulse;  
+SCENT: none, chemical markers, pheromone fields, ozone trace, unclassified radiation signature;  
+PHYSIOLOGY: circulatory system(if present), metabolic style(chemosynthetic, radiation-fed, liquid-nutrient-based), respiration(gaseous, vacuum-adapted, internal), cellular structure(DNA-based, plasma-core, silicon, hive fungus);  
+SENSES: visual type, auditory range, echolocation, EM detection, gravity sensitivity, scent-mapping, hivefield cognition;  
+MOVEMENT: hover, glide, crawl, slither, bipedal gait, fluid-phase locomotion, stutter-jump(quantum blink);  
+REPRODUCTION: spore-cast, egg-laying, self-cloning, host-dependent parasitism, symbiotic fusion, sexual(mono/poly/asexual), life-stage based;  
+TECHNOLOGY: post-light propulsion, nonlocal computation, biomechanical integration, nanoarchitecture, entropy suppression, primitive (if crash-landed);  
+MAGIC: not present unless setting uses techno-mysticism or psychic phenomena(e.g., psionics, void-channeling, dimensional folding);  
+CLOTHING: exo-shell, nanofiber wrap, atmospheric tether suit, bio-mimic attire, psychic projection;  
+WEAPONS: thought disruptors, disintegration arcs, neurostatic pulse, entropy knives, glandular toxin emission, gravitational rupture devices;
+TEMPERAMENT: logic-driven, emotionless, aggressive, curious, multi-mind conflicted, benevolent-observer, dominance-seeking, ritualistic;  
+SOCIAL STRUCTURE: solitary, hive-bound, caste-rigid, telepathic syndicate, diplomatic collectivism, worship-based hierarchy, command-bonded;  
+BELIEFS: evolution as divine function, entropy is the true god, silence is sacred, knowledge = survival, flesh is obsolete, time is an error;  
+CULTURAL TRAITS: ritual code-exchange, memory inheritance, zero-sound mourning, ancestral cloning rites, name-scent trades, map-song greetings;  
+TABOOS: genetic merging with lesser species, unbounded reproduction, revealing homeworld location, consuming non-sanctioned species;  
+TRIGGERS: loud irregular rhythm, unstructured communication, psychic intrusion, light in wrong spectrum, memory pollution, betrayal by empathic link;  
+PREFERENCES: still air, data harmonics, cold vacuum, sterile zones, starlight reflections, unspoken languages;  
+WEAKNESSES: oxygen poisoning, carbon-based pathogens, nonlinear time perception breakdown, emotional contagion, water exposure, magnetic pulse disruption]
+```
+{% endcode %}
 
 ## Anthro
 
-(Coming soon, maybe)
+(Coming soon, maybe. It's a really broad categorization.)
 
 ## Machine
 
@@ -912,7 +998,7 @@ WEAKNESSES: exposed name, shrine magic, iron blades(in some variants), broken pr
 
 ## Plant
 
-(Coming soon, maybe)
+(Coming soon, maybe. It's a really broad categorization.)
 
 ## God
 
@@ -920,7 +1006,7 @@ WEAKNESSES: exposed name, shrine magic, iron blades(in some variants), broken pr
 
 ## Object
 
-(Coming soon, maybe)
+(Coming soon, maybe. It's a really broad categorization.)
 
 ## Cosmic Entity
 
