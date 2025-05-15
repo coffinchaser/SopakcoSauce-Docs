@@ -1,5 +1,8 @@
 ---
 icon: brackets-round
+cover: >-
+  ../.gitbook/assets/coffin_chaser_mermaids_mermen_merfolk_blue_water_iridescent_s_a4bdc7ee-5031-41c1-8232-692828c7debc_0.png
+coverY: 91
 ---
 
 # Traits & Descriptors

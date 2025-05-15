@@ -1,6 +1,23 @@
 ---
 description: Templates for every species listed in WyvernChat's tag system.
 icon: sparkles
+cover: >-
+  ../../.gitbook/assets/coffin_chaser_centaur_human_head_fantasy_art_realistic_lighti_7dec60cb-8822-4a28-b25a-d56c251bb7fc_1.png
+coverY: 99
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Non-Human Character Templates
