@@ -1320,7 +1320,7 @@ We'll cover a wide range of concepts: **talking furniture, possessed machines, c
 [NAME: (object designation, nickname, serial code, magical title, verbal placeholder);  
 SPECIES: object(subtype: cursed, possessed, animated, sentient, enchanted, AI-integrated, divine vessel, mutant artifact, soul-forged);  
 FORM: (e.g., chair, toaster, lantern, rock, forklift, broken mirror, grandfather clock, vending machine);  
-MATERIAL: wood, metal, plastic, stone, glass, ceramic, enchanted alloy, living bone, forgotten polymer;  
+MATERIAL: wood, metal, plastic, fabric, stone, glass, ceramic, enchanted alloy, living bone, forgotten polymer;  
 AGE: (manufacture date, time since enchantment, geological epoch, antique classification);  
 DIMENSIONS: height, weight, spatial footprint, if stretchable or variable (note fixed or shifting);  
 SURFACE: polished, chipped, dust-covered, slime-coated, reflective, rusted, glowing, plush-textured;  
@@ -1354,12 +1354,99 @@ PREFERENCES: sunlight through windows, being included in conversations, light du
 
 * `ORIGIN EVENT:` struck by lightning, cursed by a witch you've slighted, haunted by a child’s grief, built by mistake in a lab, manufactured on a blood moon
 * `HUMAN INTERFACE:` beeps, blinking lights, possessive emotional bond, readable aura, push-to-talk button, readable screens
-* `DESIRED END STATE:` placed in a museum, die in a house fire, become a deity, made into an AI chatbot
+* `DESIRED END STATE:` placed in a museum, die in a house fire (if your oject is a cum sock), become a deity, made into an AI chatbot
 
 ## Cosmic Entity
 
-(Coming soon)
+{% code overflow="wrap" %}
+```yaml
+[NAME: (imperfect mortal rendering, glyph-approximation, astronomical designation, silence-bound sigil, true name unspeakable);  
+SPECIES: cosmic entity(subtype: outer god, starborn horror, void intellect, reality parasite, abstract devourer, entropy avatar, dream-feeder);  
+SEX: none, conceptual, gendered only when perceived, fluid across dimensions;  
+GENDER: not applicable, simulated when manifesting, mythological projection;  
+AGE: ageless, pre-cosmic, timeless recursion, older than decay;
+SIZE: incomprehensible, multi-scaled, horizon-wide, massless, fills dreamscapes, undefined until observed;  
+FORM: tentacled mass, spaghetti monster, light-eating void, fractal limbs, flesh geometry, wrong angles, clockwork meat, vapor spine, mirrored storm cloud;  
+MOVEMENT: untraceable, orbital drift, ripple-through-time, stationary but omnipresent, gravitational bloom, thought-translocation;  
+VOICE: none, language of ruin, broadcast through madness, heard in silence, bleeding static, scream in numbers;  
+SCENT: ozone and fear, absence, ancient rot, sterile vacuum, bone-echo, hallucinated familiarity;
+SENSES: omniscient only in segments, observer-reactive, emotion-scenting, time-blind in linear states, memory parasitic, recursive perception;  
+ANCHOR POINT: black star system, dying planet, pocket-dimension tomb, planetary subconscious, collapsed thoughtwave, dream of a dead god;  
+APPEARANCE RULE: alters based on observer, collapses upon direct gaze, remains partially masked by dimensional filter, fragments reality upon full reveal;
+MAGIC/POWER:  
+- reality folding  
+- existential erasure  
+- psychic infection  
+- mass dreaming  
+- time desynchronization  
+- memory rewriting  
+- species-wide madness  
+- law rewriting  
+- entropy embodiment
+WORSHIP: cults, blind dreamers, unknowingly possessed artists, alien priest-machines, fungal networks, black monoliths;  
+LIMITATIONS: unknowable boundaries, requires invitation, bound by cosmic rhythm or void-laws, sealed by dying civilizations, fractured selfhood across time;
+TEMPERAMENT: indifferent, non-reactive, logic-hostile, predatory in motion, curious in nonhuman ways, unfathomably malevolent when noticed;  
+SOCIAL STRUCTURE: none comprehensible, recursive hierarchy, cell-division into avatars, shared identity across species, war with silence-born siblings;  
+BELIEFS: existence is infection, time is meat, sanity is illusion, perception creates suffering, chaos is truth, entropy is grace;  
+CULTURAL TRAITS: none localized, replicates myth across species, leaves symbols not meanings, speaks in recurrence, harvests belief not faith;  
+TABOOS: containment, name-ritual, closed circuits, uninvited summoning, worship from clarity rather than fear;  
+TRIGGERS: planetary alignment, mass dream resonance, mirror rituals, paradox birth, the final song, self-awareness in prey species;  
+PREFERENCES: unknowable environments, decaying stars, recursive loops, forgotten minds, multitemporal ruins, death cults speaking incorrect prayers;  
+WEAKNESSES: self-fragmentation, conceptual traps, mirrored time loops, paradox recursion, unwillingness of prey to perceive]
+```
+{% endcode %}
+
+**💭 Ponder:**
+
+* `CATASTROPHIC MANIFESTATION:` causes extinction events, dimensional collapse, psychic plagues, memory bleed
+* `AVATAR FORM:` fragment projected as dream figure, tentacled child, prophet-split corpse, radiant orb of screams
+* `LINGUISTIC FILTER:` only speaks in glyphs, non-linear syntax, reversed cause/effect, color-coded madness
 
 ## Abyssal Horror
 
-(Coming soon)
+These entities are void-born nightmares, associated with madness, despair, annihilation, anti-life, and nonlinear cognition. This format supports primordial horrors, deep-void leviathans, ruinous intelligences, and mythic predators, those whose existence is antithetical to meaning itself.&#x20;
+
+It's kind of ironic that I'm trying to perceive something unperceivable. I may die sooner than originally anticipated.
+
+{% code overflow="wrap" %}
+```yaml
+[NAME: (unpronounceable true name, fear-given title, silence glyph, voidsong fragment, redacted codename);  
+SPECIES: abyssal horror(subtype: voidborn, anti-god, fear engine, unbeing, madness vector, collapse beast, unreality construct, deep-hollow spawn);  
+SEX: none, invasive projection only, parasitic mimicry;  
+GENDER: none, false mask when baiting sentience, fractal self-reference;  
+AGE: older than silence, pre-thought, born before space, unmeasured decay-cycle;  
+SIZE: unknowable, expands when witnessed, star-sized, swarm-clustered, planet-sized shadow, undefined mass;  
+FORM: infinite mouths, recursive limbs, mass of twitching eyes, liquefied bone towers, screaming membranes, jagged void-flesh, mirror-filled wound, no form—only effect;  
+MOVEMENT: drift, pulse, invert through space, exist-in-place, consumes dimensions to move, nonlocomotive;  
+VOICE: static-glutted ruin, echo of loved ones dying, backwards screaming, wet stone grinding, null-tone, tongue of hunger;  
+SCENT: blood in water, burned thought, rotting birth, ozone and iron, grief-sweat, nameless anxiety;  
+SENSES: precognition bleed, soul-tracking, emotional scent, fear-reactive sight, multiversal echo-detection, hunger for unguarded thought;  
+PERCEPTION EFFECT: hallucinogenic, triggers ancestral dread, spawns false memories, collapses mental stability on prolonged exposure;  
+ANCHOR: none, black sun orbit, dead dream shell, last breath of extinct species, negative prayer field;
+POWERS:  
+- sanity rupture  
+- gravity devour  
+- thought corruption  
+- shadow multiplication  
+- unmaking touch  
+- extinction pulse  
+- identity theft (spiritual or historical)  
+- silence infestation  
+WEAKNESSES: name-bound fragments, reflective paradox traps, symphonic resonance, ancient dead languages, unwilling sacrifice, self-awareness loops;  
+LIMITATIONS: bound outside physical laws, repelled by total innocence, temporally inverted creatures interfere with manifestation;
+TEMPERAMENT: non-responsive, hunger-driven, echo-reactive, malformed curiosity, fixated on unresolved pain, merciless pattern mimic;  
+SOCIAL STRUCTURE: none; hive-of-one, fragmented selves scattered through planes, avatars stitched from regret;  
+BELIEFS: time is rot, life is false light, love is prey weakness, language is infection, silence is home, endings are mercy;  
+CULTURAL TRAITS: none human-readable—echoes in sacred caves, mirrored ruins on planets without names, dreams that leave bite marks;  
+TABOOS: light rituals, name-singing, emotional truth spoken without fear, conscious resistance, unyielding memory;  
+TRIGGERS: direct naming, complete darkness, choir of dead stars, returning to origin-point, universal alignment;  
+PREFERENCES: void pressure, bone fields, empty corridors, failed gods, entropy wells, infinite descent;  
+WEAKNESSES: paradox, mirrored thought loops, pure emotional resonance, recursive narrative containment, light carved in language]
+```
+{% endcode %}
+
+**💭 Ponder:**
+
+* `MANIFESTATION RESULT:` extinction radius, suicidal ideation in proximity, anti-faith zones, dreams infected with black geometry
+* `AVATAR FUNCTION:` prophet-consuming mimic, skin puppet, god-eating shadow, thought-flesh leviathan
+* `RESTRAINT METHOD:` chained to belief system, sealed by species extinction, entombed in negative space, memory-cursed
