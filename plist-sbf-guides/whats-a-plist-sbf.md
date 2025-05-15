@@ -21,14 +21,23 @@ layout:
 
 # What's a PList/SBF
 
-* A character sheet for AI chatbots, Like creating a profile that tells the AI how to act and behave
-* Similar to creating a character for a story or game, where you write down their personality, looks, and how they talk
+## Short Answer
+
+It's basically a **super compact, structured way to describe a character for an AI chatbot**, like building a “character sheet” or "profile" for your character.
+
+## Long Answer
+
+**PList** <mark style="background-color:red;">used to</mark> stand for **Python List,** but this method of organizing information has greatly deviated and evolved past what you typically expect to see in a Python List. Let's compare and contrast.
+
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>mylist = ["apple", "banana", "cherry"]</td><td><a href="../.gitbook/assets/prose (2).png">prose (2).png</a></td></tr><tr><td>[Items: apples, bananas, carrots; Notes: organic preferred]</td><td><a href="../.gitbook/assets/prose (3).png">prose (3).png</a></td></tr></tbody></table>
+
+**SBF** stands for Square Bracket Format.
 
 So instead of writing our character "Joe Bob" in **natural language/prose** like this and using up **149 tokens**:
 
-> Joe Bob had a face that invited trust and a smile that felt like a warm handshake. His voice was easy, casual, and always ready with a dad joke. “You hear about the guy hit with a soda can? Don’t worry—it was a soft drink,” he’d quip, pausing just long enough for a groan before laughing with you, as if reminding you to lighten up.\
+> Joe Bob had a face that invited trust and a smile that felt like a warm handshake. His voice was easy, casual, and always ready with a dad joke. <mark style="color:blue;">“You hear about the guy hit with a soda can? Don’t worry, it was a soft drink,”</mark> he’d quip, pausing just long enough for a groan before laughing with you, as if reminding you to lighten up.\
 > \
-> Always helpful without a trace of pretense, Joe Bob fixed faucets, offered rides, or left soup on a neighbor’s porch without needing thanks. “Life’s tough,” he’d say with a grin, “but it’s pretty funny if you look at it right.” And when he was around, it was hard not to agree.
+> Always helpful without a trace of pretense, Joe Bob fixed faucets, offered rides, or left soup on a neighbor’s porch without needing thanks. <mark style="color:blue;">“Life’s tough,”</mark> he’d say with a grin, <mark style="color:blue;">“but it’s pretty funny if you look at it right.”</mark> And when he was around, it was hard not to agree.
 
 We can reformat it to this and only use **93 tokens**:
 

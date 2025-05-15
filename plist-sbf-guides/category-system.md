@@ -1,5 +1,5 @@
 ---
-icon: list-ol
+icon: colon
 cover: >-
   ../.gitbook/assets/categories_book_system_organization_--ar_169_--per_3495fff7-a89b-4c70-8605-98c1053fb3df_1.png
 coverY: 181
@@ -19,7 +19,7 @@ layout:
     visible: true
 ---
 
-# Category System
+# Categories
 
 ## SFW
 
