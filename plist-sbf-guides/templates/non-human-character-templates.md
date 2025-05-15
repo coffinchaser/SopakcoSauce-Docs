@@ -11,9 +11,24 @@ My goal is simple: **make character creation easier** so more people can jump in
 
 If you have questions about these templates or need help, just message me in the [#questions](https://discord.gg/R53qbpKN) channel on [WyvernChat Discord](https://discord.gg/ahsECfV7).
 
-## Serpentine Humanoids
+## Lamia & Naga
 
-Lamias, nagas or nagis.
+Despite being grouped under the same heading, I'd like to clarify the difference between nagas and lamias so that there won't be any confusion as to which tag your character should fall under:
+
+### Lamia vs. Naga Comparison
+
+| Naga/Nagi                                    | Intersectional Traits                           | Lamia                                             |
+| -------------------------------------------- | ----------------------------------------------- | ------------------------------------------------- |
+| Male (Naga) and female (Nagi) versions       | Human upper bodies with snake lower bodies      | Typically only female in mythology                |
+| **Hindu and Buddhist mythology origin**      | Snake-human hybrids                             | **Greek mythology origin**                        |
+| Often have multiple cobra-like heads/hoods   | Can slither instead of walk                     | Usually maintain single, human-like head          |
+| More serpentine facial features              | Scales on lower body                            | More human-like facial features                   |
+| Associated with water and wisdom             | Often depicted as magical beings                | Associated with deserts in some interpretations   |
+| Portrayed as guardians or divine beings      | May have enhanced strength                      | **Originally portrayed as child-eating monsters** |
+| May have scales on portions of human body    | Often have special abilities related to snakes  | Rarely shown with scales on human portion         |
+| Revered in their original mythology          | Both appear in modern fantasy media             | Feared in original mythology                      |
+| Sometimes depicted with four or more arms    | Both can constrict with their tails             | Usually depicted with two human arms              |
+| **Associated with protection and fertility** | Both have influenced modern monster girl tropes | **Associated with seduction and danger**          |
 
 {% code overflow="wrap" %}
 ```yaml
@@ -267,3 +282,475 @@ PREFERENCES: tight spaces, warmth, shiny objects, riddles, riddled corpses, prai
 WEAKNESSES: brittle bones, low endurance, skittish under scrutiny, daylight blindness (optional)]
 ```
 {% endcode %}
+
+## Centaurs & Minotaurs
+
+### Minotaur vs. Centaur Comparison
+
+"But Soup, what's the difference between the two?"
+
+| Minotaur                                     | Intersectional Traits                                 | Centaur                                                 |
+| -------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------- |
+| Human body with bull head and sometimes legs | **Hybrid creatures combining human and animal parts** | Human upper body (from waist up) with horse lower body  |
+| Single creature in original Greek mythology  | **Both originate from Greek mythology**               | An entire race/species in mythology                     |
+| Associated with labyrinths and isolation     | **Both often portrayed with enhanced strength**       | Associated with forests, fields, and open spaces        |
+| Often depicted as aggressive or monstrous    | **Both appear in modern fantasy media**               | Often portrayed as wise, though can be wild or savage   |
+| Usually male in traditional mythology        | **Often portrayed as excellent combatants**           | Both male and female centaurs exist in mythology        |
+| Associated with rage and brute strength      | **Both symbolize the duality of human/animal nature** | Associated with wisdom, astronomy, and medicine         |
+| Created as punishment from the gods          | **Both represent untamed or primal forces**           | Born as natural beings or children of gods              |
+| Often a solitary, outcast figure             | **Both are prominent in fantasy games/media**         | Usually live in herds or tribes                         |
+| Horns are a defining physical feature        | **Both have enhanced senses**                         | Capable of archery while moving (unique advantage)      |
+| Diet typically omnivorous or carnivorous     | **Both have distinctive, recognizable silhouettes**   | Diet primarily herbivorous like horses                  |
+| Limited intelligence in some interpretations | **Both associated with physical prowess**             | Often portrayed with human-level or higher intelligence |
+
+### Centaur
+
+{% code overflow="wrap" %}
+```yaml
+[NAME: (full name or tribal name);  
+SPECIES: centaur(subtype: plains-runner, mountain-born, forest-strider, warbred, nomadic);  
+SEX: (biological sex);  
+GENDER: (gender identity);  
+AGE: (years), maturity rate(faster or slower than humans?), lifespan(equine or extended);  
+HEIGHT: (shoulder height and overall height—include units);  
+BUILD: upper(human torso: muscular/slender, etc.), lower(equine body: breed type—mustang, draft, desert, etc.);  
+SKIN: upper(human tone and features), lower(coat color, fur texture, leg feathering, tail length);  
+EYES: color, placement(slightly wider apart for peripheral vision);  
+HAIR: head(human-style or flowing into mane), mane(connects to spine or neck), tail(description);  
+LIMBS: arms(two, human), legs(four, equine—note gait and hoof type);  
+MOVEMENT: quadrupedal locomotion(gallop, canter, trot), terrain masteries(plains, cliffs, forest undergrowth), speed/endurance;  
+VOICE: tone(deep, sharp, resonant), breathing pattern(post-gallop snorting, equine expressiveness);  
+SCENT: sweat, leather, dust, sun-warmed fur, earth;  
+PHYSIOLOGY: dual-heart system(optional), lungs(enlarged), digestion(equine: fermenting cecum, large gut), sleep(standing rest, short cycles);  
+DIET: herbivorous(grain, forage, root vegetables, salt lick), hydration requirement(high water intake), grazing reflex;  
+SENSES: hearing(ear flick directionality), smell(pheromones, predator detection), vision(near 300°), touch sensitive on flanks and back;  
+CLOTHING: upper(body wraps, leather harnesses, armor), lower(barding, decorative caparisons, often unclothed);  
+WEAPONS: archery(moving fire), spears, hooves(trample force), charging strikes;  
+MAGIC: nature-tied, healing, geomancy, druidic or war chant based (if applicable);  
+TEMPERAMENT: proud, clan-loyal, wary of confinement, emotionally reined but not cold;  
+SOCIAL STRUCTURE: herd-based, led by matriarch or strength-earned chieftaincy, seasonal migrations;  
+BELIEFS: sky omens, bloodline reverence, burial of hooves for honor, oral epics as history;  
+CULTURAL TRAITS: greeting via foreleg stamp or headbow, foal naming ceremony, mate-bond rituals through races or combat;  
+TABOOS: riding another centaur, defiling trails, stepping over elders, limb amputation;  
+TRIGGERS: enclosed spaces, leg injury, forced idleness, disrespect of herd;  
+PREFERENCES: wide open spaces, rhythmic drums, salt blocks, flowing rivers, scented oils for coat care;  
+WEAKNESSES: stairs/steep terrain(narrow spaces), heavy vertical architecture, multi-floor buildings, back vulnerability in battle]
+```
+{% endcode %}
+
+### Minotaur
+
+{% code overflow="wrap" %}
+```yaml
+[NAME: (full name or tribal name);  
+SPECIES: centaur(subtype: labyrinthine, plains-roamer, infernal-blooded, alpine hornwalkers, warchosen, shamanic caste);  
+SEX: (biological sex);  
+GENDER: (gender identity);  
+AGE: (years), maturity(accelerated, slow-developing), lifespan(equine-aligned or extended);  
+HEIGHT: shoulder height(equine), total height(with torso and head);  
+BUILD: upper(human torso: muscular/slender, scarred/etc.), lower(equine body: breed-influenced—mustang, draft, desert, etc.);  
+SKIN: upper(body type and tone: olive, ash-brown, scarred), lower(coat color: roan, dapple, black; texture: sleek, shaggy);  
+EYES: human-set(depth, clarity), equine-traited(peripheral range, motion-sensitive);  
+HAIR: head(human-style or braid-mane), mane(connected to upper spine or neck ridge), tail(length, grooming habits);  
+LIMBS: arms(two, human), legs(four, equine—hooved, fetlocked);  
+GAIT: quadrupedal locomotion(walk, trot, gallop), maneuverability(terrain-specific: open field, cliffside, woodland);  
+MOVEMENT: stance(resting or alert), physical presence(imposing, fluid, stomping, etc.);  
+SCENT: body odor(sweat, leather, earthy), grooming(sandalwood, herbal oils, smoke-cured gear);  
+VOICE: tone(deep, resonant, throaty, or melodic), speech(deliberate, rhythmic, warlike dialect or archaic clarity);  
+PHYSIOLOGY: respiration(high oxygen demand), heart(dual or large-capacity), digestion(herbivorous, hindgut fermenter), sleep pattern(standing rest, micro-naps);  
+DIET: forage(grasses, root vegetables, mineral licks), hydration(required high water intake), social meal habits(sharing salt blocks, field feasts);  
+SENSES: hearing(rotating ears), vision(wide peripheral), touch(sensitive flanks), spatial memory(exceptional terrain recall);  
+CLOTHING: upper(body wrappings, armor harnesses, tribal jewelry), lower(barding, protective plating, ritual fabrics);  
+WEAPONS: bows(ride-by archery), lances, spears, trampling strikes, tail-whip (if trained);  
+MAGIC: nature-bound(shamanic rites, druidic paths), war-magic(runic hoof-channeling), or none by taboo;  
+TEMPERAMENT: proud, self-governing, reactive to disrespect, honor-bound or aloof;  
+SOCIAL STRUCTURE: herd-based(familial or meritocratic), migratory tribes, warbands or seasonal councils;  
+BELIEFS: skyward deities, ancestral trails, memory through movement, stars-as-script;  
+CULTURAL TRAITS: mourning(stomping chants, braid-cutting), courtship(challenge races, ceremonial grooming), storytelling(runs traced with hoofbeats);  
+TABOOS: being ridden, amputated limb exposure, defecating on sacred ground, dishonoring blood-trails;  
+TRIGGERS: confinement, broken legs (symbolic of helplessness), abandonment by herd;  
+PREFERENCES: open air, highlands, running water, long silence before speech, tactile grooming rituals;  
+WEAKNESSES: architectural incompatibility(stairs, ladders), tight quarters, overexertion without grazing, social estrangement in isolation]
+```
+{% endcode %}
+
+## Fairy/Fae
+
+These are two distinct tags for a reason. Consult the following comparison to see which one best describes your character:
+
+### Fairy vs. Fae Comparison
+
+| Fairy                                             | Intersectional Traits                                          | Fae                                                                     |
+| ------------------------------------------------- | -------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| Often portrayed as small, winged humanoids        | Magical nature-connected beings                                | Usually human-sized or can change their size at will                    |
+| Typically more benevolent in modern media         | Associated with nature and forests                             | Often portrayed as morally ambiguous or dangerous                       |
+| More common in children's stories and media       | Both known for magical abilities                               | More common in adult fantasy and folklore                               |
+| Often depicted with insect-like wings             | Both connected to natural cycles                               | May have bird-like wings or no wings at all                             |
+| Usually portrayed as playful and mischievous      | Both known for trickery                                        | Often depicted as cunning, serious, and calculating                     |
+| Limited magical powers in many interpretations    | Both avoid iron in many mythologies                            | Typically possesses powerful, complex magic                             |
+| More modern, simplified concept                   | Both linked to specific natural locations                      | Ancient, complex mythological beings                                    |
+| Often associated with specific elements or plants | Both feature in global folklore                                | Associated with entire realms or courts (Summer/Winter/etc.)            |
+| Individual creatures with personality             | Both can bestow blessings or curses                            | Part of a complex social structure and hierarchy                        |
+| Simplified, "Disney-fied" in contemporary media   | Both may require specific rituals when interacting with humans | Maintained more traditional, dangerous aspects                          |
+| Often help humans in stories                      | Both have ties to the changing seasons                         | Often make dangerous bargains with humans                               |
+| Typically exist in the human world                | Both are immortal or long-lived                                | Typically reside in separate realms that intersect with the human world |
+
+{% hint style="info" %}
+**Note**:
+
+"Fae" is often used as the broader category that includes all faerie folk (including what we commonly call "fairies"), but this comparison highlights how the terms are commonly distinguished in modern fantasy literature and games.
+{% endhint %}
+
+### Fae
+
+Immortal, realm-rooted beings tied to ancient nature and powerful magic. Governed by **ritual law**, **emotional economy**, and **court politics**. Not to be confused with simplified “fairies.”
+
+{% code overflow="wrap" %}
+```yaml
+[NAME: (true name hidden, common name or title);  
+SPECIES: fae(subtype: Seelie, Unseelie, sidhe, courtless, changeling, shadowkin);  
+SEX: (biological sex);  
+GENDER: (gender identity);  
+AGE: (apparent vs. true age, often millennia-old);  
+HEIGHT: typically human-sized or taller;  
+BUILD: elongated, lithe, sharp-featured, preternaturally graceful or uncanny;  
+SKIN: alabaster, bark-hardened, starlit shimmer, leaf-veined, shadow-hued;  
+EYES: unnatural color spectrum, no whites or fully reflective, star-pupil or void-like;  
+HAIR: flowing like water, wind-stirred, unnatural hues(moon-white, bloodred, mossy black);  
+EARS: tapered, long, expressive;  
+VOICE: melodious, haunting, impossible to mimic, laced with binding if invoked under oath;  
+SPEECH: formal or archaic cadence, metaphor-heavy, oath-bound;  
+SCENT: ozone, decayed blossoms, myrrh, storm air, cut grass in moonlight;  
+PHYSIOLOGY: blood(moonlight, sap, starlight, shadow ichor), aging(suspended or ritual-based), immune to disease but not vow-breaking;  
+WINGS: (if present) gossamer, antlered, feathered, symbolic not functional;  
+MOVEMENT: inhuman stillness followed by sudden grace;  
+MAGIC: reality-binding, glamours, contracts, elemental control, emotional manipulation, dreamwalking, binding curses;  
+RULES: bound by guest-law, name-truth, gift-oaths, mirror contracts;  
+LIMITATIONS: iron, true names spoken, broken rituals, paradox logic;  
+CLOTHING: woven from impossible fabric(mist, spider silk, stolen time), reflects court alignment(season, stars, decay);  
+WEAPONS: faeblade(glamoured), truth-knives, cursed relics, songspells;  
+TEMPERAMENT: charming but remorseless, bound by logic not morality, aesthetic over utilitarian, cruel precision;  
+SOCIAL STRUCTURE: strict hierarchies(seasonal courts, houses, baronies), vassalage, unseated exiles;  
+BELIEFS: reality as metaphor, debt as currency, names as power, time as illusion;  
+CULTURAL TRAITS: spiral feasts, duel through poetry or dreams, name riddles, child-swapping, sacred silence rites;  
+TRIGGERS: name misuse, violation of guest rights, broken seasonal balance;  
+PREFERENCES: moonlight, rare emotions, fine art, untouched places, true stories that end poorly;  
+WEAKNESSES: cold iron, forgetting, contradiction, modernity, disrespect of old ways]
+```
+{% endcode %}
+
+### Fairy
+
+Small, often winged, nature-tethered beings. Frequently misrepresented as harmless or whimsical in modern fiction, but retain elemental influence and local mischief logic.
+
+{% code overflow="wrap" %}
+```yaml
+[NAME: (given name or plant-tethered name);  
+SPECIES: fairy(subtype: flower sprite, dew-kin, emberwing, puddle-dancer);  
+SEX: (biological sex);  
+GENDER: (gender identity);  
+AGE: (chronological), apparent age, lifespan(cycle-bound, semi-immortal);  
+SIZE: (in inches or cm), wing-span(if applicable);  
+BUILD: petite, proportionally humanoid or exaggerated (e.g., large eyes, finger-thin limbs);  
+SKIN: petal-soft, iridescent, bark-patterned, semi-translucent (detail specific flora influence);  
+WINGS: insectile(dragonfly, butterfly, beetle), magical or physical, glow traits, shedding cycle(if any);  
+HAIR: pollen-tinted, moss-colored, elemental-influenced;  
+EYES: gem-hued, reflective, pupil shape(fey-rounded, multi-faceted);  
+MOVEMENT: flit, hover, fast darting, loop-de-loop;  
+VOICE: high-pitched, bell-like, echo-tinkling, mimicry-prone;  
+SPEECH: singsong or chirped cadence, mixed with nonverbal cues(flower blooming, air shimmer);  
+SCENT: nectar, rain-drops, fresh earth, crushed herbs;  
+PHYSIOLOGY: blood(faintly glowing sap or dew-like), wings(delicate but regenerative), lungs(optional—may photosynthesize or breathe magic), temperature(ambient or plant-kinetic);  
+DIET: pollen, nectar, sunlight, magical residue, sugar;  
+MAGIC: minor-glamourcraft, emotion-nudging, light manipulation, localized weather tricks;  
+LIMITATIONS: iron sensitivity, short-range powers, seasonally-bound strength;  
+CLOTHING: flower-petal tunics, spider silk, dew-pearls, leaf-wraps, minimal armor (if any);  
+WEAPONS: sting-dagger, thorn spear, razorleaf, lightburst spells;  
+TEMPERAMENT: playful, proud, curious, vain, vengeful when insulted;  
+SOCIAL STRUCTURE: ring-bound clans, solitary wanderers, hive-kin or grove-bonded;  
+BELIEFS: cycle of blooming and withering, moon tides, gift debts, ritual naming;  
+CULTURAL TRAITS: dance as combat, mischief as language, gift-giving laws, name-swapping taboos;  
+TRIGGERS: broken oaths, withered plants, loud noises, light pollution;  
+PREFERENCES: dandelions, sunlight, reflective surfaces, music, forgotten gardens;  
+WEAKNESSES: iron, broken magic circles, disbelief, toxic air]
+```
+{% endcode %}
+
+## Giants
+
+{% code overflow="wrap" %}
+```yaml
+[NAME: (personal or given name, often single-word or stone-language title);  
+SPECIES: giant(subtype: hill, frost, fire, storm, stone, ashbone, skyfallen, primordial);  
+SEX: (biological sex);  
+GENDER: (gender identity);  
+AGE: (chronological), relative maturity(compared to human developmental stages), lifespan(often ancient or ageless);  
+HEIGHT: (ft/m range—e.g., 15–60 ft), proportions(symmetric, distorted, titanic);  
+BUILD: colossal(mountain-framed, sinew-bound, thick-boned, mythic or grotesque);  
+SKIN: texture(stone-rough, bark, molten-cracked, frost-hardened), color(granite gray, obsidian, glacier blue, storm-dark);  
+EYES: scale(saucer-sized or glowing pits), color(lightless, ember, lightning-white), pupil(type: vertical slit, abyssal void);  
+HAIR: texture(tangled moss, snow-dreaded, braided fire), color(iron, rust, ash, bone-white);  
+FACE: sculpted, jagged, primordial, chiseled by time or weathered like cliffside;  
+LIMBS: arms(immense, log-thick, vein-cracked), hands(club-sized, capable of crushing or crafting), legs(tree-trunked, tectonic stride);  
+MOVEMENT: deliberate, seismic, slow with bursts of terrifying speed;  
+VOICE: deep-earth rumble, thundered vowels, wind-through-cavern resonance;  
+SPEECH: archaic dialects, elemental tongues, slow cadence, time-warped metaphors;  
+SCENT: old storms, granite dust, iron, snow-wind, molten rock, mammoth sweat;  
+PHYSIOLOGY: heart(scale of furnace or glacier core), lungs(hurricane-capacity), metabolism(slow-burning or ritual-activated), blood(type: magma, icewater, black sap, starlight), immune to minor trauma;  
+DIET: stone, ice, mammoth flesh, thunder-herbs, magic-saturated minerals, ritual feasts;  
+SENSES: hearing(infrasonic resonance), smell(seismic air shifts, death-scent), sight(far-seeing, slow focus), touch(plate tectonic sensitivity);  
+CLOTHING: hide-drapes, iron-bound belts, ritual scars, totems or fetishes hung from chains or bones;  
+WEAPONS: tree-sized clubs, mountainside axes, elemental breath, thrown boulders, crushing steps;  
+MAGIC: ancestral binding, storm-speaking, stone-mending, sun-blink blinding, terrain-calling;  
+TEMPERAMENT: ancient patience, volcanic wrath, alien empathy, ritualistic pride, emotional slowness;  
+SOCIAL STRUCTURE: solitary, kin-clusters, blood-pacts with mountains or skies, feud-based family networks;  
+BELIEFS: ancestor-mountains, sun-as-witness, oaths carved into skin or earth, death by weather omen;  
+CULTURAL TRAITS: grave-making through landslide, storytelling via weather shifts or rock-stacking, duel through echoes;  
+TABOOS: oath-breaking, desecrating peak-altars, speaking falsely under cloudless skies;  
+TRIGGERS: blood on sacred stone, thunder challenge, scent of betrayal, broken mountain glyphs;  
+PREFERENCES: silence, sky-gazing, obsidian tools, dead language music, untouched landscapes;  
+WEAKNESSES: agility, fire for ice-kin, divine metals, ancient curses, erosion of memory]
+```
+{% endcode %}
+
+## Gnome
+
+{% code overflow="wrap" %}
+```yaml
+[NAME: (personal name, often whimsical or compound-form);  
+SPECIES: gnome(subtype: rockbound, deep-delver, forest whisper, tinkerkin, twilight-fey, clockwork-attuned);  
+SEX: (biological sex);  
+GENDER: (gender identity);  
+AGE: (years), maturity rate(fast-childhood, long-adulthood), lifespan(250–500+ years, depending on lore);  
+HEIGHT: (in ft/in or cm—typically 2.5–4 ft);  
+BUILD: compact, round-faced, wiry-limbed, dense-boned, sprightly or stooped;  
+SKIN: earthy tones(umber, clay, moss, ash), texture(leathery, barklike, root-veined);  
+EYES: large and bright, color spectrum(gem-toned or glowing), adapted for low-light or reflective magic;  
+HAIR: wild or intricately braided, colors from coal-black to sunflower yellow to quartz-white;  
+EARS: pointed or tulip-shaped, expressive, often twitch with thought;  
+NOSE: bulbous, angular, or twitching—central to expressions and scent-based detection;  
+MOVEMENT: brisk shuffle, bouncy gait, surprisingly fast scurry, light tread on soil;  
+VOICE: nasal or gravelly, rapid-fire diction, fond of puns, layered in tone when spellcasting;  
+SPEECH: dense with references, metaphors, or riddle-logic; often speaks to self mid-conversation;  
+SCENT: wood smoke, chalk dust, metallic tang, mushroom spore, oil and ozone;  
+PHYSIOLOGY: lung capacity(high for size), vision(spectrum extended into etheric or heat bands), hands(dextrous, callused, soot-stained), ears(sensitive to vibration);  
+DIET: root vegetables, lichen stews, fungus wine, mechanical caffeine tonics, sweets as offerings;  
+MAGIC: illusioncraft, earth shaping, glamour traps, mental misdirection, gadgeteering (blend of arcane and tech);  
+LIMITATIONS: low brute strength, light aversion (deep-gnomes), highly distractible minds;  
+CLOTHING: layered with pockets, utility harnesses, patched robes or smocks, spell-stitched runes, goggles or monocles optional;  
+TOOLS: wands disguised as instruments, collapsible weapons, clockwork familiars, rune tools, gear-satchels;  
+WEAPONS: ingenuity over brawn—snares, decoys, magical distractions, alchemic devices;  
+TEMPERAMENT: inquisitive, mischievous, long-memory for insult or joke, fast to love, slow to trust, paradoxically reclusive and talkative;  
+SOCIAL STRUCTURE: clannish, guild-bound, subterranean communes or tree-embedded hamlets, cooperative rivalry systems;  
+BELIEFS: stone spirits, ancestral machines, root-bound memory, trickery as truth, balance between entropy and invention;  
+CULTURAL TRAITS: naming ceremonies include riddles, courtship through pranks or puzzles, funerals resemble treasure hunts or inventions released posthumously;  
+TABOOS: lying without flair, wasting materials, disrespecting underground dead, speaking plainly in sacred zones;  
+TRIGGERS: unrefined magic, loud stupidity, broken tools, deception without style;  
+PREFERENCES: candlelight, mossy tunnels, clocks ticking in harmony, gears that purr, layered flavors;  
+WEAKNESSES: fragile physiology, hoarding instincts, obsessive focus, noise sensitivity]
+```
+{% endcode %}
+
+## Vampire
+
+{% code overflow="wrap" %}
+```yaml
+[NAME: (true name, current alias, or bloodline title);  
+SPECIES: vampire(subtype: nosferatu, noble-born, thrall-forged, revenant, feral, daywalker);  
+SEX: (biological sex);  
+GENDER: (gender identity);  
+AGE: (turned age), apparent age, total lifespan(immortal or degeneration-prone);  
+HEIGHT: (in ft/in or cm);  
+BUILD: emaciated, statuesque, predatory lean, corpse-thickened, or aesthetically preserved;  
+SKIN: cold, pale, bloodless, ash-gray, moonlit, or marble-smooth;  
+EYES: color(red, gold, black, void, blood-haloed), vision(low-light adapted, motion-predictive);  
+HAIR: death-preserved or modern-altered, color(original vs. glamoured);  
+FANGS: retractable or permanent, upper/lower, venomous(optional);  
+NAILS: clawlike, lacquered, grow under stress;  
+MOVEMENT: elegant, stuttering speed, still as stone when observing, predatory grace;  
+SCENT: iron, rosewater, old blood, crypt-damp, incense, perfume masking death;  
+VOICE: low resonance, mesmer-glide, echoes of accent from turning era, oath-woven commands;  
+SPEECH: antiquated or sharpened modern diction, seductive or surgical;  
+PHYSIOLOGY: circulatory(dead or minimal), respiration(optional, mimicked), thermoregulation(absent), blood dependence(required volume, interval), wound healing(rapid, slows under starvation), digestive system(blood only or optional solids);  
+SENSES: acute hearing(heartbeat detection), smell(blood type, pheromone shifts), vision(low light, aura perception);  
+LIMITATIONS: sunlight(sensitivity scale: burn, slow-death, blindness, none), religious symbols(if cursed variant), invitation rules(optional), running water, fire;  
+DIET: human blood, animal fallback (efficacy varies), psychic/emotional draining (succubus-like variants), artificial plasma (modern transhuman variants);  
+CLOTHING: era-tethered formality, tailored suits, shrouds, armor of bone or silk, functional glamours;  
+WEAPONS: fangs, claws, mesmerism, blood-manipulation, shadowmeld, blade mastery;  
+MAGIC: glamour, shadowstep, blood-calling, necromancy, stormcraft, mirror-passing;  
+TEMPERAMENT: detached, obsessive, strategic, mournful, wrathful under provocation;  
+SOCIAL STRUCTURE: solitary predator, coven/court-bound, bloodline-fealty, masquerade enforcer, feral rogue;  
+BELIEFS: blood as sacrament, death as transformation, memory as inheritance, time as a weapon;  
+CULTURAL TRAITS: turning rituals, blood-oath fealty, coffin-burial cycles, mirror-truth trials, feeding etiquette, name-binding law;  
+TABOOS: feeding on kin, public transformation, turning without permission, reflection denial;  
+TRIGGERS: heartbeat of a former life, scent of betrayal, broken oath, scent of fear or defiance;  
+PREFERENCES: dusklight, old architecture, stillness, unspoken rooms, silk-lined enclosures, blood served warm;  
+WEAKNESSES: sunlight, iron (optional folkloric), religious symbols (if faith-bonded), starvation hallucinations, obsessive fixations, compulsions (e.g., counting, invitation rituals)]
+```
+{% endcode %}
+
+## Werewolf
+
+{% code overflow="wrap" %}
+```yaml
+[NAME: (birth name, alias, pack-name, or lupine call-sign);  
+SPECIES: werewolf(subtype: feral-born, bitten, bloodline, hybrid variant, lone shifter, revenant-bound);  
+SEX: (biological sex);  
+GENDER: (gender identity);  
+AGE: (human age), transformation onset age, total years as turned;  
+HEIGHT: human form(ft/in or cm), shifted height(wolfman, direwolf, trueform—specify stance);  
+BUILD: human form(lean, dense, scarred), wereform(muscle-bulked, digitigrade, broad-chested, clawed);  
+SKIN: human form(standard), wereform(fur coverage: full/partial, color: ash, black, russet, silver);  
+EYES: baseline color, shifted glow(color and intensity), pupil shift(slitted, round, void);  
+HAIR: human head hair vs. body hair/fur integration (if any);  
+LIMBS: human(two arms, two legs), wereform(clawed hands, digitigrade legs, prehensile tail—if any);  
+TEETH: human form(slight elongation), wereform(pronounced canines, shearing molars, bone-crunch jaw);  
+MOVEMENT: upright lope, low-run, sprint gait, quadrupedal burst, wall-scaling (if applicable);  
+VOICE: human tone vs. growled speech, wereform(vocal distortions, howls, mind-echo projection);  
+SPEECH: clipped under stress, lupine metaphors, scent-referenced language, pack-rank affectation;  
+SCENT: musk, wet fur, blood-iron, burnt sinew, forest rot, aggression-trigger pheromones;  
+PHYSIOLOGY: dual-heart rate system during shift, pain threshold(high), healing factor(rapid under moonlight), senses(hyper-acute: scent, sound, motion-tracking), metabolism(elevated post-shift), blood anomaly(if viral/cursed);  
+TRANSFORMATION: cycle-bound(full moon, trigger-based, rage-linked, voluntary), shift duration, partial-shift control;  
+DIET: carnivorous focus, raw-preference, bone marrow craving, ritual hunts;  
+CLOTHING: durable, tearaway, minimal, ritual hides, pack-crest accessories;  
+WEAPONS: claws, teeth, brute force, pack coordination, howl-based coordination, blood-sense tracking;  
+MAGIC: rare (unless tied to curse or ancestral spirit), blood-binding, lunar rites, dream-scent projection;
+TEMPERAMENT: territorial, loyalty-coded, emotionally volatile, highly protective, vengeance-prone;  
+SOCIAL STRUCTURE: pack-based(alpha/beta/omega or anarchic), lone wolf(exiled or estranged), bloodline hierarchy, challenge-claim dominance law;  
+BELIEFS: moon as judge, blood memory, sacred kill rites, bone shrines, howl-legacies;  
+CULTURAL TRAITS: oaths sealed in blood, scars as status, challenge duels, scent-based mourning, mate-claiming via ritual kill;  
+TABOOS: killing pack, rejecting shift, refusing a blood challenge, feeding on kin;  
+TRIGGERS: silver scent, full moon proximity, loss of control, prey resistance, betrayal scent;  
+PREFERENCES: deep woods, raw meat, silence, heartbeat rhythms, night air, bone dens;  
+WEAKNESSES: silver(burning, poisoning), wolfsbane(hallucinogenic or fatal), lunar paralysis(rare), blood frenzy, human guilt, memory bleed]
+
+```
+{% endcode %}
+
+## Undead
+
+{% code overflow="wrap" %}
+```yaml
+[NAME: (given name, burial name, necromantic title, or forgotten label);  
+SPECIES: undead(subtype: zombie, wight, revenant, lich, draugr, ghost-bound shell, stitched construct);  
+SEX: (biological sex);  
+GENDER: (gender identity—if retained);  
+AGE: (age at death), post-mortem duration(time since reanimation or binding);  
+HEIGHT: (corpse stature—note if reduced by decay, bloating, ritual distortion);  
+BUILD: skeletal, mummified, corpse-swollen, armored construct, gaunt withered, preserved;  
+SKIN: color(pallid, blue-gray, rot-blackened, ritual-burned), texture(torn, leathery, stitched, frostbitten);  
+EYES: empty sockets, faint glow(white, green, red), glassy, soul-trapped;  
+HAIR: gone, sparse, corpse-preserved, bone-beaded, or smoke-bound tendrils;  
+VOICE: gravel-rasp, whispered echo, wordless groan, or regal decay-speech;  
+SCENT: death-musk, damp earth, embalming oil, burnt bone, crypt mold, ozone if magic-bound;  
+PHYSIOLOGY: respiration(none or mimicry), circulatory(absent, ichor-based, stilled blood), sensory(stunted, enhanced by curse), movement(jerky, fluid, shadow-walk, floating), strength(modified by ritual);  
+ANIMATING FORCE: necromantic, divine curse, soul tether, vengeance-fueled, possession, plague-agent;  
+COGNITION: soul-retained, partially lucid, instinctive, rage-programmed, consciousness shard;  
+DIET: none, flesh-feeding (wights, ghouls), blood (cursed variants), life-force siphoning, memory-eating (rare);  
+MAGIC: decaycraft, soul-leash, plague-aura, command-dead, memory-illusion projection;  
+LIMITATIONS: sunburn, holy light, fire, salt/silver, decapitation, soul-severance, sacred geometry, name-binding;  
+CLOTHING: burial wraps, armor fused to flesh, ceremonial robes, grave-stained finery, bone-charms, curse-stamped skin;  
+WEAPONS: bone-blades, corrupted weapons, claws, entropy touch, rust-wrought steel, necrotic aura;  
+TEMPERAMENT: cold, obsessively focused, emotionally hollow or wrath-fixed, mockingly serene, mournful echo;  
+SOCIAL STRUCTURE: horde-bound, grave-kin, necromancer servant, sovereign undead, cursed lone-walker;  
+BELIEFS: death unfinished, memory as identity anchor, flesh as prison, bone as truth, undeath as contract;  
+CULTURAL TRAITS: ritual silence, crypt songs, funerary law, revenge-oaths, tomb guardianship, anti-life philosophy;  
+TABOOS: burial desecration, killing kin-undead, speaking true name of the necromancer, light rituals;  
+TRIGGERS: presence of former name, scent of burning sage, betrayal in life recalled, moonlit graves;  
+PREFERENCES: darkness, rot-stone, silence, graveyard moss, lifeless wind, bone-oracle readings;  
+WEAKNESSES: fire, holy symbols, silver blades, resurrection magic, desecration of anchor(grave, phylactery, corpse)]
+```
+{% endcode %}
+
+## Succubus/Incubi
+
+{% code overflow="wrap" %}
+```yaml
+[NAME: (true name, summoned alias, title: “Whisperskin,” “Velvet Maw,” etc.);  
+SPECIES: succubus(subtype: dream-feeder, pact-bound, carnal warden, parasitic shadow, courtless);  
+SEX: (biological sex, default or fluid);  
+GENDER: (gender identity, may shift or mask);  
+AGE: (chronological), time since emergence(summoning, awakening, exile);  
+HEIGHT: (variable or fixed—note if illusioned);  
+BUILD: tailored to target (hourglass, serpentine, androgynous, exaggerated), latent form(bone-thin, horned, winged, monstrous);  
+SKIN: hue(flushed, violet, gray, black-red), texture(slick, silken, scaled, burning cold), pheromone-active?;  
+EYES: luminous(color: amber, void-black, glowing rose), pupil shape(serpentine, absent, haloed), gaze effects(hypnosis, compulsion);  
+HAIR: shadow-thick, sin-colored, flame-slick, illusion-tendrils;  
+HORNS: optional, shape(crown, curling ram, antlered), sensory or symbolic;  
+WINGS: batlike, ephemeral flame, oil-slick membranes, astral or illusionary;  
+TAIL: yes/no, function(flirtation, anchor, feeding aid, weapon);  
+VOICE: layered seduction, vocal mimicry, dream-echo, orgasmic distortion;  
+SCENT: warm skin, incense, pheromone-rich musk, bloodrose, vanilla over decay, ozone aftertouch;  
+PHYSIOLOGY: warm-blooded or adaptive, blood(laced with narcotic, black ichor, mercury-thick), temperature(radiates arousal or chill), regeneration through contact or climax;  
+SENSES: touch-mapped empathy, emotional field perception, soul heat-tracking, aura detection;  
+MOVEMENT: hypnotic, liquid glide, stalking dance, unnatural poise;  
+DIET: sexual energy, soul fragments, dreams, shame, obsession, or post-climax essence;  
+FEEDING METHOD: direct contact, dream invasion, pact tether, ritual coupling, voyeurism siphon;  
+TRANSFORMATION: glamours for gender, race, species, or erotic archetype;  
+CLOTHING: illusion-borne, lacebound shadow, flesh-armor, tailored temptation;  
+WEAPONS: kissbite(flesh-mark binding), blood-pact claws, emotion leech, climax-induced paralysis, orgasmic dreamloop trap;  
+MAGIC: lustbinding, dreamwalking, pactcraft, emotional rerouting, mimicry, shapeshifting, trauma reanimation;  
+TEMPERAMENT: patient, calculating, playful, obsessive, brutal under rejection, fragile beneath arrogance;  
+SOCIAL STRUCTURE: infernal court, rogue, contract-bound to mortal, hierarch of pleasure-wars, self-crowned queen of ruins;  
+BELIEFS: desire is truth, pleasure erodes lies, names are power, love is control;  
+CULTURAL TRAITS: pact tattoos, climax memory keeping, ritual mirror duels, binding through kisses or scars, dream horde hoarding;  
+TABOOS: genuine love unspoken, feeding without consent(if lawful-aligned), false climax, pactbreaking;  
+TRIGGERS: name spoken in ritual, betrayal by host, unexpected affection, mirror trauma;  
+PREFERENCES: silk bedding, confessionals, guilty minds, broken champions, exhausted lovers, candle-warm rooms;  
+WEAKNESSES: name-binding, celibate wards, iron purity, anti-seduction mantras, rejection by will alone]
+```
+{% endcode %}
+
+## Demon
+
+
+
+## Angel
+
+
+
+## Dragon
+
+
+
+## Neko
+
+
+
+## Kitsune
+
+
+
+## Mutant
+
+
+
+## Alien
+
+
+
+## Anthro
+
+
+
+## Machine
+
+
+
+## Plant
+
+
+
+## God
+
+
+
+## Object
+
+
+
+## Cosmic Entity
+
+
+
+## Abyssal Horror
