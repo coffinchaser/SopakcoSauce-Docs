@@ -4,6 +4,154 @@ icon: brackets-round
 
 # Traits & Descriptors
 
+## Traits
+
+**Traits** are the core characteristics or qualities that define a character's personality, behavior, or nature. They're like the main ingredients in a recipe.
+
+Traits answer the question: "What is this character like at their core?"
+
+Think of traits as single-word or short-phrase labels that identify something fundamental about a character:
+
+* brave
+* intelligent
+* short-tempered
+* creative
+* anxious
+* loyal
+
+## Prose to PList
+
+{% stepper %}
+{% step %}
+### Find the Important Traits
+
+Read your character description and underline the key personality traits, behaviors, and motivations.
+
+**Example:**
+
+> Sara is always the first to volunteer when someone needs help. She stays up late making care packages and remembers everyone's birthdays. This generous nature comes from growing up poor, when neighbors helped her family survive.
+
+Underlined traits:
+
+* Volunteers first
+* Makes care packages
+* Remembers birthdays
+* Generous
+* Background of poverty
+* Values community help
+{% endstep %}
+
+{% step %}
+### Convert Each Trait to PList Format
+
+For each trait you identified, create a simple trait(behavior, reason) structure.
+
+* generous(first to volunteer, remembers birthdays)
+
+**Example conversions:**
+
+* caring(makes packages, stays up late)
+* background(grew up poor, received community help)
+{% endstep %}
+
+{% step %}
+### Group Similar Traits Together
+
+Combine related traits under common categories and format according to PList rules.
+
+**Final PList format:**
+
+```
+Personality: generous(first to volunteer, remembers birthdays), caring(makes packages, stays up late);
+Background: poverty(grew up poor, received community help)
+```
+{% endstep %}
+{% endstepper %}
+
+### Before & After Examples
+
+#### Example 1: The Nervous Student
+
+**Before (Prose):**
+
+> Alex always sits at the back of the classroom, hood pulled up and eyes down. He's brilliant but rarely speaks up, and when called on, his voice shakes. Years of being mocked for his stutter have made him afraid to participate, even though he usually knows the answers.
+
+**After (PList):**
+
+```
+Personality: shy(sits at back, eyes down);
+Speech: quiet(rarely speaks up, voice shakes when called on);
+Flaws: insecure(hides knowledge, fear of mockery);
+Background: bullied(for stutter, school trauma);
+Strengths: intelligent(knows answers, understands material)
+```
+
+#### Example 2: The Tough Leader
+
+**Before (Prose):**
+
+> Despite her small stature, Commander Reyes dominates every room she enters. Her soldiers both fear and respect her, as she pushes them to their limits but never asks more than she herself would give. The scar across her face reminds everyone of the mission where she carried three wounded men to safety despite her own injuries. She rarely smiles, saving her rare moments of warmth for private conversations with those who've earned her trust.
+
+**After (PList):**
+
+```
+Appearance: small stature(deceptive, contrasts authority), facial scar(from rescue mission, visible reminder);
+Personality: commanding(dominates rooms, inspires fear/respect);
+Leadership: demanding(pushes limits, leads by example);
+Background: heroic(rescued wounded, despite injuries);
+Expression: serious(rarely smiles, reserved warmth);
+Dynamic with others: selective trust(private warmth, must be earned)
+```
+
+### TL;DR
+
+1. **Focus on behaviors, not labels**
+   * Instead of "kind," write "kind(helps strangers, gives compliments)"
+2. **Include the "why" whenever possible**
+   * Add reasons: "afraid of water(nearly drowned, childhood incident)"
+3. **Keep it short but meaningful**
+   * Aim for 2-3 descriptors per trait
+4. **Connect traits to backstory**
+   * Show origins: "distrusts authority(corrupt police, hometown experience)"
+5. **Balance strengths and weaknesses**
+   * Show complexity: "confident(in public, hides insecurities)"
+
+### Stuck?
+
+Ask yourself how you can fit a character's trait into this format:
+
+```
+what they are(how they show it, why they're like that)
+```
+
+Examples:
+
+* protective(stands between danger and loved ones, couldn't save sister)
+* perfectionist(triple-checks work, fears criticism)
+* funny(uses humor in tense moments, deflects from serious topics)
+
+### Practice
+
+Convert this paragraph into PList format:
+
+> Thomas checks his watch constantly and arrives everywhere twenty minutes early. This punctuality stems from his military father's strict discipline—being late meant punishment. While his preparation makes him reliable in a crisis, his friends find it frustrating when he rushes them or seems anxious about minor delays.
+
+Try it yourself before checking the example answer below.
+
+<details>
+
+<summary>Answer</summary>
+
+```
+Personality: punctual(checks watch constantly, arrives early);
+Background: strict father(military discipline, punished lateness);
+Strengths: reliable(prepared, handles crises);
+Flaws: anxious(about delays, rushes others);
+Dynamic with friends: frustrating(time obsession, inflexible);
+```
+
+</details>
+
 ## Descriptors
 
 Descriptors in PLists are **short, functional details** that clarify traits, actions, or beliefs. They're written in **parentheses** right after the main term, adding precision and **not prose**.
@@ -143,7 +291,7 @@ PSYCHOLOGY: guilt tied to rest, comfort in control, avoids unstructured time;
 
 <figure><img src="../.gitbook/assets/coffin_chaser_art_student_painting_a_model_1_model_in_the_thi_6ea25841-00fb-4bfd-9cca-f6ac3a56d294_1.png" alt=""><figcaption></figcaption></figure>
 
-**Category Prompt Table**
+**Category to Traits Prompt Table**
 
 Use these for inspiration or just to get your brain juice flowing.
 

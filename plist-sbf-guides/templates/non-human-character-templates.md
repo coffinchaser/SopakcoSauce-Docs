@@ -269,6 +269,8 @@ WEAKNESSES: fire, sonic disruption, anti-toxins, excessive light]
 
 ## Kobolds
 
+<figure><img src="../../.gitbook/assets/coffin_chaser_kobolds_fantasy_art_realistic_lighting_cinemati_10aa7a14-e720-4ff9-a4db-c07338d21617_0.png" alt=""><figcaption></figcaption></figure>
+
 {% code overflow="wrap" %}
 ```yaml
 [NAME: (personal name or function-name);  
@@ -325,6 +327,8 @@ WEAKNESSES: brittle bones, low endurance, skittish under scrutiny, daylight blin
 
 ### Centaur
 
+<figure><img src="../../.gitbook/assets/coffin_chaser_centaur_body_with_cloud_background_--no_animal_he_8f7fec3c-d572-4b96-bced-eb667ba4ffd6.png" alt=""><figcaption></figcaption></figure>
+
 {% code overflow="wrap" %}
 ```yaml
 [NAME: (full name or tribal name);  
@@ -359,6 +363,8 @@ WEAKNESSES: stairs/steep terrain(narrow spaces), heavy vertical architecture, mu
 {% endcode %}
 
 ### Minotaur
+
+<figure><img src="../../.gitbook/assets/coffin_chaser_minotaur_bull_body_bull_head_fantasy_art_realis_64910d2b-afae-4a23-915f-35bb23b838a0_0.png" alt=""><figcaption></figcaption></figure>
 
 {% code overflow="wrap" %}
 ```yaml
@@ -722,6 +728,8 @@ WEAKNESSES: name-binding, celibate wards, iron purity, anti-seduction mantras, r
 {% endcode %}
 
 ## Demon
+
+<figure><img src="../../.gitbook/assets/coffin_chaser_centaur_half_horse_half_man_1.5_fantasy_art_rea_28ae751b-2885-455f-ba25-b36a99a64866_0.png" alt=""><figcaption></figcaption></figure>
 
 {% code overflow="wrap" %}
 ```yaml
