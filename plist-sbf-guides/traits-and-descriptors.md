@@ -19,6 +19,8 @@ Think of traits as single-word or short-phrase labels that identify something fu
 * anxious
 * loyal
 
+<figure><img src="../.gitbook/assets/coffin_chaser_centaur_half_horse_half_man_1.5_fantasy_art_rea_10407d4b-1b96-4f1b-9c85-4b4fb81073f3_2.png" alt=""><figcaption></figcaption></figure>
+
 ## Prose to PList
 
 {% stepper %}
@@ -103,6 +105,8 @@ Expression: serious(rarely smiles, reserved warmth);
 Dynamic with others: selective trust(private warmth, must be earned)
 ```
 
+<figure><img src="../.gitbook/assets/coffin_chaser_non-human_characters_dragons_magical_creatures__ce4911cc-f638-403c-aee7-440479ee269b_2.png" alt=""><figcaption><p>You still with me? Here's something eye-catching.</p></figcaption></figure>
+
 ### TL;DR
 
 1. **Focus on behaviors, not labels**
@@ -151,6 +155,8 @@ Dynamic with friends: frustrating(time obsession, inflexible);
 ```
 
 </details>
+
+<figure><img src="../.gitbook/assets/coffin_chaser_fae_fairy_faries_fantasy_art_realistic_lighting_0e44eef1-7cb3-445a-889d-2b5f94d25a91_2.png" alt=""><figcaption></figcaption></figure>
 
 ## Descriptors
 
