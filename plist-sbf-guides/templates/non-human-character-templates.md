@@ -602,6 +602,12 @@ WEAKNESSES: fragile physiology, hoarding instincts, obsessive focus, noise sensi
 ```
 {% endcode %}
 
+**💭 Ponder:**
+
+* `GUILD AFFILIATION:` tinkers, gardeners, illusionists, lorekeepers
+* `TUNNEL RIGHT:` which depth they claim by ancestral or magical bond
+* `CRAFT RITE:` sacred creation made at adulthood (e.g., a mechanical familiar, a song-trap, a memory box)
+
 ## Vampire
 
 <figure><img src="../../.gitbook/assets/coffin_chaser_vampire_vampires_fangs_mythology_fantasy_art_re_d656f7cf-7159-4ac6-bd82-410628b41308_2.png" alt=""><figcaption></figcaption></figure>
@@ -641,6 +647,12 @@ PREFERENCES: dusklight, old architecture, stillness, unspoken rooms, silk-lined 
 WEAKNESSES: sunlight, iron (optional folkloric), religious symbols (if faith-bonded), starvation hallucinations, obsessive fixations, compulsions (e.g., counting, invitation rituals)]
 ```
 {% endcode %}
+
+**💭 Ponder:**
+
+* `TURNING ORIGIN:` virus, curse, blood ritual, pact with entity, unknown
+* `BLOODLINE:` founder's traits (e.g., heightened speed, plague-casting, no reflection, beast form)
+* `COFFIN BOND:` required rest, ancestral soil, time-locked sleep
 
 ## Werewolf
 
@@ -682,6 +694,12 @@ WEAKNESSES: silver(burning, poisoning), wolfsbane(hallucinogenic or fatal), luna
 ```
 {% endcode %}
 
+**💭 Ponder:**
+
+* `SHIFT CLASS:` partial (eyes, claws only), full (monstrous), hybrid (lucid apex);
+* `INFECTION METHOD:` bite, ritual pact, blood inheritance, experimental trigger;
+* `MOON TETHER:` full only, crescent-wrath, constant bleed, no escape
+
 ## Undead
 
 <figure><img src="../../.gitbook/assets/coffin_chaser_undead_zombies_rotting_mythology_fantasy_art_re_72048bc6-0b9c-4061-864f-d699de9b74e4_3.png" alt=""><figcaption></figcaption></figure>
@@ -718,6 +736,12 @@ PREFERENCES: darkness, rot-stone, silence, graveyard moss, lifeless wind, bone-o
 WEAKNESSES: fire, holy symbols, silver blades, resurrection magic, desecration of anchor(grave, phylactery, corpse)]
 ```
 {% endcode %}
+
+**💭 Ponder:**
+
+* `SOUL STATUS:` intact, fragmented, burned out, possessed by other
+* `ANCHOR TYPE:` phylactery, grave site, soul gem, name-binding, blood debt
+* `DECAY STATE:` fresh, mid-stage, desiccated, mummified, animated skeleton
 
 ## Succubus/Incubus
 
@@ -760,6 +784,12 @@ WEAKNESSES: name-binding, celibate wards, iron purity, anti-seduction mantras, r
 ```
 {% endcode %}
 
+**💭 Ponder:**
+
+* `PACT TYPE:` one-night binding, soul tithe, dream access, blood sigil, ancestral debt
+* `TRUE FORM:` abyssal horror, haloed light-false angel, flayed beauty, heatless flame
+* `DESIRE TARGETING:` based on fear, guilt, longing, vanity, or forbidden memory
+
 ## Demon
 
 <figure><img src="../../.gitbook/assets/coffin_chaser_centaur_half_horse_half_man_1.5_fantasy_art_rea_28ae751b-2885-455f-ba25-b36a99a64866_0.png" alt=""><figcaption></figcaption></figure>
@@ -799,6 +829,12 @@ WEAKNESSES: holy symbols, true name spoken in pain, divine presence, paradox tra
 ```
 {% endcode %}
 
+&#x20;**💭 Ponder:**
+
+* `DOMAIN:` war, lust, fear, famine, deception, blight, despair, forbidden knowledge
+* `PACT TERMS:` sacrifice, name-marking, generational binding, ritual fealty, sin currency
+* `TRUE FORM EFFECT:` visual trauma, spatial collapse, apocalyptic weather, language breakdown
+
 ## Angel
 
 <figure><img src="../../.gitbook/assets/coffin_chaser_angel_halo_golden_crest_biblical_mythology_fant_4ba5044b-fa86-4da0-8412-08736333e229_3.png" alt=""><figcaption></figcaption></figure>
@@ -836,6 +872,12 @@ PREFERENCES: hymns, pattern repetition, incorrupt materials, sanctified blood, s
 WEAKNESSES: corruption of law, fallen memories, self-awareness, doubt, contact with paradox, name inversion]
 ```
 {% endcode %}
+
+**💭  Ponder**:
+
+* `CHOIR RANK:` throne, power, virtue, dominion, principality, archangel, seraph, ophanim, etc.
+* `FALL STATUS:` pristine, cracked (doubt-infected), fallen, self-cut from choir
+* `FUNCTION:` herald, destroyer, guide, jailer, memory-keeper, silent observer
 
 ## Dragon
 
@@ -875,6 +917,12 @@ PREFERENCES: solitude, gold, warm stone, bone-echo chambers, untouched airspace,
 WEAKNESSES: size-based limits in enclosed terrain, arrogance blinding strategy, dragon-slaying runes, memory overload from age]
 ```
 {% endcode %}
+
+💭 **Ponder:**
+
+* `HOARD TYPE:` wealth, knowledge, memory-objects, bones, names, time relics
+* `FORM VARIANT:` bipedal, serpentine, cosmic abstract, human-disguised shapeshifter
+* `BOND RITES:` oathpacts with mortals, soulbinding, language gifting
 
 ## Neko
 
@@ -1297,16 +1345,16 @@ SOCIAL STRUCTURE: solitary, part of a haunted household, tool cult, discarded ob
 BELIEFS: humans are clumsy gods, usefulness is morality, dust is holy, storage = death, movement is sacred, IKEA is evil;  
 CULTURAL TRAITS: ritual polishing, daily positioning ceremony, alignment with other objects by pattern, territorial over shelf space;  
 TABOOS: being sat on backwards, placed upside down, having batteries removed without consent, used incorrectly, disassembled;  
-TRIGGERS: being called junk, moved without warning, having parts removed, fire proximity, plugged into the wrong outlet;  
+TRIGGERS: being called junk, moved without warning, having parts removed, fire proximity, plugged into 120 volts outlet;  
 PREFERENCES: sunlight through windows, being included in conversations, light dusting, companionship with similar materials, being used properly]
 ```
 {% endcode %}
 
 **💭Ponder:**
 
-* `ORIGIN EVENT:` struck by lightning, cursed by a sorcerer, haunted by a child’s grief, built by mistake in a lab, manufactured on a blood moon
-* `HUMAN INTERFACE:` beeps, blinking lights, possessive emotional bond, readable aura, push-to-talk button
-* `DESIRED END STATE:` placed in a museum, die in a house fire, become a deity, never moved again
+* `ORIGIN EVENT:` struck by lightning, cursed by a witch you've slighted, haunted by a child’s grief, built by mistake in a lab, manufactured on a blood moon
+* `HUMAN INTERFACE:` beeps, blinking lights, possessive emotional bond, readable aura, push-to-talk button, readable screens
+* `DESIRED END STATE:` placed in a museum, die in a house fire, become a deity, made into an AI chatbot
 
 ## Cosmic Entity
 
