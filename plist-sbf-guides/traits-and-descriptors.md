@@ -11,7 +11,7 @@ coverY: 91
 
 **Traits** are the core characteristics or qualities that define a character's personality, behavior, or nature. They're like the main ingredients in a recipe.
 
-Traits answer the question: "What is this character like at their core?"
+Traits answer the question: _<mark style="color:orange;">"What is this character like at their core?"</mark>_
 
 Think of traits as single-word or short-phrase labels that identify something fundamental about a character:
 
