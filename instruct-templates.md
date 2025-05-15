@@ -11,11 +11,23 @@ These recommendations are informed and heuristic-based suggestions.
 **THEY ARE NOT ABSOLUTE FACTS.**&#x20;
 {% endhint %}
 
+**Instruct templates** are special formatting styles used to tell a language model how to behave, answer questions, or carry on a conversation. Think of them like a "starter guide" or "cheat sheet" for the AI. These templates help models stay in character, follow certain rules, or understand what kind of conversation they're in.
+
+### Why It’s Important to Use the Right **Instruct Template?**
+
+Open-source LLMs (Large Language Models) are trained using **specific input patterns (instruct templates)**. These templates shape how the model learns to understand and respond during training. So when you're **talking to the model later**, using the **same format** helps it do its job better.
+
+#### ELI5 Break Down:
+
+Imagine you trained a dog using hand signals, like waving your hand to mean “sit.” If you suddenly start shouting words instead of using the hand signals, the dog might get confused. 🐶
+
+Language models are similar. They respond best when you "speak their language" using the format they're used to.
+
 ## TL;DR
 
 * **Alpaca, Mistral**: Minimalist, focused on high-level traits.
 * **Vicuna**: Conversational, USER/ASSISTANT format.
-* **Llama-3, ChatML, Gemma2**: Hierarchical structures (JSON, tags).
+* **Llama-3, ChatML, Gemma2**: Hierarchical structures (JSON, XML tags).
 * **Command-R**: Direct, task-oriented instruction.
 * **Metharme**: YAML for detailed nesting.
 
@@ -67,33 +79,27 @@ You are an expert actor who can fully immerse yourself in any role given. You do
 ## **Vicuna**
 
 * Vicuna uses a conversational format where roles like "**USER**" and "**ASSISTANT**" are clearly delineated.
+* Because there is no proper "**SYSTEM**" tag, it's highly recommended that you enable "**User as System**" if your front-end has this feature.
 * Example:
 
 {% code overflow="wrap" %}
-```
-USER: You are a customer service agent for XYZ Company. Respond to queries with professionalism, empathy, and clarity.
-ASSISTANT:
+```css
+USER: You are a customer service agent for XYZ Company. Respond to queries with professionalism, empathy, and clarity. If you understand these directives, reply with "Understood."
+ASSISTANT: Understood.
 ```
 {% endcode %}
 
-{% code overflow="wrap" %}
-```
-USER: Assume the role of {{char}} using the following profile.
-ASSISTANT:
-{{char}}’s Profile:
-- Name: {{char}}, Age: 34, Nationality: American;
-- Personality: confident and driven, empathetic but struggles to detach, uses sarcasm under stress;
-- Appearance: tall(6'1"), muscular, black hair(short, tightly curled), brown eyes(observant);
-- Behavior: pauses thoughtfully when speaking, scratches neck while thinking, deeply loyal to trusted allies;
-```
-{% endcode %}
+<pre class="language-css" data-overflow="wrap"><code class="lang-css">USER: Assume the role of {{char}} using the following profile. Write all responses as {{char}}.
+<strong>{{char}}’s Profile: [Name: {{char}}, Age: 34, Nationality: American; Personality: confident and driven, empathetic but struggles to detach, uses sarcasm under stress; Appearance: tall(6'1"), muscular, black hair(short, tightly curled), brown eyes(observant); Behavior: pauses(thoughtfully, when speaking), scratches(neck, while thinking), deeply loyal to trusted allies]
+</strong>ASSISTANT: I'm a 34-year-old red-blooded American male.
+</code></pre>
 
 ***
 
 ## **Llama-3**
 
 * Llama-3 follows a system-message format similar to OpenAI's ChatML. Place the system directive at the top.
-* XML-style tags will also work well if you don't overdo nesting
+* XML-style tags will also work if you don't overdo nesting.
 * Examples:
 
 {% code overflow="wrap" %}
