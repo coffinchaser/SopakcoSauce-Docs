@@ -328,19 +328,19 @@ WEAKNESSES: brittle bones, low endurance, skittish under scrutiny, daylight blin
 
 "But Soup, what's the difference between the two?"
 
-| Minotaur                                     | Intersectional Traits                                 | Centaur                                                 |
-| -------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------- |
-| Human body with bull head and sometimes legs | **Hybrid creatures combining human and animal parts** | Human upper body (from waist up) with horse lower body  |
-| Single creature in original Greek mythology  | **Both originate from Greek mythology**               | An entire race/species in mythology                     |
-| Associated with labyrinths and isolation     | **Both often portrayed with enhanced strength**       | Associated with forests, fields, and open spaces        |
-| Often depicted as aggressive or monstrous    | **Both appear in modern fantasy media**               | Often portrayed as wise, though can be wild or savage   |
-| Usually male in traditional mythology        | **Often portrayed as excellent combatants**           | Both male and female centaurs exist in mythology        |
-| Associated with rage and brute strength      | **Both symbolize the duality of human/animal nature** | Associated with wisdom, astronomy, and medicine         |
-| Created as punishment from the gods          | **Both represent untamed or primal forces**           | Born as natural beings or children of gods              |
-| Often a solitary, outcast figure             | **Both are prominent in fantasy games/media**         | Usually live in herds or tribes                         |
-| Horns are a defining physical feature        | **Both have enhanced senses**                         | Capable of archery while moving (unique advantage)      |
-| Diet typically omnivorous or carnivorous     | **Both have distinctive, recognizable silhouettes**   | Diet primarily herbivorous like horses                  |
-| Limited intelligence in some interpretations | **Both associated with physical prowess**             | Often portrayed with human-level or higher intelligence |
+| Minotaur                                     | Intersectional Traits                             | Centaur                                                 |
+| -------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------- |
+| Human body with bull head and sometimes legs | Hybrid creatures combining human and animal parts | Human upper body (from waist up) with horse lower body  |
+| Single creature in original Greek mythology  | Both originate from Greek mythology               | An entire race/species in mythology                     |
+| Associated with labyrinths and isolation     | Both often portrayed with enhanced strength       | Associated with forests, fields, and open spaces        |
+| Often depicted as aggressive or monstrous    | Both appear in modern fantasy media               | Often portrayed as wise, though can be wild or savage   |
+| Usually male in traditional mythology        | Often portrayed as excellent combatants           | Both male and female centaurs exist in mythology        |
+| Associated with rage and brute strength      | Both symbolize the duality of human/animal nature | Associated with wisdom, astronomy, and medicine         |
+| Created as punishment from the gods          | Both represent untamed or primal forces           | Born as natural beings or children of gods              |
+| Often a solitary, outcast figure             | Both are prominent in fantasy games/media         | Usually live in herds or tribes                         |
+| Horns are a defining physical feature        | Both have enhanced senses                         | Capable of archery while moving (unique advantage)      |
+| Diet typically omnivorous or carnivorous     | Both have distinctive, recognizable silhouettes   | Diet primarily herbivorous like horses                  |
+| Limited intelligence in some interpretations | Both associated with physical prowess             | Often portrayed with human-level or higher intelligence |
 
 ### Centaur
 
@@ -994,12 +994,12 @@ PHYSIOLOGY: cardiovascular(mutated or enhanced), organ redundancy(yes/no), pain 
 SENSES: expanded/heavily reduced/altered(hyper-smell, echolocation, synesthetic perception, thermal vision);  
 MOVEMENT: standard or altered(digitigrade, crawling, gliding, wall-scaling, teleport displacement);  
 MUTATION CLASS:  
-- **PHYSICAL**: strength, speed, claws, armor, extra limbs, shapeshifting, bone growth  
-- **ELEMENTAL**: flame control, acid skin, electrical discharge, cryo/freeze field  
-- **MENTAL**: telepathy, precognition, emotion manipulation, memory distortion  
-- **ENERGY**: light emission, force projection, aura fields, void-channeling  
-- **TECHNOPHAGE**: metal-flesh hybridization, interface with machines, signal control  
-- **BIOLOGICAL**: parasitism, viral emission, fungal intelligence, hive-mind extension  
+- PHYSICAL: strength, speed, claws, armor, extra limbs, shapeshifting, bone growth  
+- ELEMENTAL: flame control, acid skin, electrical discharge, cryo/freeze field  
+- MENTAL: telepathy, precognition, emotion manipulation, memory distortion  
+- ENERGY: light emission, force projection, aura fields, void-channeling  
+- TECHNOPHAGE: metal-flesh hybridization, interface with machines, signal control  
+- BIOLOGICAL: parasitism, viral emission, fungal intelligence, hive-mind extension  
 MAGIC: not typical unless mutation interacts with occult systems (e.g., leyline resonance, psionic bleed);  
 ORIGIN: inherited, spontaneous, experimental, environmental, extradimensional contact, divine error;  
 CLOTHING: tactical containment gear, shredded remnants, skin-bonded armor, adaptive suit, none;  

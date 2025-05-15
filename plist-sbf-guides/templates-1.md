@@ -79,7 +79,7 @@ Other: ___]
 
 ### Rough Drafts
 
-* After 4-5 edits and 5-10 test messages with your character, you should have a good working draft.
+* After 4-5 edits and 50-100 test messages with your character, you should have a good working draft.
 * Pay attention to which traits appear most often during roleplay. Remember, you don't need to fill every category to create an effective character.
 
 This example shows what my initial drafts look like when creating characters for commission clients.
@@ -90,7 +90,7 @@ This example shows what my initial drafts look like when creating characters for
 
 ### Optimized/Final Draft
 
-After about 10-15 edits and 200-500 test messages, you'll have a polished character.
+After about 10-15 edits and 300-500 test messages, you'll have a polished character.
 
 I can't stress this enough: <mark style="color:red;">**Keep detailed notes during testing.**</mark> This is crucial for identifying and fixing problems!
 
