@@ -327,7 +327,7 @@ WEAKNESSES: brittle bones, low endurance, skittish under scrutiny, daylight blin
 
 ### Centaur
 
-<figure><img src="../../.gitbook/assets/coffin_chaser_centaur_body_with_cloud_background_--no_animal_he_8f7fec3c-d572-4b96-bced-eb667ba4ffd6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/coffin_chaser_centaur_body_with_cloud_background_--no_animal_he_8f7fec3c-d572-4b96-bced-eb667ba4ffd6.png" alt=""><figcaption><p>This was a <strong>PAIN</strong> to prompt and gen.</p></figcaption></figure>
 
 {% code overflow="wrap" %}
 ```yaml
