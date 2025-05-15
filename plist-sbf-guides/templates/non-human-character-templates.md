@@ -129,6 +129,12 @@ WEAKNESSES: air exposure(limited duration?), vulnerability to fire, inability to
 ```
 {% endcode %}
 
+**💭 Ponder:**
+
+* `TRANSFORMATION:` if they shapeshift to landform (Selkie-style).
+* `CYCLE:` for lunar-based or migratory behavior.
+* `MAGICAL ANATOMY:` if body includes runes, living coral, or arcane organs.
+
 ## Elves
 
 <figure><img src="../../.gitbook/assets/coffin_chaser_elves_fantasy_art_realistic_lighting_cinematic__396ea277-7590-4f5b-8889-2de287173005_0.png" alt=""><figcaption></figcaption></figure>
@@ -167,6 +173,12 @@ PREFERENCES: starlight, quiet forests, harmonic sound, ancient ruins;
 WEAKNESSES: arrogance, frailty vs. brute force, infertility or limited reproduction]
 ```
 {% endcode %}
+
+**💭 Ponder:**
+
+* `CASTE:` or `LINEAGE:` if bloodline impacts power, social standing, or appearance
+* `RACIAL HISTORY:` brief mythic summary: fallen gods, fae descent, exile origin, etc.
+* `AURA:` how they’re perceived by others: unsettling, radiant, uncanny
 
 ## Orcs
 
@@ -207,6 +219,12 @@ WEAKNESSES: rage blindsight, heat intolerance (for tundra-born), inflexible dipl
 ```
 {% endcode %}
 
+**💭 Ponder:**
+
+* `RITES:` first blood, naming, elder elevation, exile customs
+* `MARKINGS:` tattoos, war paint, brands (define purpose and placement)
+* `HYBRID STATUS:` if half-orc, clarify parentage and inherited traits (e.g., rounded ears, weaker tusks, cultural alienation)
+
 ## Trolls
 
 <figure><img src="../../.gitbook/assets/coffin_chaser_trolls_fantasy_art_realistic_lighting_cinematic_a3496d4f-e452-4eb8-ad6f-10100893e118_3.png" alt=""><figcaption><p>Yes, I know these look more like orcs. I can't get MidJourney to give me accurate looking trolls to save my life.</p></figcaption></figure>
@@ -246,6 +264,12 @@ WEAKNESSES: low intellect or cunning fixation, regeneration delay with certain d
 ```
 {% endcode %}
 
+**💭 Ponder:**
+
+* `REGENERATION RULE:` limb regrowth delay, cost (energy, flesh), weakness during regrowth
+* `ENVIRONMENTAL BOND:` petrifies in sunlight, heals faster in damp, rage-triggered by noise
+* `EVOLUTIONARY ADAPTATIONS:` fungal symbiosis, stone-plated back, hollow bones for sound mimicry
+
 ## Arachne
 
 <figure><img src="../../.gitbook/assets/coffin_chaser_girl_with_spider_body_arachne_spider_body_spide_ddf02e05-1625-44da-a965-294db0b10e3b_1.png" alt=""><figcaption></figcaption></figure>
@@ -284,6 +308,12 @@ WEAKNESSES: fire, sonic disruption, anti-toxins, excessive light]
 ```
 {% endcode %}
 
+**💭 Ponder:**
+
+* `WEB TYPE:` trap web, sheet web, funnel web, orb web—define silk behavior
+* `BROOD RANK:` egg-bearer, sentinel, widow-born, devourer caste
+* `TRANSFORMATION:` if originally human (cursed, evolved, hybridized)
+
 ## Kobolds
 
 <figure><img src="../../.gitbook/assets/coffin_chaser_kobolds_fantasy_art_realistic_lighting_cinemati_10aa7a14-e720-4ff9-a4db-c07338d21617_0.png" alt=""><figcaption></figcaption></figure>
@@ -321,6 +351,12 @@ PREFERENCES: tight spaces, warmth, shiny objects, riddles, riddled corpses, prai
 WEAKNESSES: brittle bones, low endurance, skittish under scrutiny, daylight blindness (optional)]
 ```
 {% endcode %}
+
+**💭 Ponder:**
+
+* `CASTE:` trapmaker, tunnel runner, alchemist, hoard-watcher, shaman
+* `HATCHMARK:` symbolic scar or tattoo denoting birth clan or warren
+* `ANCESTRY:` direct draconic lineage (e.g., black dragonspawn = acid resistance, fire = pyrotraps)
 
 ## Centaurs & Minotaurs
 
@@ -379,6 +415,12 @@ WEAKNESSES: stairs/steep terrain(narrow spaces), heavy vertical architecture, mu
 ```
 {% endcode %}
 
+**💭 Ponder:**
+
+* `HERD ROLE:` scout, war charger, healer, lorekeeper, storm-runner
+* `GAIT STYLE:` prancing diplomat, heavy-charging warrior, dance-like ritualist
+* `SADDLE MARKS:` ritual scarring or ornamental brands from ancient riders or bonded humans (if permitted in lore)
+
 ### Minotaur
 
 <figure><img src="../../.gitbook/assets/coffin_chaser_minotaur_bull_body_bull_head_fantasy_art_realis_64910d2b-afae-4a23-915f-35bb23b838a0_0.png" alt=""><figcaption></figcaption></figure>
@@ -416,6 +458,12 @@ PREFERENCES: open air, highlands, running water, long silence before speech, tac
 WEAKNESSES: architectural incompatibility(stairs, ladders), tight quarters, overexertion without grazing, social estrangement in isolation]
 ```
 {% endcode %}
+
+**💭 Ponder:**
+
+* `BLOODLINE:` sacred line, cursed offspring, fallen guardian
+* `MAZE BOND:` internal map sense, orientation tied to emotion
+* `HONOR CODE:` structured creed or taboo logic, triggers berserker state if violated
 
 ## Fairy/Fae
 
@@ -561,6 +609,12 @@ PREFERENCES: silence, sky-gazing, obsidian tools, dead language music, untouched
 WEAKNESSES: agility, fire for ice-kin, divine metals, ancient curses, erosion of memory]
 ```
 {% endcode %}
+
+**💭 Ponder:**
+
+* `TITAN BLOOD:` indicate if descended from proto-gods or forgotten divine wars
+* `TERRAIN BOND:` specific geological or elemental territory strengthens or weakens them
+* `CYCLE:` sleep cycles lasting decades, waking only under celestial alignments or seasonal shifts
 
 ## Gnome
 
