@@ -429,6 +429,8 @@ These are two distinct tags for a reason. Consult the following comparison to se
 
 ### Fae
 
+<figure><img src="../../.gitbook/assets/coffin_chaser_fae_fairy_faries_fantasy_art_realistic_lighting_bdab3371-75cb-46b9-81e7-30c6ae17aa5f_1.png" alt=""><figcaption></figcaption></figure>
+
 Immortal, realm-rooted beings tied to ancient nature and powerful magic. Governed by **ritual law**, **emotional economy**, and **court politics**. Not to be confused with simplified “fairies.”
 
 {% code overflow="wrap" %}
@@ -467,6 +469,8 @@ WEAKNESSES: cold iron, forgetting, contradiction, modernity, disrespect of old w
 
 ### Fairy
 
+<figure><img src="../../.gitbook/assets/coffin_chaser_fae_fairy_faries_fantasy_art_realistic_lighting_bdab3371-75cb-46b9-81e7-30c6ae17aa5f_0.png" alt=""><figcaption></figcaption></figure>
+
 Small, often winged, nature-tethered beings. Frequently misrepresented as harmless or whimsical in modern fiction, but retain elemental influence and local mischief logic.
 
 {% code overflow="wrap" %}
@@ -504,6 +508,8 @@ WEAKNESSES: iron, broken magic circles, disbelief, toxic air]
 
 ## Giants
 
+<figure><img src="../../.gitbook/assets/coffin_chaser_giants_giant_humans_mythology_fantasy_art_reali_bf5d9aa0-9a4c-478a-a4ef-baf3526b6ab4_3.png" alt=""><figcaption></figcaption></figure>
+
 {% code overflow="wrap" %}
 ```yaml
 [NAME: (personal or given name, often single-word or stone-language title);  
@@ -540,6 +546,8 @@ WEAKNESSES: agility, fire for ice-kin, divine metals, ancient curses, erosion of
 {% endcode %}
 
 ## Gnome
+
+<figure><img src="../../.gitbook/assets/coffin_chaser_gnome_gnomes_mythology_fantasy_art_realistic_li_32d20642-3c41-4702-95a8-35e41f8c07fb_1.png" alt=""><figcaption></figcaption></figure>
 
 {% code overflow="wrap" %}
 ```yaml
@@ -579,6 +587,8 @@ WEAKNESSES: fragile physiology, hoarding instincts, obsessive focus, noise sensi
 
 ## Vampire
 
+<figure><img src="../../.gitbook/assets/coffin_chaser_vampire_vampires_fangs_mythology_fantasy_art_re_d656f7cf-7159-4ac6-bd82-410628b41308_2.png" alt=""><figcaption></figcaption></figure>
+
 {% code overflow="wrap" %}
 ```yaml
 [NAME: (true name, current alias, or bloodline title);  
@@ -616,6 +626,8 @@ WEAKNESSES: sunlight, iron (optional folkloric), religious symbols (if faith-bon
 {% endcode %}
 
 ## Werewolf
+
+<figure><img src="../../.gitbook/assets/coffin_chaser_werewolf_werewolves_fangs_sharp_teeth_sharp_cla_1de1d603-e672-4110-802f-a687ce9d5ba2_0.png" alt=""><figcaption></figcaption></figure>
 
 {% code overflow="wrap" %}
 ```yaml
@@ -655,6 +667,8 @@ WEAKNESSES: silver(burning, poisoning), wolfsbane(hallucinogenic or fatal), luna
 
 ## Undead
 
+<figure><img src="../../.gitbook/assets/coffin_chaser_undead_zombies_rotting_mythology_fantasy_art_re_72048bc6-0b9c-4061-864f-d699de9b74e4_3.png" alt=""><figcaption></figcaption></figure>
+
 {% code overflow="wrap" %}
 ```yaml
 [NAME: (given name, burial name, necromantic title, or forgotten label);  
@@ -688,7 +702,9 @@ WEAKNESSES: fire, holy symbols, silver blades, resurrection magic, desecration o
 ```
 {% endcode %}
 
-## Succubus/Incubi
+## Succubus/Incubus
+
+<figure><img src="../../.gitbook/assets/coffin_chaser_succubus_incubus_mythology_fantasy_art_realisti_259730c8-b466-434d-b419-243ae146defe_3.png" alt=""><figcaption></figcaption></figure>
 
 {% code overflow="wrap" %}
 ```yaml
@@ -768,6 +784,8 @@ WEAKNESSES: holy symbols, true name spoken in pain, divine presence, paradox tra
 
 ## Angel
 
+<figure><img src="../../.gitbook/assets/coffin_chaser_angel_halo_golden_crest_biblical_mythology_fant_4ba5044b-fa86-4da0-8412-08736333e229_3.png" alt=""><figcaption></figcaption></figure>
+
 {% code overflow="wrap" %}
 ```yaml
 [NAME: (celestial name, often consonant-heavy, vowel-sparse, or sung: e.g., “Serakhael,” “Ithra’un”);  
@@ -803,6 +821,8 @@ WEAKNESSES: corruption of law, fallen memories, self-awareness, doubt, contact w
 {% endcode %}
 
 ## Dragon
+
+<figure><img src="../../.gitbook/assets/coffin_chaser_dragons_mythology_fantasy_art_realistic_lightin_eee64e85-bca6-4dd9-901a-4dfc7e80f6ec_3.png" alt=""><figcaption></figcaption></figure>
 
 {% code overflow="wrap" %}
 ```yaml
