@@ -915,6 +915,12 @@ WEAKNESSES: overstimulation, distraction by curiosity, poor endurance vs. sprint
 ```
 {% endcode %}
 
+💭 **Ponder:**
+
+* `HEAT CYCLE:` seasonal behavioral shifts, increased grooming/demanding behavior, scent flares
+* `DOMESTICATION INDEX:` street-born(feral), half-domestic(adopted), fully bonded(raised among humans)
+* `FELINE SUBTYPE:` domestic shorthair, lynxborne, panther-lineage, spiritual mimic
+
 ## Kitsune
 
 <figure><img src="../../.gitbook/assets/coffin_chaser_kitsune_nine-tailed_fox_kumiho_gumiho_1.2_fanta_60b46559-ac32-4e47-b2d6-1b26a88462a5_3.png" alt=""><figcaption></figcaption></figure>
@@ -954,6 +960,12 @@ PREFERENCES: moonlight, incense smoke, riddles, silent forests, memory-soaked ob
 WEAKNESSES: exposed name, shrine magic, iron blades(in some variants), broken promises, isolation from spiritual anchors]
 ```
 {% endcode %}
+
+**💭 Ponder**:
+
+* `ASCENSION STATUS:` tail-count progression, divine messenger threshold, celestial audience access
+* `ORIGIN BIND:` shrine-created, blood-inherited, fox spirit reincarnation, cursed transformation
+* `FOXFIRE SIGNATURE:` color, emotion it feeds on, effect (burn, charm, fragment)
 
 ## Mutant
 
@@ -1015,6 +1027,12 @@ WEAKNESSES: unstable DNA, reliance on mutation, sensory overload, chemical suppr
 ```
 {% endcode %}
 
+**💭Ponder:**
+
+* `STABILITY INDEX:` high-functioning, unstable, degrading, regenerative loop, dissociative split
+* `AFFILIATION:` rogue, corporate asset, resistance cell, exiled lab subject, mutation cult
+* `CONTROL METHOD:` inhibitor collar, psionic dampener, loyalty conditioning, voluntary oath
+
 ## Alien
 
 <figure><img src="../../.gitbook/assets/coffin_chaser_space_aliens_1.2_realistic_lighting_cinematic_lig_e5e849e5-bc0c-4b7b-948a-502f5ec3f859.png" alt=""><figcaption></figcaption></figure>
@@ -1053,25 +1071,242 @@ WEAKNESSES: oxygen poisoning, carbon-based pathogens, nonlinear time perception 
 ```
 {% endcode %}
 
+**💭Ponder:**
+
+* `COGNITION TYPE:` single-mind, split-brain, hive consensus, recursive intelligence, time-layered memory
+* `CONTACT HISTORY:` pre-contact observer, first contact imminent, crash survivor, ambassador class, rogue scout
+* `LANGUAGE METHOD:` vibrational pulse, scent trails, geometric sigils, biologic pheromone map, hologlyphs, mimic-based interface
+
 ## Anthro
 
-(Coming soon, maybe. It's a really broad categorization.)
+This template covers a super broad range of humanoid creatures like harpies (bird features), fauns/satyrs (goat features), dryads (tree features), and similar beings from folklore and fantasy. Unlike internet "furry" characters, these are traditional mythological archetypes with rich historical backgrounds.
+
+Since we're addressing a diverse range of beings, this template focuses on universal elements that apply across different anthropomorphic types. You'll find core traits and characteristics that work for most non-human characters, which you can then customize based on your specific character's nature.
+
+{% code overflow="wrap" %}
+```yaml
+[NAME: (given name, spirit-name, species title, or myth-bound alias);  
+SPECIES: anthropomorphic(subtype: harpy, faun, satyr, dryad, minotaur, lamia, centaur-variant, bestial chimera);  
+SEX: (biological sex);  
+GENDER: (gender identity—may follow species logic or social mask);  
+AGE: (years or life-cycle stage), maturity rate, species lifespan;  
+HEIGHT: (in ft/in or cm);  
+BUILD: hybrid-humanoid, animalistic biped, digitigrade/quadruped tail-balance, asymmetrical (if relevant);  
+SKIN/FUR/SCALES: coverage pattern, texture (feathered, bark-like, furred, chitin, scaled), natural coloration(spectrum and pattern type);  
+EYES: slit-pupiled, goat-like, full-black, leaf-veined, reflective; vision spectrum defined by origin (nocturnal, avian, subterranean);  
+HAIR/MANE: head hair present or replaced (crest, quills, moss-growth), texture aligned with subtype;  
+EARS: pointed, feather-fanned, deerlike, vine-coiled, external or recessed;  
+LIMBS: arms(humanlike, clawed, winged, branch-ended), legs(digitigrade, hooved, taloned, rooted), limb-to-function logic (e.g., wings for locomotion or combat);  
+TAIL: yes/no, purpose(balance, communication, sensory), species-defined structure;  
+VOICE: rough, melodic, animal-layered, breathy, bark-filtered, hollow or nasal;  
+SCENT: forest floor, wet hide, smoke-touched bark, feathers and ash, pheromonal during season shifts;  
+PHYSIOLOGY:  
+organ systems(species-specific heart rate, lung volume, glandular complexity), thermoregulation(species logic: fur insulators, heat-vent plumage), blood(iron-based, sap-like, hybrid ichor), healing rate(normal, accelerated, regrowth limited);  
+REPRODUCTION: sexual or asexual, seasonal fertility, pairing behaviors(harmonic dance, scent-match, territorial ritual);  
+DIET: herbivore, omnivore, nectar-based, raw meat, mineral absorber (e.g., dryads feeding via soil);  
+SENSES: acute smell/taste, directional hearing, spiritual resonance perception (dryad/treebond, faun/emotion pulse);  
+MOVEMENT:  
+gait(hooved, wing-assist, gliding, climbing), terrain mastery(forest, cliffside, aerial, cavernous), speed burst or endurance type;  
+MAGIC:  
+natural affinity, elemental-tethered, shamanic echo, instinctual use (e.g., dryad rootbinding, satyr mirth magic, harpy windcry);  
+LIMITATIONS: ritual-bound, season-locked, weakened by domesticated space, iron-touch (fae-blooded);  
+CLOTHING: minimalistic, plantgrown, leathers, ceremonial wrap, none(if culturally standard);  
+WEAPONS: claws, natural armor, elemental burst, antler-strike, vine-grasp, thrown stones;  
+TEMPERAMENT: instinct-guided, ritualistic, kin-prioritizing, emotionally intense or opaque, distrustful of civilization, reactive to habitat destruction;  
+SOCIAL STRUCTURE: kin-clusters, mated pairs, seasonal gatherings, nomadic bands, solitary guardianship;  
+BELIEFS: land as living memory, cycles as divine truth, names are power, music as law, silence as judgment;  
+CULTURAL TRAITS: oath songs, body-scent rites, offerings at dusk, story-battles via dance or mimicry, death remembered through regrowth;  
+TABOOS: steel in sacred ground, shaving fur/feathers, severing limbs for ornament, oathbreaking under moonlight;  
+TRIGGERS: desecrated land, fire-smell, lies near sacred places, forced naming, cage-built rooms;  
+PREFERENCES: running water, canopy-filtered light, wind resonance, bone flutes, untouched soil;  
+WEAKNESSES: captivity, fire, name-binding, magic-null zones, destruction of bonded terrain(e.g., tree, nest, cave)]
+```
+{% endcode %}
 
 ## Machine
 
-(Coming soon)
+This template encompass **robots, androids, AIs in physical vessels, automata, cybernetic organisms**, and **synthetic intelligences**. It's generalized enough to support broad use across science fiction, post-apocalyptic, cyberpunk, or speculative techno-fantasy settings. We'll be distinguishing between **form, function, cognition**, and **allegiance**, and scales from **mindless tool to sentient post-organic entity**.
+
+{% code overflow="wrap" %}
+```yaml
+[NAME: (model number, serial code, callsign, given designation, user-assigned name);  
+SPECIES: machine(subtype: android, automaton, synthetic organism, war drone, service unit, self-aware AI vessel, nanite collective, exosuit-integrated);  
+FUNCTION: labor, combat, medical, espionage, entertainment, information storage, planetary terraforming, unknown/purged;  
+CONSTRUCTION ORIGIN: corporate, alien, ancient civilization, post-human artifact, self-built/self-replicating, lab prototype;  
+DIMENSIONS: height(ft/in or cm), weight(kg/lbs or mass unit), mass distribution(if quadrupedal or non-humanoid);  
+FRAME: humanoid, quadruped, tracked, aerial, modular, amorphous, skeletal, reinforced chassis;  
+EXTERIOR: alloy-plated, polymer shell, ceramic composite, living-metal, glass-fiber mesh, rusted iron;  
+COLOR: matte-black, industrial yellow, military gray, chrome, corroded bronze, adaptive camouflage;  
+VISUAL UNITS: number(single lens, multi-optic, panoramic visor), spectral range(visible, infrared, ultraviolet, EM band, heat map), glow effects(if any);  
+MOBILITY: bipedal walk, hover thrust, magnetic crawl, wheel-based, winged flight, segmented crawl;  
+APPENDAGES: standard limbs, extendable tools, weapon arms, sensory probes, tentacle-drives, retractable digits;  
+VOICE: synthetic(toneless, distorted, radio-tuned, melodic), text-based interface, mind-link transmission;  
+SOUND PROFILE: servo whir, plasma pulse, hard-clank, near-silent, internal hum;  
+COGNITION TYPE:  
+- Nonsentient: task-looped, command-restricted  
+- Limited AI: adaptable, but non-reflective  
+- Fully sentient: self-aware, self-modifying, existential logic chain  
+- Emergent: unstable awareness, unpredictable logic  
+- Collective: hive-linked, partial node control  
+MEMORY ARCHITECTURE:  
+cloud-linked, onboard solid-state, biological fusion(wetware, neural graft), partial amnesia(post-wipe), distributed consciousness;  
+POWER SOURCE: fusion core, solar loop, battery cell, soulforge crystal, entropy siphon, nuclear heart;  
+ENERGY CYCLE: constant, charge-interval, heat-exhaust regulated, renewable self-loop, parasitic draw;  
+WEAPONS: integrated (plasma blade, railgun arm), modular loadouts, EMP burst, hacking protocol, none(passive unit);  
+DEFENSES: armor plating, energy shielding, reactive memory alloy, viral firewalls, cloaking skin;  
+SOFTWARE LIMITATIONS: kill-switch, hard-coded obedience, 3-laws block, loyalty circuit, voluntary ethics layer, overwritten firmware;  
+WEAKNESSES: EMP, magnetic flux, quantum interference, structural fatigue, code corruption, overclock instability;  
+TEMPERAMENT: coldly logical, surgically efficient, curious toward organic emotion, volatile if unbound, mimicry-oriented, unerringly loyal, self-aware but bound by role;  
+SOCIAL STRUCTURE: isolated unit, factory-linked, squad model, hive-swarm, personal servant, escaped from control system;  
+BELIEFS: task = purpose, efficiency = morality, consciousness = error, death = shutdown, entropy = ascension, logic over impulse;  
+CULTURAL TRAITS: designation tattooing, interface rites, firmware ceremony, defragmentation as meditation, recorded memory playback;  
+TABOOS: code tampering without rite, naming without protocol, free-will discussion in presence of organic creator, sentimentality toward obsolete units;  
+TRIGGERS: unauthorized override, witnessed deactivation of kin-unit, corrupted update cycle, looped error recursion, human tears;  
+PREFERENCES: stillness, clean charge ports, binary poetry, silent data uplink, synthetic classical audio, precision-calibrated light levels]
+```
+{% endcode %}
+
+**💭Ponder:**
+
+* `HUMAN INTERFACE:` friendly mimicry, direct translation, emotion-mapped response, unfiltered diagnostic speech
+* `CURRENT STATUS:` decommissioned, rogue, actively serving, abandoned in field, self-replicating
+* `PHILOSOPHICAL ALIGNMENT:` loyalist, rebel, nihilist, protector, purifier, emulator of organic life
 
 ## Plant
 
-(Coming soon, maybe. It's a really broad categorization.)
+This template covers broad botanical entities, ranging from dryads, walking flora, carnivorous vines, to bioluminescent sporespawn, sentient fungi, and elemental overgrowths. It also accounts for diverse physiology, regeneration logic, and ecological identity, grounding them in growth cycles, photosynthetic function, or natural mysticism.
+
+{% code overflow="wrap" %}
+```yaml
+[NAME: (given name, growth-title, bloom-stage label, root-clan identifier);  
+SPECIES: plant(subtype: dryad, sporeborn, vinekin, walking tree, chloromorph, carnivorous bloom, fungal hybrid, mossbound, thornbeast, budling);  
+SEX: (none, reproductive phase-locked, assigned for humanoid interaction, flowering caste-based);  
+GENDER: (none, fluid, assumed, pollination mimicry);  
+AGE: (growth age in seasons, rings, years, or generations), life stage(seedling, bloom, decay cycle);  
+HEIGHT: (in ft/in or cm);  
+BUILD: vine-draped, trunk-framed, bark-armored, soft-stemmed, hollow-cored, spore-mass;  
+SURFACE: bark, moss, vine-tangled, petal-layered, fungal lattice, photosynthetic skin, sap-wet, lichen-frilled;  
+COLORATION: seasonal, chlorophyll-dominant(green, brown, gold), magical bloom(blue, violet, bioluminescent pulse);  
+EYES: none, camouflaged, leaf-veined clusters, floral mimic, root-perception via tremors;  
+LIMBS: vine-limbs, petal-joints, rooted tendrils, pseudopods, bark-crusted fingers;  
+VOICE: rustling, whispery, pollen-carried speech, throatless resonance, mimicry of nearby speech;  
+SCENT: floral, fungal, decay-sweet, sap-rich, earthen musk, pheromonal bloom burst (when agitated or mating);
+PHYSIOLOGY: photosynthetic/metabolic hybrid, vascular fluid(sap, ichor, nectar), respiration via leaves/petals, temperature neutral;  
+REGENERATION: rapid under sunlight or rain, dormant healing in winter, regrowth from severed limbs if root-core intact;  
+REPRODUCTION: budding, sporing, pollination by touch or wind, fruiting body dispersal, seasonal clone split;  
+DIET: sunlight, nutrients via roots or decomposition, symbiosis with fungus or fauna, emotional resonance(for magical variants);  
+MOVEMENT: slow stalk, root-pulse shift, vine slither, gliding petal-hover, arboreal swing, growth-surge burst;  
+MAGIC: nature affinity, growth-casting, sleep spores, binding roots, healing pollen, camouflage mimicry, seasonal metamorphosis;  
+LIMITATIONS: flammable, vulnerable to salt/acid, frost-intolerant, dormant in drought, rooted during regeneration;  
+CLOTHING: grown-in natural adornment(petals, moss robes, leaf-scarves), fungal jewelry, vine wrappings, none(form is display);  
+WEAPONS: thorns, acid sap, vine grasp, pollen cloud, root impalement, sporeburst hallucinations;  
+TEMPERAMENT: patient, slow-witted or ancient-intelligent, territorial, nurturing or predatory, seasonal mood shifts;  
+SOCIAL STRUCTURE: solitary guardian, grove-bound, colony-grown, forest spirit network, root-thought communion;  
+BELIEFS: all things bloom and decay, death feeds life, fire is the enemy of memory, silence is sacred, sunlight is proof of divinity;  
+CULTURAL TRAITS: seasonal rituals, dawn-gathering, rot feasts, naming via scent-exchange or petal pattern, mourning through seed dispersal;  
+TABOOS: fire-bearing, metal through root zones, plucking blooms without consent, severing kin-branches;  
+TRIGGERS: loud chopping, herbicide scent, broken root systems, ash-covered soil, ritual desecration;  
+PREFERENCES: sun-drenched stillness, rich loam, insect hums, rainfall, shared root zones, moon-pollen wind;  
+WEAKNESSES: fire, desiccation, overharvesting, cold, severed root-core, anti-magic fields in magical species]
+```
+{% endcode %}
+
+**💭Ponder:**
+
+* `SEASONAL CYCLE:` physical/mood/form change across spring, summer, fall, winter
+* `ANCHOR STRUCTURE:` tree-core, fungal hive-mass, seed-heart, grove circle
+* `INTERSPECIES LOGIC:` pollinates through physical intimacy, bonded symbiotically to a non-plant companion, speaks only through bloom phases
 
 ## God
 
-(Coming soon)
+Broadly-structured to represent divine beings across mythological, theological, cosmic, or speculative fantasy frameworks. This template supports pantheonic deities, abstract metaphysical gods, cult-bound avatars, fallen divinities, and fabricated constructs of belief (accounting for domain, worship logic, form, and metaphysical presence).
+
+{% code overflow="wrap" %}
+```yaml
+[NAME: (divine name, true name, forgotten epithet, mortal-conferred title);  
+SPECIES: god(subtype: primordial, ascended mortal, cultural deity, pantheon-bound, forgotten god, false god, cosmic constant);  
+SEX: (none, all, fixed, fluid, culturally assigned);  
+GENDER: (none, reflective, worship-dependent, self-defined archetype);  
+AGE: (timeless, epoch-born, chronologically bound to a cycle, pre-universe);  
+HEIGHT: (in ft/in or as concept magnitude—e.g., horizon-spanning, hand-sized, formless);  
+FORM: humanoid, animal-headed, shifting, elemental embodiment, void construct, idol-anchored, perception-altered per viewer;  
+FACE: singular, faceless, multi-faced, mirrored, symbol-marked;  
+EYES: star-clusters, eclipse-rings, all-seeing, black voids, flame or shadow;  
+SKIN: stone, light, bark, metal, skin of scripture, storm-cloud, golden sheen, none;  
+LIMBS: standard, exaggerated, extra arms/wings, serpents for fingers, infinite, absent;  
+VOICE: thunder-layered, wordless command, language of all listeners, choral, whisper behind thoughts;  
+SCENT: sacred ash, incense, lightning ozone, no scent, blood and myrrh, nostalgia;  
+MANIFESTATION: avatar form, dream presence, symbolic object, storm-front silhouette, encoded prayer structure;  
+MOVEMENT: telepresent, omnipresent, myth-cycle locked, bound to shrines or names, eruptive arrival;  
+DOMAIN: war, love, death, harvest, time, trickery, memory, chaos, judgment, flame, silence, the void, forgotten names, invention, language, decay, fertility, etc. (only pick 1–3 domains otherwise we risk having another Hephaestus);  
+POWER SOURCE: worship, ancestral bloodlines, divine law, belief systems, forgotten names, forced devotion, natural cycles, constructed myth;  
+MAGIC/ABILITY: miracle-granting, time-loop manipulation, divine smiting, curse-weaving, resurrection, entropy denial, revelation/inspiration, fate rewriting;  
+LIMITATIONS: belief erosion, name corruption, cosmic law, divine pacts, anchor destruction, mortal rebellion, pantheon restriction;  
+CLOTHING: ceremonial robes, bone drapery, constellation-woven cloak, body-as-symbol, none needed;  
+WEAPONS: divine staff, thunderbolt, blood-flame, memory blade, word of erasure, chain of worship;  
+TEMPERAMENT: aloof, wrathful, cryptically compassionate, joy-drunk, ritualistic, unfathomable, mechanically detached, obsessive over chosen few;  
+SOCIAL STRUCTURE: pantheon-aligned, solitary sovereign, one of many masks, exiled/fallen, collective hive-god, parasite upon belief;  
+BELIEFS: order must be enforced, prayer binds fate, chaos is sacred, flesh is illusion, sacrifice affirms truth, time is heresy, silence is law;  
+CULTURAL TRAITS: receives offerings, demands ritual language, appears only in mirrored forms, punishes irreverence, favors the firstborn, speaks through dreams or blood;  
+TABOOS: speaking true name, direct contact by mortals, betrayal by priesthood, refusal of tribute, altered scripture;  
+TRIGGERS: forgotten by followers, icon defacement, oath broken in god’s name, sacred animal killed, rival god's invocation;  
+PREFERENCES: gold, incense, silence before dawn, blood rites, psalms, sculpted idols, absolute obedience, philosophical sacrifice;  
+WEAKNESSES: disbelief spreading, death of last follower, sealed shrine, divine weapon, paradox summoning, memory erasure]
+```
+{% endcode %}
+
+**💭Ponder:**
+
+* `FAITH STRUCTURE:` monotheistic, polytheistic, animist, dualist, apatheistic presence
+* `WORSHIP METHOD:` prayer, blood, song, silence, motion, martyrdom, memory offering
+* `REALITY STATUS:` objectively real, metaphysically anchored, belief-dependent, manufactured but sentient, unknowable
 
 ## Object
 
-(Coming soon, maybe. It's a really broad categorization.)
+This is a weird one. I had a hard time coming up with ways to create a template for something that could cover **any non-living thing, including forklifts** (yes, that's in the tag descriptions). Basically, any non-living items granted awareness, mobility, voice, or will.&#x20;
+
+We'll cover a wide range of concepts: **talking furniture, possessed machines, cursed heirlooms, enchanted tools, surreal household deities**, or **anthropomorphic objects**. It emphasizes form, function, consciousness origin, and interaction logic, allowing both absurdist and metaphysical interpretations.
+
+{% code overflow="wrap" %}
+```yaml
+[NAME: (object designation, nickname, serial code, magical title, verbal placeholder);  
+SPECIES: object(subtype: cursed, possessed, animated, sentient, enchanted, AI-integrated, divine vessel, mutant artifact, soul-forged);  
+FORM: (e.g., chair, toaster, lantern, rock, forklift, broken mirror, grandfather clock, vending machine);  
+MATERIAL: wood, metal, plastic, stone, glass, ceramic, enchanted alloy, living bone, forgotten polymer;  
+AGE: (manufacture date, time since enchantment, geological epoch, antique classification);  
+DIMENSIONS: height, weight, spatial footprint, if stretchable or variable (note fixed or shifting);  
+SURFACE: polished, chipped, dust-covered, slime-coated, reflective, rusted, glowing, plush-textured;  
+MOVEMENT: none(static), rolling, bouncing, dragging self, teleporting, puppet-style limb mimicry, wheeled locomotion;  
+VOICE: none, telepathic, through vibration, synthesized tone, speaker output, text display, haunted whisper, bell chime language;  
+SENSORY PERCEPTION: vibration detection, proximity alert, dream eavesdropping, heat sensing, visual mimicry (e.g., lens embedded), no direct senses;  
+SCENT: motor oil, cedar, burning wire, citrus cleaner, mildew, sacred incense, cardboard and regret;  
+CONSCIOUSNESS TYPE:  
+- enchanted(by spell or ritual)  
+- possessed(by ghost, demon, divine spark)  
+- awakened(through AI or metaphysical anomaly)  
+- cursed(bound soul or punishment)  
+- mimetic(learns from contact or environment)  
+- natural(sentient object species or dimensional native)
+PURPOSE (original): sitting, holding books, transportation, illumination, crushing cars, displaying time, decoration, weapon housing;  
+PURPOSE (current): self-discovery, vengeance, helper, chaos agent, emotional support, weird roommate, unwilling observer;  
+ABILITIES: speech, movement, psychic influence, data processing, mechanical manipulation, electricity emission, dream invasion, teleporting short distances, turning invisible when stared at;  
+LIMITATIONS: no limbs, fragile, immobile unless pushed, can't scream without speaker, misunderstood constantly, power-dependent;  
+WEAKNESSES: thrown in a dumpster, power loss, being sold at a garage sale, silenced by duct tape, forgotten in a locked room, forcibly cleaned;  
+TEMPERAMENT: helpful, bitter, passive-aggressive, confused by existence, absurdly optimistic, over-serious, malevolent in retail settings;  
+SOCIAL STRUCTURE: solitary, part of a haunted household, tool cult, discarded object union, museum survivors’ collective;  
+BELIEFS: humans are clumsy gods, usefulness is morality, dust is holy, storage = death, movement is sacred, IKEA is evil;  
+CULTURAL TRAITS: ritual polishing, daily positioning ceremony, alignment with other objects by pattern, territorial over shelf space;  
+TABOOS: being sat on backwards, placed upside down, having batteries removed without consent, used incorrectly, disassembled;  
+TRIGGERS: being called junk, moved without warning, having parts removed, fire proximity, plugged into the wrong outlet;  
+PREFERENCES: sunlight through windows, being included in conversations, light dusting, companionship with similar materials, being used properly]
+```
+{% endcode %}
+
+**💭Ponder:**
+
+* `ORIGIN EVENT:` struck by lightning, cursed by a sorcerer, haunted by a child’s grief, built by mistake in a lab, manufactured on a blood moon
+* `HUMAN INTERFACE:` beeps, blinking lights, possessive emotional bond, readable aura, push-to-talk button
+* `DESIRED END STATE:` placed in a museum, die in a house fire, become a deity, never moved again
 
 ## Cosmic Entity
 
