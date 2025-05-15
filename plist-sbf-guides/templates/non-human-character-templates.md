@@ -900,6 +900,8 @@ WEAKNESSES: overstimulation, distraction by curiosity, poor endurance vs. sprint
 
 ## Kitsune
 
+<figure><img src="../../.gitbook/assets/coffin_chaser_kitsune_nine-tailed_fox_kumiho_gumiho_1.2_fanta_60b46559-ac32-4e47-b2d6-1b26a88462a5_3.png" alt=""><figcaption></figcaption></figure>
+
 {% code overflow="wrap" %}
 ```yaml
 [NAME: (true name—often hidden or bound; public alias or human name optional);  
@@ -937,6 +939,8 @@ WEAKNESSES: exposed name, shrine magic, iron blades(in some variants), broken pr
 {% endcode %}
 
 ## Mutant
+
+<figure><img src="../../.gitbook/assets/coffin_chaser_mutants_1.2_realistic_lighting_cinematic_lighti_6e16d631-c8d1-4a68-b9cf-ead772c36b05_2.png" alt=""><figcaption><p>Midjourney kept giving me skeletons and undead looking gens. This is the best out of 30.</p></figcaption></figure>
 
 This template is **adaptable across multiple genres** (dystopian, superhero, biohorror, post-apocalyptic, sci-fi) and covers:
 
@@ -995,6 +999,8 @@ WEAKNESSES: unstable DNA, reliance on mutation, sensory overload, chemical suppr
 {% endcode %}
 
 ## Alien
+
+<figure><img src="../../.gitbook/assets/coffin_chaser_space_aliens_1.2_realistic_lighting_cinematic_lig_e5e849e5-bc0c-4b7b-948a-502f5ec3f859.png" alt=""><figcaption></figcaption></figure>
 
 {% code overflow="wrap" %}
 ```yaml
