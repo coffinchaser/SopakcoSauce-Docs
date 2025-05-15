@@ -12,11 +12,11 @@ icon: scale-unbalanced-flip
 
 Stable Diffusion supports both **parentheses** and **numerical weights** for emphasis:
 
-* **Parentheses for Emphasis:**
+* **Emphasis:**
   * `(keyword)` increases emphasis slightly.
   * `((keyword))` increases it more significantly.
   * `(((keyword)))` or additional parentheses for even stronger emphasis.
-* **Brackets for De-emphasis:**
+* **De-emphasis:**
   * `[keyword]` reduces the importance of the keyword.
 * **Numerical Weights:**
   * Use `keyword:weight` to directly set the weight.
@@ -104,6 +104,7 @@ In MidJourney, **weighting syntax** allows users to emphasize or de-emphasize ce
 **Double Colons (`::`)**:
 
 * Place `::` followed by a numerical weight after a specific term or phrase.
+* Add a space **after** the numerical weight.
 * Example: `a golden retriever::2 sitting in a field of flowers::0.5`
   * The **golden retriever** is emphasized with weight 2 (more influence).
   * The **field of flowers** is de-emphasized with weight 0.5 (less influence).
@@ -166,7 +167,7 @@ The sunset dominates, while the beach and palm trees are secondary.
 
 {% tab title="Negative Parameter" %}
 ```plaintext
-a futuristic city::2, a flying car::1 --no skyscrapers
+a futuristic city::2 a flying car::1 --no skyscrapers
 ```
 
 You can use `--no` with weights to exclude or downplay certain elements. For instance:
@@ -192,9 +193,9 @@ The text elements are emphasized more than the image input due to the reduced `-
 
 {% tab title="Use Cases" %}
 * **Focus Control:** Highlight specific objects, styles, or themes.
-  * Example: `a giant robot::2, city skyline::0.5`
+  * Example: `a giant robot::2 city skyline::0.5`
 * **Detail Reduction:** Downplay less critical aspects of a scene.
-  * Example: `a dense forest::2, a small lake::0.2`
+  * Example: `a dense forest::2 a small lake::0.2`
 * **Experimentation:** Test different weights to fine-tune output.
 {% endtab %}
 {% endtabs %}

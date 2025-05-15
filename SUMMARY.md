@@ -27,7 +27,6 @@
 * [Advanced Techniques](advanced-techniques.md)
 * [Master Categories](master-categories.md)
 * [Complete Character Examples](complete-character-examples.md)
-* [Final Checklist](final-checklist.md)
 
 ## Text Generation Guides
 

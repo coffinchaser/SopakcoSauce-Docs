@@ -25,22 +25,43 @@ layout:
 
 Tight budget ≠ boring characters. Here's how to ensure character complexity while still staying within our token budget:
 
-1. **Token-Efficient Depth Markers:**
-   * Surface trait(visible behavior, hidden motive)
-   * Action pattern(trigger event, psychological driver)
-2. **Compound Characteristics:**
-   * protector(shields others, past trauma)
-   * expert(proves worth, fears failure)
-3. **Layered Information:**
-   * controlled(professional calm, masks anxiety, childhood roots)
-   * strategic(plans ahead, fears chaos, needs control)
-4. **Essential Trait Compression:**
-   * guarded(trust issues, past betrayal)
-   * driven(workaholic, proves worth)
-5. **Quality > Quantity:**
-   * Prioritize fewer, deeper traits over many surface traits
-   * Link quirks/habits/behaviors to psychological roots (backstory)
-   * Connect present actions/motivations to past experiences (again, backstory)
+{% stepper %}
+{% step %}
+### **Token-Efficient Depth Markers**
+
+* surface trait(visible behavior, hidden motive)
+* action pattern(trigger event, psychological driver)
+{% endstep %}
+
+{% step %}
+### **Compound Characteristics**
+
+* protector(shields others, past trauma)
+* expert(proves worth, fears failure)
+{% endstep %}
+
+{% step %}
+### **Layered Information**
+
+* controlled(professional calm, masks anxiety, childhood roots)
+* strategic(plans ahead, fears chaos, needs control)
+{% endstep %}
+
+{% step %}
+**Essential Trait Compression**
+
+* guarded(trust issues, past betrayal)
+* driven(workaholic, proves worth)
+{% endstep %}
+
+{% step %}
+### **Quality > Quantity**
+
+* Prioritize fewer, deeper traits over many surface traits
+* Link quirks/habits/behaviors to psychological roots (backstory)
+* Connect present actions/motivations to past experiences (again, backstory)
+{% endstep %}
+{% endstepper %}
 
 ## Implementation
 

@@ -157,7 +157,7 @@ Char4: role(specialty, position), age, species(traits, abilities), position(resp
 
 ### Examples
 
-2-12 Infantry (185 tokens)
+**2-12 Infantry (185 tokens)**
 
 > \[Second Wolf Squad Info:
 >
@@ -173,7 +173,7 @@ Char4: role(specialty, position), age, species(traits, abilities), position(resp
 >
 > \{{user\}}: human commander, NCO, "Collar"]
 
-Generic D\&D Party (280 tokens)
+**Generic D\&D Party (280 tokens)**
 
 > \[Twilight Vanguard Party Info:
 >
@@ -200,12 +200,12 @@ Generic D\&D Party (280 tokens)
 > Name, Role, Personality, Flaws, Dynamics, Backstory, Quirks, Core
 
 * Keep it concise to stay within the model’s memory limits
-* Primary Character (150 tokens):
+* **Primary Character (150 tokens):**
   * Core identity: 15 tokens
   * Key dynamics: 45 tokens
   * Deep traits: 60 tokens
   * Behavioral patterns: 30 tokens
-* Side Characters (125 tokens):
+* **Side Characters (125 tokens):**
   * Core identity: 10 tokens
   * Key dynamics: 35 tokens
   * Deep traits: 50 tokens

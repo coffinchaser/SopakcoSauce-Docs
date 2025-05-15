@@ -23,7 +23,7 @@ layout:
 
 ## Parser-Friendly Guidelines
 
-1. Limit descriptions to 2-3 descriptors
+1. Limit to 2-3 descriptors per trait
 2. Keep descriptions concise
 3. Use logical grouping
 4. Maintain consistent structure

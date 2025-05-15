@@ -14,7 +14,7 @@ icon: face-frown-slight
 * **Sampling Steps**: 20
 * **Sampling Method**: Euler a
 * **CFG**: 4
-* No negative prompt, VAE, LoRA, Face Fix, Quality Tags used
+* <mark style="color:red;">**Not Used:**</mark> <mark style="color:red;"></mark><mark style="color:red;">negative prompt, VAE, LoRA, Face Fix, Quality Tags</mark>
 
 </details>
 
