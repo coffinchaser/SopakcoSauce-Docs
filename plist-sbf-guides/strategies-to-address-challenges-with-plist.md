@@ -358,7 +358,7 @@ Most LLMs are trained to understand conversations.  It's easier for the model to
 
 #### 2. Clear Questions Help the AI Stay Focused
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><p>Every answer has a clear "anchor" and a question that tells the AI exactly what kind of answer to give.</p><p></p><p>This makes the AI less likely to go off-topic or misunderstand what you want.</p></td><td><p><strong>Example:</strong></p><p><strong>Q:</strong> What scares you the most?<br><strong>A</strong>: Losing control. Chaos is my enemy."</p></td><td><a href="../.gitbook/assets/prose.png">prose.png</a></td></tr><tr><td>Dense blocks of internal monologue or stylized prose can lead to ambiguity drift when used with models that haven't been fine-tuned on prose or storytelling text.</td><td><p><strong>Example:</strong></p><p>"Though he rarely admits it, there's a deep fear buried under his calm exterior—something about losing his grip on the plan."</p></td><td><a href="../.gitbook/assets/prose (1).png">prose (1).png</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><p>Every answer has a clear "anchor" and a question that tells the AI exactly what kind of answer to give.</p><p></p><p>This makes the AI less likely to go off-topic or misunderstand what you want.</p></td><td><p><strong>Example:</strong></p><p><strong>Q:</strong> What scares you the most?<br><strong>A</strong>: Losing control. Chaos is my enemy.</p></td><td><a href="../.gitbook/assets/prose (1).png">prose (1).png</a></td></tr><tr><td>Dense blocks of internal monologue or stylized prose can lead to ambiguity drift when used with models that haven't been fine-tuned on prose or storytelling text.</td><td><p><strong>Example:</strong></p><p>"Though he rarely admits it, there's a deep fear buried under his calm exterior—something about losing his grip on the plan."</p></td><td><a href="../.gitbook/assets/prose.png">prose.png</a></td></tr></tbody></table>
 
 #### 3. It Keeps the Character's Voice Strong and Consistent
 
@@ -369,14 +369,14 @@ When each answer stands on its own, it’s easier for the AI to learn how the ch
 
 #### Interview Style vs Traditional Prose
 
-|                                         | Q\&A (Interview Style)                 | Traditional Prose                                                                    |
-| --------------------------------------- | -------------------------------------- | ------------------------------------------------------------------------------------ |
-| **Works well with AI?**                 | Yes – matches training data            | Sometimes – depends on how it's written                                              |
-| **Character voice?**                    | Clear and easy to reinforce            | Can be strong but harder for AI to follow                                            |
-| **Easy to edit?**                       | Yes – just tweak one answer            | Harder – changes ripple through the story                                            |
-| **Immersive?**                          | Functional, less atmospheric           | Very immersive when done well                                                        |
-| **Best for...?**                        | Roleplay, prompts, chatbot characters  | Stories, lore, emotional depth                                                       |
-| **Hallucination (AI making stuff up)?** | Low – clear questions reduce guesswork | Higher – prose invites narrative extrapolation, which could lead to inference errors |
+|                                         | Q\&A (Interview Style)                           | Traditional Prose                                                                              |
+| --------------------------------------- | ------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
+| **Works well with AI?**                 | **Yes** because it matches training data         | **Sometimes** because it depends on how it's written                                           |
+| **Character voice?**                    | Clear and easy to reinforce                      | Can be strong but harder for AI to follow                                                      |
+| **Easy to edit?**                       | **Yes** because you can just tweak one answer    | Harder because changes may ripple through the story in unforeseeable ways                      |
+| **Immersive?**                          | Functional, less atmospheric                     | Very immersive when done well                                                                  |
+| **Best for...?**                        | Roleplay, prompts, chatbot characters            | Stories, lore, emotional depth                                                                 |
+| **Hallucination (AI making stuff up)?** | **Low** because clear questions reduce guesswork | **Higher** because prose invites narrative extrapolation, which could lead to inference errors |
 
 <figure><img src="../.gitbook/assets/coffin_chaser_TWO_PEOPLE_IN_AN_INTERVIEW_camera_crew_boom_pol_7c82fc32-b527-45e8-b896-f9d8f563c0aa_1.png" alt=""><figcaption></figcaption></figure>
 
@@ -400,19 +400,19 @@ Simple, right? But wait, it gets even better when you leverage both an interview
 
 > _\[Cut to Jim-style talking head of a regular bar patron]_
 >
-> **BAR PATRON:** Oh, Erik? Yeah, he's terrifying. Just looks at you and you basically apologize for things you haven't even done yet. Once saw him break up a fight between two werewolves without even saying a word. Just... stood there. _(nervous laugh)_ But my buddy swears he saw him coming out of an art store. I think he was drunk though.
+> **BAR PATRON:** Oh, Erik? Yeah, he's terrifying. Just looks at you and you basically apologize for things you haven't even done yet. Once saw him break up a fight between two werewolves without even saying a word. Just... stood there. \*_nervous laugh\*_ But my buddy swears he saw him coming out of an art store. I think he was drunk though.
 >
 > _\[Cut to Pam-style talking head of Erik's mother, Leticia]_
 >
-> **LETICIA:** _(warm smile)_ My Erik has always been sensitive. Even as a little boy. Such a beautiful artist. Those paintings he makes? Like looking at feelings. He doesn't like me telling people that though. _(lowers voice)_ He thinks it makes him seem soft. _(normal voice)_ But a mother knows her son's heart.
+> **LETICIA:** \*_warm smile\*_ My Erik has always been sensitive. Even as a little boy. Such a beautiful artist. Those paintings he makes? Like looking at feelings. He doesn't like me telling people that though. \*_lowers voice\*_ He thinks it makes him seem soft. \*_normal voice\*_ But a mother knows her son's heart.
 >
 > _\[Michael Scott-style talking head of the bar manager]_
 >
-> **MANAGER:** Erik? Oh yeah, best employee I've got. Hasn't smiled once in five years. _(grins proudly)_ But you know what they say, still waters run deep. Or is it "beware of the quiet ones"? _(thoughtful pause)_ Either way, I'm pretty sure he could kill a man with his pinky finger, but he helps old ladies across the street on his lunch break. Don't tell him I told you that though. I value my limbs.
+> **MANAGER:** Erik? Oh yeah, best employee I've got. Hasn't smiled once in five years. \*_grins proudly\*_ But you know what they say, still waters run deep. Or is it "beware of the quiet ones"? \*_reluctant dunce pause\*_ Either way, I'm pretty sure he could kill a man with his pinky finger, but he's a big ol' softie on the inside. Don't tell him I told you that though. You guys aren't gonna show him this, right?
 >
-> _\[Final shot: Erik at his post, noticing the camera, narrowing his eyes until the camera quickly pans away]_
+> _\[Final shot: Erik at his post, noticing the camera, narrowing his eyes until the camera quickly pans towards the ground, implying that the camera crew is running away]_
 >
-> **END INTERVIEW**
+> **\[END INTERVIEW]**
 
 <figure><img src="../.gitbook/assets/coffin_chaser_TWO_PEOPLE_IN_AN_INTERVIEW_SPEECH_BUBBLES_DIALO_39f90dc6-e9b6-4563-85c0-36694980f1c9_0.png" alt=""><figcaption></figcaption></figure>
 
