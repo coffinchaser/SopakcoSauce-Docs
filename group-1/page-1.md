@@ -4,7 +4,9 @@ icon: scale-unbalanced-flip
 
 # Parameters
 
-## Stable Diffusion
+## [Stable Diffusion](https://stable-diffusion-art.com/install-windows/)
+
+<figure><img src="../.gitbook/assets/image-84-1024x381.webp" alt=""><figcaption><p>Reverse diffusion works by subtracting the predicted noise from the image successively.</p></figcaption></figure>
 
 ### **Weighting Syntax**
 
@@ -89,7 +91,9 @@ You can separate concepts using `AND` for better multi-object composition:
 
 </details>
 
-## MidJourney
+## [MidJourney](https://www.midjourney.com/)
+
+<figure><img src="../.gitbook/assets/midjourney_custom_youtube_thumbnails-1280x480.jpeg" alt=""><figcaption></figcaption></figure>
 
 In MidJourney, **weighting syntax** allows users to emphasize or de-emphasize certain elements in their image prompts. This can guide the AI on which parts of the prompt are more important or should have a greater influence on the final output.
 
