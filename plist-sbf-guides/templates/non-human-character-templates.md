@@ -21,6 +21,8 @@ If you have questions about these templates or need help, just message me in the
 
 ## Lamia & Naga
 
+<figure><img src="../../.gitbook/assets/coffin_chaser_non-human_characters_lamia_naga_half_human_half_s_766f388e-e2c5-4137-9f93-fa5a5e6c6464.png" alt=""><figcaption></figcaption></figure>
+
 Despite being grouped under the same heading, I'd like to clarify the difference between nagas and lamias so that there won't be any confusion as to which tag your character should fall under:
 
 ### Lamia vs. Naga Comparison
@@ -74,6 +76,8 @@ WEAKNESSES: temperature sensitivity, limb-based combat, social distrust]
 
 ## Merfolk
 
+<figure><img src="../../.gitbook/assets/coffin_chaser_mermaids_mermen_merfolk_blue_water_iridescent_s_a478cae6-1d8c-4c10-905c-6c62b51d396d_3.png" alt=""><figcaption></figcaption></figure>
+
 {% code overflow="wrap" %}
 ```yaml
 [NAME: (full name);  
@@ -109,6 +113,8 @@ WEAKNESSES: air exposure(limited duration?), vulnerability to fire, inability to
 {% endcode %}
 
 ## Elves
+
+<figure><img src="../../.gitbook/assets/coffin_chaser_elves_fantasy_art_realistic_lighting_cinematic__396ea277-7590-4f5b-8889-2de287173005_0.png" alt=""><figcaption></figcaption></figure>
 
 {% code overflow="wrap" %}
 ```yaml
@@ -147,6 +153,8 @@ WEAKNESSES: arrogance, frailty vs. brute force, infertility or limited reproduct
 
 ## Orcs
 
+<figure><img src="../../.gitbook/assets/coffin_chaser_orcs_fantasy_art_realistic_lighting_cinematic_l_160bbc41-b8a9-40ff-9d77-7097cd964a1f_0.png" alt=""><figcaption></figcaption></figure>
+
 {% code overflow="wrap" %}
 ```yaml
 [NAME: (full name);  
@@ -184,6 +192,8 @@ WEAKNESSES: rage blindsight, heat intolerance (for tundra-born), inflexible dipl
 
 ## Trolls
 
+<figure><img src="../../.gitbook/assets/coffin_chaser_trolls_fantasy_art_realistic_lighting_cinematic_a3496d4f-e452-4eb8-ad6f-10100893e118_3.png" alt=""><figcaption><p>Yes, I know these look more like orcs. I can't get MidJourney to give me accurate looking trolls to save my life.</p></figcaption></figure>
+
 {% code overflow="wrap" %}
 ```yaml
 [NAME: (name, often guttural or monosyllabic);  
@@ -220,6 +230,8 @@ WEAKNESSES: low intellect or cunning fixation, regeneration delay with certain d
 {% endcode %}
 
 ## Arachne
+
+<figure><img src="../../.gitbook/assets/coffin_chaser_girl_with_spider_body_arachne_spider_body_spide_ddf02e05-1625-44da-a965-294db0b10e3b_1.png" alt=""><figcaption></figcaption></figure>
 
 {% code overflow="wrap" %}
 ```yaml
