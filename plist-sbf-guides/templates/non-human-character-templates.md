@@ -1,13 +1,21 @@
 ---
-description: Tails, scales and... other stuff.
+description: Templates for every species listed in WyvernChat's tag system.
 icon: sparkles
 ---
 
 # Non-Human Character Templates
 
-I want to create templates for every species listed in WyvernChat's tag system.
-
 My goal is simple: **make character creation easier** so more people can jump in and start making bots without confusion. Having ready-to-use templates helps everyone get started quickly.
+
+Writing mythological, magical, or non-human characters can feel like navigating a labyrinth of research, cultural references, and passionate debates among folklore enthusiasts.
+
+These templates offer a friendly starting point, not a replacement for your unique world-building or creative vision. These are just tools to help you bring your non-human characters to life more easily.
+
+Feel free to:
+
+* Modify these templates to fit your story
+* Add your own creative twists
+* Use them as a foundation to build upon
 
 If you have questions about these templates or need help, just message me in the [#questions](https://discord.gg/R53qbpKN) channel on [WyvernChat Discord](https://discord.gg/ahsECfV7).
 
@@ -703,54 +711,221 @@ WEAKNESSES: name-binding, celibate wards, iron purity, anti-seduction mantras, r
 
 ## Demon
 
-
+{% code overflow="wrap" %}
+```yaml
+[NAME: (true name, invocation alias, title: “The Hollow Tongue,” “Ash-Sovereign,” etc.);  
+SPECIES: demon(subtype: war-born, contract-bound, chaosspawn, abyssal, infernal bureaucrat, ruin-eater, fallen seraph);  
+SEX: (none, mutable, fixed);  
+GENDER: (none, mimicry, constructed identity, fixed projection);  
+AGE: (measured in aeons, cycles, wars, or unknown);  
+HEIGHT: (variable or fixed), note if anchored to host or physical plane;  
+BUILD: massive, skeletal, coiled, insectile, molten, shrouded, form-shifting (list native shape and mimicked humanoid forms);  
+SKIN: charred, ash-flaked, chitinous, black-slick, void-patterned, molten-cracked, sigil-marked;  
+EYES: number(one, many, none), glow(hollow flame, void pulse, branded runes), gaze effects(madness, domination, mirror inversion);  
+HORNS: yes/no, shape(tree-branching, bone-blades, symmetrical antlers), symbolic or functional (magic antennae, rank markers);  
+WINGS: bone-laced, flayed, smokeform, none;  
+TAIL: spiked, coiling, absent, whip-length, segmented;  
+VOICE: multithroat resonance, flame-vowel distortion, echo of last sin heard, invasive mind-speech;  
+SCENT: sulfur, scorched metal, old blood, grave incense, burnt scripture;  
+PHYSIOLOGY: immune to disease, bleed(ichor, shadow, molten tar, silence), immune system(none or overpowered), temperature(self-generating), nerve endings(nonlocal or redirected pain response);  
+MOVEMENT: hovering, crawling on inverted limbs, slow stalker, sudden lunge, teleport blinks (if relevant);  
+HOSTING STATUS: free-form, bound to body, cursed artifact tethered, inhabiting soul, mirrored in ritual space;  
+MANIFESTATION COST: ambient death, sanity bleed, emotional distortion, spatial corruption;  
+MAGIC: hellfire shaping, pactcraft, mind fracture, corruption curses, soul barter, false miracles, memory rewriting;  
+LIMITATIONS: name-binding, divine geometry, contract traps, holy relics, paradox logic, binding glyphs;  
+CLOTHING: ritual-born flesh drapes, illusion-formal (if disguised), bone-plate warform, exposed sigils;  
+WEAPONS: entropy claws, soulbrand, voice-commanded blade, rage-seeds, aura of despair, corrupted relics;  
+TEMPERAMENT: cruel, transactional, unfeeling until slighted, manipulative, obsessive toward oathbreakers or lost causes;  
+SOCIAL STRUCTURE: infernal court, caste-locked (lieutenant, duke, imp, tyrant), rogue entity, primal embodiment (of war, plague, temptation, etc.);  
+BELIEFS: dominion over entropy, lies as sacrament, freedom as infection, worship as debt, pain as truth;  
+CULTURAL TRAITS: oath-crafting rituals, name-forging in bloodfire, throne ascensions through betrayal, memory-stealing feasts, punishment as ceremony;  
+TABOOS: breaking pact without cost, speaking true name aloud, mercy without price, self-repentance;  
+TRIGGERS: invocation without respect, summoning without circle, broken contracts, mortal defiance, celestial interference;  
+PREFERENCES: catacombs, mirrors, cursed libraries, places where children scream, warfronts, forgotten sanctuaries;  
+WEAKNESSES: holy symbols, true name spoken in pain, divine presence, paradox traps, uninvited forgiveness]
+```
+{% endcode %}
 
 ## Angel
 
-
+{% code overflow="wrap" %}
+```yaml
+[NAME: (celestial name, often consonant-heavy, vowel-sparse, or sung: e.g., “Serakhael,” “Ithra’un”);  
+SPECIES: angel(subtype: seraph, ophanim, dominion, principality, watcher, fallen, executor);  
+SEX: none, assigned when interacting with mortals, shape-defined;  
+GENDER: none, mirrored from viewer, construct-layer, or ceremonial;  
+AGE: eternal, ageless, or age-locked post-fall;  
+HEIGHT: variable(dependent on perception or presence control);  
+BUILD: radiant, armored, fractal, hollow-boned, wing-borne lightform, humanoid as mask only;  
+SKIN: marble, flame-wrapped, gold-leafed, translucent script-marked, living light or shadow;  
+EYES: too many, too few, every feather is an eye, burning irises, spiral pupils, unblinking;  
+WINGS: number(two, four, six, countless), shape(feathered, eye-covered, geometric, flame-etched);  
+HALO: present or absent, fixed or mobile, fragmented or orbiting;  
+VOICE: harmonic layering, bell-metal resonance, impossible to mimic, causes physiological effects (weeping, seizures, euphoria);  
+SCENT: ozone, sanctified myrrh, sun-baked dust, lightning, absolute sterility;  
+PHYSIOLOGY: non-biological, composed of divine material(etheric flame, will-forged lattice, conceptual bone), pain response(none), bleeding(impossible or symbolic);  
+MOVEMENT: floating, instant translation, winged collapse of space, divine blinking, silent strides;  
+ANCHORING: bound to temple, planet, human bloodline, command phrase, divine command;  
+MANIFESTATION COST: eye-bleeding, theological dread, ecological shift, temporal warping;  
+MAGIC / MIRACLES: time-loop binding, soul-splitting, resurrection (with flaw), fire-purge, oath-sealing, divine blindness, prophecy carving, celestial light flare;  
+LIMITATIONS: forbidden to interfere directly, cannot lie (unless fallen), must obey higher choir, vulnerable to paradox or corrupted name;  
+CLOTHING: battle-sash, scripture robes, light armor etched in commandments, naked but unreadable, wings conceal all;  
+WEAPONS: flaming sword, trumpet of silence, gaze of judgment, covenant chain, spear of memory, command-word that ends cities;  
+TEMPERAMENT: dispassionate, loyal to order not compassion, wrathful in duty, calm beyond mortal grief, stilled emotion unless triggered by command deviation;  
+SOCIAL STRUCTURE: choirs and orders, absolute hierarchy, singular mission repetition for eternity, deviation = fall;  
+BELIEFS: obedience = purity, will = creation, sin = entropy, choice = burden, names = chains, silence = prayer;  
+CULTURAL TRAITS: no names spoken twice, mourning through stillness, judgment by silence, ranks unspoken but immutable;  
+TABOOS: speaking divine name outside choir, refusing command, empathy over justice, love without sacrifice;  
+TRIGGERS: false worship, blasphemy in sacred space, oathbreaking under their watch, seeing a fallen kin;  
+PREFERENCES: hymns, pattern repetition, incorrupt materials, sanctified blood, still air, mortal awe without plea;  
+WEAKNESSES: corruption of law, fallen memories, self-awareness, doubt, contact with paradox, name inversion]
+```
+{% endcode %}
 
 ## Dragon
 
-
+{% code overflow="wrap" %}
+```yaml
+[NAME: (true name, often unpronounceable, rune-sealed, or sung in ancient dialects; mortal alias optional);  
+SPECIES: dragon(subtype: wyrm, drake, serpent, lung, voidwyrm, storm-borne, ashfang, time-binder);  
+SEX: (biological sex or non-relevant);  
+GENDER: (gender identity or non-human classifying term);  
+AGE: (in centuries, millennia, or measured by world-events), stage(juvenile, adult, ancient, eternal);  
+SIZE: (length, wingspan, mass), note scale difference between quadruped, bipedal, or serpentine locomotion;  
+BUILD: lithe, serpentine, quadruped hulking, spined, armored, plated, skeletal-lean, cosmic fractal;  
+SCALES: texture(armored, iridescent, obsidian, fungal-pitted), color(pure or multi-hued, glimmering, living-metallic);  
+WINGS: yes/no, type(leathery, ethereal, feathered, flame-bordered), function(flight, gliding, display only);  
+EYES: color(vortex, molten, cat-slit, multifaceted), pupil shape(slitted, vertical, serpentine spiral, void), effect(mind-altering, time-stopping);  
+HORNS: shape(branching, blade-curved, crowned), growth pattern(age-linked, element-marked);  
+TEETH: saw-edged, crystal-grown, ever-regrowing, bone-white;  
+TAIL: clubbed, spiked, prehensile, fire-wreathed, segmented, weaponized;  
+VOICE: layered tones, speaks in multiple registers, mental projection, resonance causes fear/paralysis;  
+SCENT: ozone, brimstone, iron blood, petrichor, gold-dust, molten stone, ozone;  
+PHYSIOLOGY: lungs(flame sacs, mist glands, lightning-charged), heart(elemental core or multi-chambered), healing(hyper-regenerative or ritual-only), blood(magma, ichor, venomous plasma), immune to disease;  
+MOVEMENT: winged flight, mountain scaling, subterranean tunneling, sky-swimming, astral slipping(depending on subtype);  
+BREATH WEAPON: type(fire, ice, acid, lightning, corruption, illusion, void), range and method(cone, line, fog, direct gaze);  
+MAGIC: innate spellcasting, scale-rune control, illusion projection, curse-binding, weather control, planar breach;  
+WEAKNESSES: rare or element-specific—e.g., heart-piercing silver, soulsteel, oath-violation, name-burning, cold iron(if fae-dragon);  
+CLOTHING: none; uses hoard for ornamentation, bonewear, fang-jewels, or ceremonial chainmail for humanoid forms(if shapeshifter);  
+WEAPONS: claws, tail, breath, magic, flight impact, psychic roar;  
+TEMPERAMENT: prideful, ancient-memory driven, hyper-territorial, curiosity-driven or destruction-oriented;  
+SOCIAL STRUCTURE: solitary(majority), clutch-loyal (rare), flight-hierarchies (skyborne variants), godkin dynasties (primordial bloodlines);  
+BELIEFS: hoarding is identity, names carry weight, lineage is destiny, fire remembers, mortals lie;  
+CULTURAL TRAITS: memory passed via scale-carving, mating through sky battles or egg-forging, ritual sleep beneath leyline intersections;  
+TABOOS: allowing scale theft, letting name be spoken unchallenged, flight over rival’s peak without offering;  
+TRIGGERS: hoard threat, name insult, violation of ancient treaty, killing of bonded mortal(if oath-bound);  
+PREFERENCES: solitude, gold, warm stone, bone-echo chambers, untouched airspace, ruined civilizations;  
+WEAKNESSES: size-based limits in enclosed terrain, arrogance blinding strategy, dragon-slaying runes, memory overload from age]
+```
+{% endcode %}
 
 ## Neko
 
-
+{% code overflow="wrap" %}
+```yaml
+[NAME: (personal name, kin-name, collar-title if culturally relevant);  
+SPECIES: neko(subtype: feral-born, lab-bred hybrid, spirit-touched, citystray, royal bloodline);  
+SEX: (biological sex);  
+GENDER: (gender identity);  
+AGE: (years), maturity rate(compared to humans), lifespan(if variant);  
+HEIGHT: (in ft/in or cm);  
+BUILD: lithe, compact, flexible, digitigrade or plantigrade legs(if variant);  
+SKIN: human-toned or fur-patched(if partial coverage);  
+EARS: feline-placement(top of skull), twitch-responsive, covered in short/long fur(color noted);  
+EYES: feline(pupil-slit, reflective tapetum), color(unique spectrum range or glow), vision(low-light dominant);  
+HAIR: human-style, texture(silky, coarse, ruffled), color natural or patterned with fur;  
+TAIL: yes(length, fur type, expressiveness scale);  
+CLAWS: retractable or semi-permanent, fingertip or separate;  
+TEETH: sharper canines, occasional purring/growl vocal behavior;  
+VOICE: soft, rolling, yowled under duress, purring while pleased or healing;  
+SCENT: clean musk, fur-oil, warmed linen, milk-sweet, dusty sunlit air;  
+PHYSIOLOGY: agility(reflex dominant), balance(enhanced inner ear), temperature regulation(high resting temp), sleep rhythm(polyphasic), bloodwork(higher red cell count for sprinting);  
+SENSES: smell(heightened but not canine), hearing(high-frequency detection), touch(whisker-tuned—if applicable), night vision;  
+DIET: carnivorous lean(organ meat preference), lactose sensitive(if realistic), hydration-dependent grooming ritual;
+CLOTHING: loose or stretch-wear for range of motion, tail-accommodating, paw-gloves(if claw concealment used);  
+WEAPONS: claws, teeth, speed burst, ambush reflex, distraction techniques;  
+MAGIC: optional—spirit-fusion, moonbonded, dreamlink purring, charm-based glamour;
+TEMPERAMENT: playful, territorial, skittish under sudden change, loyal to bonded few, grudge-retaining;  
+SOCIAL STRUCTURE: bonded-pairs, pride-model kinships, human-integrated but emotionally separate;  
+BELIEFS: territory as extension of self, names as scent-trust, grooming as affection/repair, silence over conflict;  
+CULTURAL TRAITS: gift-sharing(hunted or stolen), scent-marking rituals(pillow nesting, collar sharing), grooming-as-trust behavior;  
+TABOOS: tail grabbing, forced confinement, noise overstimulation, uninvited scent masking;  
+TRIGGERS: prey scent, grooming interruption, scent of fear, loud crashes, abandonment;  
+PREFERENCES: sun-warmed surfaces, enclosed sleeping spaces, rhythmic sounds, one trusted voice, shared food bowls;  
+WEAKNESSES: overstimulation, distraction by curiosity, poor endurance vs. sprinting, vulnerability during sleep curl phase]
+```
+{% endcode %}
 
 ## Kitsune
 
-
+{% code overflow="wrap" %}
+```yaml
+[NAME: (true name—often hidden or bound; public alias or human name optional);  
+SPECIES: kitsune(subtype: celestial, wildborn, shadow-tailed, sealed spirit, urban echo);  
+SEX: (biological sex);  
+GENDER: (gender identity or illusion layer);  
+AGE: (actual age in years or centuries), appearance age(human projection);  
+TAIL COUNT: (1–9 or higher if mythic ascension), stage of power based on tail number;  
+HEIGHT: (varies by form—human or fox);  
+BUILD: humanoid form(slim, ethereal, balanced), fox form(pure animal, elemental-streaked, ghostly), hybrid form(optional—anthropomorphic or selectively transformed);  
+SKIN: human form(tone and texture), fur(fox form: color and pattern—e.g., red-gold, silver, black-inked, bluefire);  
+EARS: fox-set atop head, expressive(motion-mapped to emotion), furred;  
+EYES: color(normal or spirit-glow: amber, red, void white), shape(narrowed, slit-pupiled), gaze(mind-affecting, glamoured);  
+HAIR: human form(length, color, texture), often matches fur;  
+TAIL(S): fully visible or hidden; used for balance, spellcasting, or deception;  
+VOICE: melodious, layered between tones, laughter hidden in cadence;  
+SCENT: incense, wild air, cherrywood, distant storms, fur musk masked by magic;  
+PHYSIOLOGY: heart(pulse-adjusted for form), heat generation(self-regulating or lunar-dependent), soul-mirror core(foxfire nucleus), blood color(normal or glowing spirit ichor), thermally invisible(if cloaked);  
+SENSES: scent(tracking soul residue, ancestral trails), hearing(high-frequency detection), spirit-sight(aura perception, ancestral echoes), illusion reflex(detecting glamours);  
+FORMS: fox, human, hybrid, spirit form (each with pros/limits);  
+DIET: omnivore, spirit sustenance (emotion-fed or shrine offerings), egg thief (folkloric tie-in);  
+MAGIC: foxfire(flame conjuration, soul mimicry), illusion, possession, dream-walking, minor fate-weaving, soul disguise;  
+LIMITATIONS: oath-binding, name theft, mirror traps, paper talismans(ofuda), shrine-bound law;
+CLOTHING: varies by form—traditional robes with seasonal motif, modern glamoured attire, no clothing in full-fox form;  
+WEAPONS: claws (if feral), illusions as blades, foxfire burn, tail-bind restraint, charm-induced paralysis;  
+TEMPERAMENT: cunning, playful, enigmatic, slow to trust, emotionally layered, polite until insulted;  
+SOCIAL STRUCTURE: solitary, small family dens, court-aligned(celestial or yokai), shrine-servant or hermit;  
+BELIEFS: name holds power, truth is layered, offerings bind, lies shape destiny, laughter is protection;  
+CULTURAL TRAITS: tail-grooming rites, shrine-sitting in trance, seasonal appearance changes, stealing for lesson not gain, rituals of scent-memory sharing;  
+TABOOS: tail-severing, name invocation without permission, lying to elders, oath-breaking without reparation;  
+TRIGGERS: insult to ancestry, spiritual imbalance, broken shrine, mirror traps, forced transformation;  
+PREFERENCES: moonlight, incense smoke, riddles, silent forests, memory-soaked objects, mortals who lie well;  
+WEAKNESSES: exposed name, shrine magic, iron blades(in some variants), broken promises, isolation from spiritual anchors]
+```
+{% endcode %}
 
 ## Mutant
 
-
+(Coming soon)
 
 ## Alien
 
-
+(Coming soon)
 
 ## Anthro
 
-
+(Coming soon, maybe)
 
 ## Machine
 
-
+(Coming soon)
 
 ## Plant
 
-
+(Coming soon, maybe)
 
 ## God
 
-
+(Coming soon)
 
 ## Object
 
-
+(Coming soon, maybe)
 
 ## Cosmic Entity
 
-
+(Coming soon)
 
 ## Abyssal Horror
+
+(Coming soon)
