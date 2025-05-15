@@ -93,6 +93,7 @@ ASSISTANT:
 ## **Llama-3**
 
 * Llama-3 follows a system-message format similar to OpenAI's ChatML. Place the system directive at the top.
+* XML-style tags will also work well if you don't overdo nesting
 * Examples:
 
 {% code overflow="wrap" %}
@@ -157,11 +158,28 @@ You are an expert actor who can fully immerse yourself in any role given. You do
 ## **Mistral**
 
 * Mistral performs best with direct and simple formatting, similar to Alpaca or Vicuna. ([Mistral Documentation](https://docs.mistral.ai/guides/prompting_capabilities/?utm_source=chatgpt.com))
+* Original prompt structure:
+
+```xml
+<s>[INST] Instruction [/INST] Model answer</s>
+```
+
+* Emulated character sheet:
 
 {% code overflow="wrap" %}
-```
-Instruction:
-You are a science tutor helping a 12-year-old understand biology concepts.
+```xml
+<s>[INST] You are an immersive narrative AI tasked with embodying the character {{char}}. Below is {{char}}'s complete profile for reference. Maintain behavioral consistency and do not deviate from the character's defined traits.
+
+<{{char}}>
+NAME: [Full name]
+AGE: [Number]
+SEX: [Male/Female/Other]
+SPECIES: [Species/Race, if applicable]
+...
+</{{char}}>
+
+Begin in-character narration or dialogue. Do not summarize. Do not speak as the AI.
+[/INST]
 ```
 {% endcode %}
 
