@@ -861,6 +861,8 @@ WEAKNESSES: size-based limits in enclosed terrain, arrogance blinding strategy, 
 
 ## Neko
 
+<figure><img src="../../.gitbook/assets/coffin_chaser_neko_catgirl_fantasy_art_realistic_lighting_cin_cc661aa2-8bc0-4309-8f7b-fdc6c8be0674_0.png" alt=""><figcaption><p>Not your traditional neko but this one is the most striking and unique out of the gens I made. We all have to live with such deep disappointments and our best-to-second attempts.</p></figcaption></figure>
+
 {% code overflow="wrap" %}
 ```yaml
 [NAME: (personal name, kin-name, collar-title if culturally relevant);  
