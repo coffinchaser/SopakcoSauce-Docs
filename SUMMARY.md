@@ -5,12 +5,12 @@
 ## PList/SBF Guides
 
 * [What's a PList/SBF](plist-sbf-guides/whats-a-plist-sbf.md)
-* [Core Concepts](plist-sbf-guides/core-concepts.md)
 * [PList/SBF vs. Natural Language](plist-sbf-guides/plist-sbf-vs.-natural-language.md)
-* [Templates](plist-sbf-guides/templates/README.md)
-  * [Non-Human Character Templates](plist-sbf-guides/templates/non-human-character-templates.md)
+* [Core Concepts](plist-sbf-guides/core-concepts.md)
 * [Categories](plist-sbf-guides/category-system.md)
 * [Traits & Descriptors](plist-sbf-guides/traits-and-descriptors.md)
+* [Templates](plist-sbf-guides/templates/README.md)
+  * [Non-Human Character Templates](plist-sbf-guides/templates/non-human-character-templates.md)
 * [Character Definition](plist-sbf-guides/templates-1.md)
 * [Scenario](plist-sbf-guides/scenario.md)
 * [Overemphasized Traits](plist-sbf-guides/overemphasized-traits.md)

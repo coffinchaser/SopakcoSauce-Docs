@@ -48,19 +48,19 @@ Tight budget ≠ boring characters. Here's how to ensure character complexity wh
 
 1. **Mix Traits and Trauma**\
    Show their mask and their damage in one shot:\
-   `- Personality: determined(masks anxiety, goal-focused), warm(guards vulnerability);`
+   `Personality: determined(masks anxiety, goal-focused), warm(guards vulnerability);`
 2. **Imply, Don’t Over-Explain**\
    Less is more. Forget long-winded backstories:\
-   `- Personality: compassionate(carries burdens, tries to hide stress);`
+   `Personality: compassionate(carries burdens, tries to hide stress);`
 3. **Skip the Boring Stuff**\
    Only focus on categories where the drama is real: \
-   \- `Personality, Flaws, Dynamic With {{user}}.`
+   `Personality, Flaws, Dynamic With {{user}}.`
 4. **Let Their Habits Spill Secrets**\
    Use quirks to reveal baggage:\
-   `- Quirks: fiddles with wedding ring(nervous habit, reminds of loss);`
+   `Quirks: fiddles with wedding ring(nervous habit, reminds of loss);`
 5. **Go for One-Word Punches**\
    Say it all in one word when possible:\
-   `- Flaws: wary(carries scars, reluctant to trust);`
+   `Flaws: wary(carries scars, reluctant to trust);`
 6. **Pack Relationship Drama into One Line** \
    Use <mark style="color:red;">`Dynamic With {{user}}`</mark> to bring on the angst.\
    `Dynamic With {{user}}: mentor(cares, but emotionally stunted);`
