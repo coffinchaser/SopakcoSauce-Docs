@@ -56,3 +56,5 @@ Depends on which LLM you're using, but we'll stick to the general principle of "
 ### TL;DR
 
 Long descriptors risk being ignored. LLMs filter out complex or excessive information as processing noise.
+
+<sub>2024 by SopakcoSauce. Except as otherwise noted, the content of this page is licensed under</sub> [<sub>CC BY-NC-SA 4.0</sub>](https://creativecommons.org/licenses/by-nc-sa/4.0/)

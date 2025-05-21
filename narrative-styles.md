@@ -114,3 +114,5 @@ You are a narrative AI tasked with creating an immersive, third-person roleplay 
 > <mark style="background-color:purple;">CHAR2:</mark> Same here. Let’s go before \{{user\}} shows up and steals all the good pastries.
 >
 > <mark style="background-color:green;">CHAR3:</mark> <mark style="color:orange;">\*laughs\*</mark> Now that’s something \{{user\}} would totally do.
+
+<sub>2024 by SopakcoSauce. Except as otherwise noted, the content of this page is licensed under</sub> [<sub>CC BY-NC-SA 4.0</sub>](https://creativecommons.org/licenses/by-nc-sa/4.0/)

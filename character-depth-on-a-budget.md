@@ -86,3 +86,4 @@ Tight budget ≠ boring characters. Here's how to ensure character complexity wh
    Use <mark style="color:red;">`Dynamic With {{user}}`</mark> to bring on the angst.\
    `Dynamic With {{user}}: mentor(cares, but emotionally stunted);`
 
+<sub>2024 by SopakcoSauce. Except as otherwise noted, the content of this page is licensed under</sub> [<sub>CC BY-NC-SA 4.0</sub>](https://creativecommons.org/licenses/by-nc-sa/4.0/)

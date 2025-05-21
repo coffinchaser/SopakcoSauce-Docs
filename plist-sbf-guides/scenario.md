@@ -122,3 +122,5 @@ Language: cityspeak(mix of multiple languages), street slang;
 Entertainment: AI companions(holographic), virtual reality(escape);
 Economy: corporate scrip(Wallace dominance), black market(real food, animals)]
 </code></pre>
+
+<sub>2024 by SopakcoSauce. Except as otherwise noted, the content of this page is licensed under</sub> [<sub>CC BY-NC-SA 4.0</sub>](https://creativecommons.org/licenses/by-nc-sa/4.0/)

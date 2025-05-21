@@ -1512,3 +1512,5 @@ WEAKNESSES: paradox, mirrored thought loops, pure emotional resonance, recursive
 * `MANIFESTATION RESULT:` extinction radius, suicidal ideation in proximity, anti-faith zones, dreams infected with black geometry
 * `AVATAR FUNCTION:` prophet-consuming mimic, skin puppet, god-eating shadow, thought-flesh leviathan
 * `RESTRAINT METHOD:` chained to belief system, sealed by species extinction, entombed in negative space, memory-cursed
+
+<sub>2024 by SopakcoSauce. Except as otherwise noted, the content of this page is licensed under</sub> [<sub>CC BY-NC-SA 4.0</sub>](https://creativecommons.org/licenses/by-nc-sa/4.0/)

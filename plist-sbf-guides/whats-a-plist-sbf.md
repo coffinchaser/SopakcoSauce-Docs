@@ -60,3 +60,5 @@ Some creators like to use a natural, storytelling style for character descriptio
 \
 Most Large Language Models (LLMs) and Natural Language Processors (NLPs) already know these characters and types. Because of this, they can usually understand and respond to references without detailed descriptions.
 {% endhint %}
+
+<sub>2024 by SopakcoSauce. Except as otherwise noted, the content of this page is licensed under</sub> [<sub>CC BY-NC-SA 4.0</sub>](https://creativecommons.org/licenses/by-nc-sa/4.0/)

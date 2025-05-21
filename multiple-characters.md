@@ -210,3 +210,5 @@ Char4: role(specialty, position), age, species(traits, abilities), position(resp
   * Key dynamics: 35 tokens
   * Deep traits: 50 tokens
   * Behavioral patterns: 30 tokens
+
+<sub>2024 by SopakcoSauce. Except as otherwise noted, the content of this page is licensed under</sub> [<sub>CC BY-NC-SA 4.0</sub>](https://creativecommons.org/licenses/by-nc-sa/4.0/)

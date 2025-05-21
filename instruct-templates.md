@@ -241,3 +241,7 @@ You are a customer service agent for XYZ Company. Always provide professional, e
 * [Virt-io/SillyTavern-Presets](https://huggingface.co/Virt-io/SillyTavern-Presets/tree/main)
 * [Prompt Engineering Guide](https://www.promptingguide.ai/)
 * [Chat Templates from Unsloth Documentation](https://docs.unsloth.ai/basics/chat-templates)
+
+***
+
+<sub>2024 by SopakcoSauce. Except as otherwise noted, the content of this page is licensed under</sub> [<sub>CC BY-NC-SA 4.0</sub>](https://creativecommons.org/licenses/by-nc-sa/4.0/)

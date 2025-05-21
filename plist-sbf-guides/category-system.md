@@ -153,3 +153,5 @@ Avoid human defaulting by embedding non-human logic and ethics.
 | Magical Biology              | innate spellcasting, mana glands, aura perception |
 | Transformation/Shapeshifting | full or partial, limitations, triggers            |
 | Psychic Abilities            | telepathy, mind-control, shared dreams            |
+
+<sub>2024 by SopakcoSauce. Except as otherwise noted, the content of this page is licensed under</sub> [<sub>CC BY-NC-SA 4.0</sub>](https://creativecommons.org/licenses/by-nc-sa/4.0/)

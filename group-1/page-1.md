@@ -199,3 +199,5 @@ The text elements are emphasized more than the image input due to the reduced `-
 * **Experimentation:** Test different weights to fine-tune output.
 {% endtab %}
 {% endtabs %}
+
+<sub>2024 by SopakcoSauce. Except as otherwise noted, the content of this page is licensed under</sub> [<sub>CC BY-NC-SA 4.0</sub>](https://creativecommons.org/licenses/by-nc-sa/4.0/)
