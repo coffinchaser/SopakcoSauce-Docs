@@ -520,4 +520,5 @@ Both can work together or separately to help the LLM make better word choices, b
 * If something doesn't make sense, try changing one setting at a time
 * Keep track of what changes you make
 
-<sub>2024 by SopakcoSauce. Except as otherwise noted, the content of this page is licensed under</sub> [<sub>CC BY-NC-SA 4.0</sub>](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+![](.gitbook/assets/by-nc-sa.svg)\
+<sub>© 2024 by SopakcoSauce. Except as otherwise noted, the content of this page is licensed under</sub> [<sub>CC BY-NC-SA 4.0</sub>](https://creativecommons.org/licenses/by-nc-sa/4.0/)&#x20;

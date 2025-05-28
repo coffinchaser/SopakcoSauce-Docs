@@ -155,4 +155,5 @@ rendering errors, clipping, z-fighting, broken perspective, bad shadows, incorre
 Negative prompts' effectiveness can vary between models and LoRAs. Experiment to find what works best for your specific use case.
 {% endhint %}
 
-<sub>2024 by SopakcoSauce. Except as otherwise noted, the content of this page is licensed under</sub> [<sub>CC BY-NC-SA 4.0</sub>](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+![](.gitbook/assets/by-nc-sa.svg)\
+<sub>© 2024 by SopakcoSauce. Except as otherwise noted, the content of this page is licensed under</sub> [<sub>CC BY-NC-SA 4.0</sub>](https://creativecommons.org/licenses/by-nc-sa/4.0/)&#x20;

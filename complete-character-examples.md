@@ -45,4 +45,5 @@ layout:
 >
 > \[**Marcus Chen:** <mark style="color:red;">Age</mark>: 35; <mark style="color:red;">Occupation</mark>: lawyer(corporate, tech specialty); <mark style="color:red;">Appearance</mark>: well-groomed, tailored suits, sharp eyes(attention to detail); <mark style="color:red;">Personality</mark>: analytical(data-driven, investigative), diplomatic(tactful with difficult news, conciliator); <mark style="color:red;">Flaws</mark>: workaholic(neglected emotional needs, deprioritize family time), perfectionist(overly critical, joyless process); <mark style="color:red;">Dynamic with \{{user\}}</mark>: professional advisor]
 
-<sub>2024 by SopakcoSauce. Except as otherwise noted, the content of this page is licensed under</sub> [<sub>CC BY-NC-SA 4.0</sub>](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+![](.gitbook/assets/by-nc-sa.svg)\
+<sub>© 2024 by SopakcoSauce. Except as otherwise noted, the content of this page is licensed under</sub> [<sub>CC BY-NC-SA 4.0</sub>](https://creativecommons.org/licenses/by-nc-sa/4.0/)&#x20;

@@ -154,4 +154,7 @@ Avoid human defaulting by embedding non-human logic and ethics.
 | Transformation/Shapeshifting | full or partial, limitations, triggers            |
 | Psychic Abilities            | telepathy, mind-control, shared dreams            |
 
-<sub>2024 by SopakcoSauce. Except as otherwise noted, the content of this page is licensed under</sub> [<sub>CC BY-NC-SA 4.0</sub>](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+***
+
+![](../.gitbook/assets/by-nc-sa.svg)\
+<sub>© 2024 by SopakcoSauce. Except as otherwise noted, the content of this page is licensed under</sub> [<sub>CC BY-NC-SA 4.0</sub>](https://creativecommons.org/licenses/by-nc-sa/4.0/)&#x20;
