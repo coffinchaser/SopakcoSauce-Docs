@@ -122,5 +122,7 @@ Leader: Alex(de facto, assumed role);
 * Mixed information
 * Unclear boundaries
 
+***
+
 ![](.gitbook/assets/by-nc-sa.svg)\
 <sub>© 2024 by SopakcoSauce. Except as otherwise noted, the content of this page is licensed under</sub> [<sub>CC BY-NC-SA 4.0</sub>](https://creativecommons.org/licenses/by-nc-sa/4.0/)&#x20;

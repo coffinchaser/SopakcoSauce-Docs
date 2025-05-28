@@ -66,5 +66,7 @@ Mechanics: changes(social needs, tasks), base role(neutral, Per1);
 Other: signs(speech, manner), knowledge(shared all roles)
 </code></pre>
 
+***
+
 ![](.gitbook/assets/by-nc-sa.svg)\
 <sub>© 2024 by SopakcoSauce. Except as otherwise noted, the content of this page is licensed under</sub> [<sub>CC BY-NC-SA 4.0</sub>](https://creativecommons.org/licenses/by-nc-sa/4.0/)&#x20;
